@@ -6350,34 +6350,6 @@ END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:20261028T084918Z
 DTSTAMP:20261028T084918Z
-LOCATION:Villa Park\, Birmingham
-X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
-DTSTART:20261031T200000Z
-DTEND:20261031T220000Z
-SUMMARY:⚽️ Aston Villa v Fulham
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35075954aa8848ab04b9ec
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League Matchweek 9 | Watch live on UK - Sky Sports. Lis
- ten live on TalkSport | #VILFUL\n\nWatch Live\nhttps://premlge.co/f/2wJqq1/
- 3NSJK\n\nMatchday Live\nhttps://premlge.co/f/2gRWXd/3NSJK\n\nShop Official 
- Aston Villa Merchandise\nhttps://premlge.co/f/2qrY3w/3NSJK\n\nDownload the 
- Aston Villa App\nhttps://premlge.co/f/2qCvTd/3NSJK\n\nShop Official Fulham 
- Merchandise\nhttps://premlge.co/f/2qrY3B/3NSJK\n\nDownload the Fulham App\n
- https://premlge.co/f/2qrY3F/3NSJK\n\nManage my ECAL\nhttps://premlge.co/f/2
- gRWXR/3NSJK\n\n
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:20261028T084918Z
-DTSTAMP:20261028T084918Z
 LOCATION:Old Trafford\, Manchester
 X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
 DTSTART:20261205T150000Z
@@ -9862,6 +9834,38 @@ DESCRIPTION:Premier League Matchweek 9 | Follow the game on Matchday Live |
  XL/3NSJK\n\nLatest Leeds United News\nhttps://premlge.co/f/2qTNXR/3NSJK\n\n
  Leeds United on X\nhttps://premlge.co/f/2nB7H1/3NSJK\n\nManage my ECAL\nhtt
  ps://premlge.co/f/2gRWYC/3NSJK\n\n
+X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Villa Park\, Birmingham
+X-ECAL-SCHEDULE:
+DTSTART:20261031T200000Z
+DTEND:20261031T220000Z
+SUMMARY:🆚⚽️ Aston Villa v Fulham
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35075954aa8848ab04b9ec
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League Matchweek 9 | Watch live on UK - Sky Sports. Lis
+ ten live on TalkSport | #VILFUL\n\n🆚 Aston Villa have won eight of their
+  last ten Premier League meetings with Fulham\, establishing a strong recor
+ d in this fixture before Fulham's 1-0 victory in April 2026.\n\nDive into t
+ he latest news\, press conferences and the final injury updates.\n\nMatch P
+ review and Lineups\nhttps://premlge.co/f/2gRWXd/3NSJK\n\nLatest Premier Lea
+ gue News\nhttps://premlge.co/f/2x42xw/3NSJK\n\nLatest Aston Villa News\nhtt
+ ps://premlge.co/f/2qTRhq/3NSJK\n\nAston Villa on X\nhttps://premlge.co/f/2g
+ RWXk/3NSJK\n\nLatest Fulham News\nhttps://premlge.co/f/2qTRhy/3NSJK\n\nFulh
+ am on X\nhttps://premlge.co/f/2gRWXt/3NSJK\n\nManage my ECAL\nhttps://preml
+ ge.co/f/2gRWXR/3NSJK\n\n
 X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
 BEGIN:VALARM
 TRIGGER:-PT15M

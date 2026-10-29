@@ -10132,138 +10132,6 @@ END:VCALENDAR
 BEGIN:VEVENT
 LAST-MODIFIED:20261028T084919Z
 DTSTAMP:20261028T084919Z
-LOCATION:Anfield\, Liverpool
-X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
-DTSTART:20261101T163000Z
-DTEND:20261101T183000Z
-SUMMARY:🔴⚽️ Liverpool vs Arsenal
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35078654aa884dc433f8bf
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League | Watch live on UK - Sky Sports | BBC Radio 5 Li
- ve | Join in: #LIVARS \n\nShow your colours\, shop official Liverpool merch
- andise online. Worldwide shipping available. Shop now!\n\nMatch Centre\nhtt
- ps://ecal.ai/f/2gSMJy/3NSJD\n\nAll Red Video\nhttps://ecal.ai/f/2gSMK3/3NSJ
- D\n\nAll Red Membership\nhttps://ecal.ai/f/2gSMKy/3NSJD\n\nLFC Shop\nhttps:
- //ecal.ai/f/2gSMLg/3NSJD\n\nFacebook\nhttps://ecal.ai/f/2gSMMk/3NSJD\n\nX\n
- https://ecal.ai/f/2gSMMJ/3NSJD\n\nInstagram\nhttps://ecal.ai/f/2gSMNz/3NSJD
- \n\nManage my ECAL\nhttps://ecal.ai/f/2gSMQz/3NSJD\n\n
-BEGIN:VALARM
-TRIGGER:-P1DT
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT1H
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:20261028T084919Z
-DTSTAMP:20261028T084919Z
-LOCATION:Gtech Community Stadium\, Brentford
-X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
-DTSTART:20261017T140000Z
-DTEND:20261017T160000Z
-SUMMARY:🔴⚽️ Brentford vs Liverpool
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35078654aa884dc433f8bd
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League | Listen live on BBC Radio 5 Live | Join in: #BR
- ELIV \n\nGET CLOSER TO LFC. Register to access exclusive video content\, en
- ter competitions\, and receive the official newsletter.\n\nMatch Centre\nht
- tps://ecal.ai/f/2gSMqk/3NSJD\n\nAll Red Video\nhttps://ecal.ai/f/2gSMqY/3NS
- JD\n\nAll Red Membership\nhttps://ecal.ai/f/2gSMrJ/3NSJD\n\nLFC Shop\nhttps
- ://ecal.ai/f/2gSMsh/3NSJD\n\nFacebook\nhttps://ecal.ai/f/2gSMt8/3NSJD\n\nX\
- nhttps://ecal.ai/f/2gSMtL/3NSJD\n\nInstagram\nhttps://ecal.ai/f/2gSMvj/3NSJ
- D\n\nManage my ECAL\nhttps://ecal.ai/f/2gSMxf/3NSJD\n\n
-BEGIN:VALARM
-TRIGGER:-P1DT
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT1H
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:20261028T084919Z
-DTSTAMP:20261028T084919Z
-LOCATION:Anfield\, Liverpool
-X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
-DTSTART:20261219T173000Z
-DTEND:20261219T193000Z
-SUMMARY:🔴⚽️ Liverpool vs Tottenham Hotspur
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35078654aa8848ab04bf14
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League | Watch live on UK - Sky Sports | Join in: #LIVT
- OT \n\nShow your colours\, shop official Liverpool merchandise online. Worl
- dwide shipping available. Shop now!\n\nMatch Centre\nhttps://ecal.ai/f/2gSN
- QW/3NSJD\n\nAll Red Video\nhttps://ecal.ai/f/2gSNRJ/3NSJD\n\nAll Red Member
- ship\nhttps://ecal.ai/f/2gSNSb/3NSJD\n\nLFC Shop\nhttps://ecal.ai/f/2gSNSW/
- 3NSJD\n\nFacebook\nhttps://ecal.ai/f/2gSNVk/3NSJD\n\nX\nhttps://ecal.ai/f/2
- gSNVW/3NSJD\n\nInstagram\nhttps://ecal.ai/f/2gSNWN/3NSJD\n\nManage my ECAL\
- nhttps://ecal.ai/f/2gSNZD/3NSJD\n\n
-BEGIN:VALARM
-TRIGGER:-P1DT
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT1H
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:20261028T084919Z
-DTSTAMP:20261028T084919Z
-LOCATION:Anfield\, Liverpool
-X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
-DTSTART:20261020T190000Z
-DTEND:20261020T210000Z
-SUMMARY:🔴⚽️ Liverpool vs Villarreal
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a92eb6c54aa88a21311f209
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:UEFA Champions League | Follow the live action on the Liverpool
-  website or App | Join in: @LFC \n\nShow your colours\, shop official Liver
- pool merchandise online. Worldwide shipping available. Shop now!\n\nMatch C
- entre\nhttps://ecal.ai/f/2qX1sm/3NSJD\n\nAll Red Video\nhttps://ecal.ai/f/2
- qX1sx/3NSJD\n\nAll Red Membership\nhttps://ecal.ai/f/2qX1sZ/3NSJD\n\nLFC Sh
- op\nhttps://ecal.ai/f/2qX1tq/3NSJD\n\nFacebook\nhttps://ecal.ai/f/2qX1v7/3N
- SJD\n\nX\nhttps://ecal.ai/f/2qX1vt/3NSJD\n\nInstagram\nhttps://ecal.ai/f/2q
- X1vR/3NSJD\n\nManage my ECAL\nhttps://ecal.ai/f/2qX1wV/3NSJD\n\n
-BEGIN:VALARM
-TRIGGER:-P1DT
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT1H
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:20261028T084919Z
-DTSTAMP:20261028T084919Z
 LOCATION:Raiffeisen Arena\, Linz
 X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
 DTSTART:20261014T164500Z
@@ -10284,1176 +10152,6 @@ DESCRIPTION:UEFA Champions League | Follow the live action on the Liverpool
  cal.ai/f/2qX1q5/3NSJD\n\nX\nhttps://ecal.ai/f/2qX1qp/3NSJD\n\nInstagram\nht
  tps://ecal.ai/f/2qX1qN/3NSJD\n\nManage my ECAL\nhttps://ecal.ai/f/2qX1rS/3N
  SJD\n\n
-BEGIN:VALARM
-TRIGGER:-P1DT
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT1H
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:20261028T084919Z
-DTSTAMP:20261028T084919Z
-LOCATION:Anfield\, Liverpool
-X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
-DTSTART:20261122T163000Z
-DTEND:20261122T183000Z
-SUMMARY:🔴⚽️ Liverpool vs Manchester United
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35078654aa8848ab04bf0f
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League | Watch live on UK - Sky Sports | Join in: #LIVM
- UN \n\nShow your colours\, shop official Liverpool merchandise online. Worl
- dwide shipping available. Shop now!\n\nMatch Centre\nhttps://ecal.ai/f/2gSN
- 2Z/3NSJD\n\nAll Red Video\nhttps://ecal.ai/f/2gSN3B/3NSJD\n\nAll Red Member
- ship\nhttps://ecal.ai/f/2gSN4h/3NSJD\n\nLFC Shop\nhttps://ecal.ai/f/2gSN4T/
- 3NSJD\n\nFacebook\nhttps://ecal.ai/f/2gSN6m/3NSJD\n\nX\nhttps://ecal.ai/f/2
- gSN6P/3NSJD\n\nInstagram\nhttps://ecal.ai/f/2gSN7r/3NSJD\n\nManage my ECAL\
- nhttps://ecal.ai/f/2gSN9p/3NSJD\n\n
-BEGIN:VALARM
-TRIGGER:-P1DT
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT1H
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:20261028T084919Z
-DTSTAMP:20261028T084919Z
-LOCATION:Hill Dickinson Stadium\, Liverpool
-X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
-DTSTART:20261129T120000Z
-DTEND:20261129T140000Z
-SUMMARY:🔴⚽️ Everton vs Liverpool
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35078654aa884dc433f8c2
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League | Watch live on UK - TNT Sports | Join in: #EVEL
- IV \n\nGET CLOSER TO LFC. Register to access exclusive video content\, ente
- r competitions\, and receive the official newsletter.\n\nMatch Centre\nhttp
- s://ecal.ai/f/2gSNbJ/3NSJD\n\nAll Red Video\nhttps://ecal.ai/f/2gSNcb/3NSJD
- \n\nAll Red Membership\nhttps://ecal.ai/f/2gSNcV/3NSJD\n\nLFC Shop\nhttps:/
- /ecal.ai/f/2gSNdv/3NSJD\n\nFacebook\nhttps://ecal.ai/f/2gSNfp/3NSJD\n\nX\nh
- ttps://ecal.ai/f/2gSNfV/3NSJD\n\nInstagram\nhttps://ecal.ai/f/2gSNgw/3NSJD\
- n\nManage my ECAL\nhttps://ecal.ai/f/2gSNjn/3NSJD\n\n
-BEGIN:VALARM
-TRIGGER:-P1DT
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT1H
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:20261028T084919Z
-DTSTAMP:20261028T084919Z
-LOCATION:Stamford Bridge\, London
-X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
-DTSTART:20261205T123000Z
-DTEND:20261205T143000Z
-SUMMARY:🔴⚽️ Chelsea vs Liverpool
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35078654aa8848ab04bf12
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League | Watch live on UK - TNT Sports | Join in: #CHEL
- IV \n\nGET CLOSER TO LFC. Register to access exclusive video content\, ente
- r competitions\, and receive the official newsletter.\n\nMatch Centre\nhttp
- s://ecal.ai/f/2gSNtR/3NSJD\n\nAll Red Video\nhttps://ecal.ai/f/2gSNvN/3NSJD
- \n\nAll Red Membership\nhttps://ecal.ai/f/2gSNwC/3NSJD\n\nLFC Shop\nhttps:/
- /ecal.ai/f/2gSNxj/3NSJD\n\nFacebook\nhttps://ecal.ai/f/2gSNyn/3NSJD\n\nX\nh
- ttps://ecal.ai/f/2gSNzh/3NSJD\n\nInstagram\nhttps://ecal.ai/f/2gSNzY/3NSJD\
- n\nManage my ECAL\nhttps://ecal.ai/f/2gSNDG/3NSJD\n\n
-BEGIN:VALARM
-TRIGGER:-P1DT
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT1H
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:20261028T084919Z
-DTSTAMP:20261028T084919Z
-LOCATION:Anfield\, Liverpool
-X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
-DTSTART:20261202T193000Z
-DTEND:20261202T213000Z
-SUMMARY:🔴⚽️ Liverpool vs Sunderland
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35078654aa8848ab04bf11
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League | Watch live on UK - Sky Sports | Join in: #LIVS
- UN \n\nShow your colours\, shop official Liverpool merchandise online. Worl
- dwide shipping available. Shop now!\n\nMatch Centre\nhttps://ecal.ai/f/2gSN
- kG/3NSJD\n\nAll Red Video\nhttps://ecal.ai/f/2gSNlg/3NSJD\n\nAll Red Member
- ship\nhttps://ecal.ai/f/2gSNm1/3NSJD\n\nLFC Shop\nhttps://ecal.ai/f/2gSNmW/
- 3NSJD\n\nFacebook\nhttps://ecal.ai/f/2gSNnY/3NSJD\n\nX\nhttps://ecal.ai/f/2
- gSNpC/3NSJD\n\nInstagram\nhttps://ecal.ai/f/2gSNqj/3NSJD\n\nManage my ECAL\
- nhttps://ecal.ai/f/2gSNsv/3NSJD\n\n
-BEGIN:VALARM
-TRIGGER:-P1DT
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT1H
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:20261028T084919Z
-DTSTAMP:20261028T084919Z
-LOCATION:Anfield\, Liverpool
-X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
-DTSTART:20261025T140000Z
-DTEND:20261025T160000Z
-SUMMARY:🔴⚽️ Liverpool vs Brighton and Hove Albion
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35078654aa884dc433f8be
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League | Watch live on UK - Sky Sports | BBC Radio 5 Li
- ve | Join in: #LIVBHA \n\nShow your colours\, shop official Liverpool merch
- andise online. Worldwide shipping available. Shop now!\n\nMatch Centre\nhtt
- ps://ecal.ai/f/2gSMyq/3NSJD\n\nAll Red Video\nhttps://ecal.ai/f/2gSMyW/3NSJ
- D\n\nAll Red Membership\nhttps://ecal.ai/f/2gSMzm/3NSJD\n\nLFC Shop\nhttps:
- //ecal.ai/f/2gSMzZ/3NSJD\n\nFacebook\nhttps://ecal.ai/f/2gSMDd/3NSJD\n\nX\n
- https://ecal.ai/f/2gSMDR/3NSJD\n\nInstagram\nhttps://ecal.ai/f/2gSMFH/3NSJD
- \n\nManage my ECAL\nhttps://ecal.ai/f/2gSMHC/3NSJD\n\n
-BEGIN:VALARM
-TRIGGER:-P1DT
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT1H
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:20261028T084919Z
-DTSTAMP:20261028T084919Z
-LOCATION:Anfield\, Liverpool
-X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
-DTSTART:20261028T200000Z
-DTEND:20261028T220000Z
-SUMMARY:🔴⚽️ Liverpool vs Chelsea
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6aab161954aa88b4fa2e6b47
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:English League Cup | Follow the live action on the Liverpool we
- bsite or App | Join in: @LFC \n\nShow your colours\, shop official Liverpoo
- l merchandise online. Worldwide shipping available. Shop now!\n\nMatch Cent
- re\nhttps://ecal.ai/f/2slzNl/3NSJD\n\nAll Red Video\nhttps://ecal.ai/f/2slz
- Nm/3NSJD\n\nAll Red Membership\nhttps://ecal.ai/f/2slzNq/3NSJD\n\nLFC Shop\
- nhttps://ecal.ai/f/2slzNs/3NSJD\n\nFacebook\nhttps://ecal.ai/f/2slzNt/3NSJD
- \n\nX\nhttps://ecal.ai/f/2slzNv/3NSJD\n\nInstagram\nhttps://ecal.ai/f/2slzN
- w/3NSJD\n\nManage my ECAL\nhttps://ecal.ai/f/2slzNz/3NSJD\n\n
-BEGIN:VALARM
-TRIGGER:-P1DT
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT1H
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:20261028T084919Z
-DTSTAMP:20261028T084919Z
-LOCATION:Chobani Stadyumu\, Istanbul
-X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
-DTSTART:20261104T174500Z
-DTEND:20261104T194500Z
-SUMMARY:🔴⚽️ Fenerbahçe vs Liverpool
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a92eb6c54aa8848ac4d6d0c
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:UEFA Champions League | Follow the live action on the Liverpool
-  website or App | Join in: @LFC \n\nGET CLOSER TO LFC. Register to access e
- xclusive video content\, enter competitions\, and receive the official news
- letter.\n\nMatch Centre\nhttps://ecal.ai/f/2qX1xb/3NSJD\n\nAll Red Video\nh
- ttps://ecal.ai/f/2qX1xp/3NSJD\n\nAll Red Membership\nhttps://ecal.ai/f/2qX1
- xH/3NSJD\n\nLFC Shop\nhttps://ecal.ai/f/2qX1xY/3NSJD\n\nFacebook\nhttps://e
- cal.ai/f/2qX1ys/3NSJD\n\nX\nhttps://ecal.ai/f/2qX1yL/3NSJD\n\nInstagram\nht
- tps://ecal.ai/f/2qX1yZ/3NSJD\n\nManage my ECAL\nhttps://ecal.ai/f/2qX1zS/3N
- SJD\n\n
-BEGIN:VALARM
-TRIGGER:-P1DT
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT1H
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:20261028T084919Z
-DTSTAMP:20261028T084919Z
-LOCATION:Jan Breydelstadion\, Brugge
-X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
-DTSTART:20261125T200000Z
-DTEND:20261125T220000Z
-SUMMARY:🔴⚽️ Club Brugge vs Liverpool
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a92eb6c54aa88426515dd3d
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:UEFA Champions League | Follow the live action on the Liverpool
-  website or App | Join in: @LFC \n\nGET CLOSER TO LFC. Register to access e
- xclusive video content\, enter competitions\, and receive the official news
- letter.\n\nMatch Centre\nhttps://ecal.ai/f/2qX1Bg/3NSJD\n\nAll Red Video\nh
- ttps://ecal.ai/f/2qX1Bt/3NSJD\n\nAll Red Membership\nhttps://ecal.ai/f/2qX1
- BP/3NSJD\n\nLFC Shop\nhttps://ecal.ai/f/2qX1C9/3NSJD\n\nFacebook\nhttps://e
- cal.ai/f/2qX1Cx/3NSJD\n\nX\nhttps://ecal.ai/f/2qX1CV/3NSJD\n\nInstagram\nht
- tps://ecal.ai/f/2qX1D6/3NSJD\n\nManage my ECAL\nhttps://ecal.ai/f/2qX1DX/3N
- SJD\n\n
-BEGIN:VALARM
-TRIGGER:-P1DT
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT1H
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:20261028T084919Z
-DTSTAMP:20261028T084919Z
-LOCATION:Anfield\, Liverpool
-X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
-DTSTART:20261209T200000Z
-DTEND:20261209T220000Z
-SUMMARY:🔴⚽️ Liverpool vs FC Porto
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a92eb6c54aa8848ac4d6d0d
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:UEFA Champions League | Follow the live action on the Liverpool
-  website or App | Join in: @LFC \n\nShow your colours\, shop official Liver
- pool merchandise online. Worldwide shipping available. Shop now!\n\nMatch C
- entre\nhttps://ecal.ai/f/2qX1Fk/3NSJD\n\nAll Red Video\nhttps://ecal.ai/f/2
- qX1Fv/3NSJD\n\nAll Red Membership\nhttps://ecal.ai/f/2qX1FP/3NSJD\n\nLFC Sh
- op\nhttps://ecal.ai/f/2qX1G7/3NSJD\n\nFacebook\nhttps://ecal.ai/f/2qX1Gw/3N
- SJD\n\nX\nhttps://ecal.ai/f/2qX1GP/3NSJD\n\nInstagram\nhttps://ecal.ai/f/2q
- X1H1/3NSJD\n\nManage my ECAL\nhttps://ecal.ai/f/2qX1HT/3NSJD\n\n
-BEGIN:VALARM
-TRIGGER:-P1DT
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT1H
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:20261028T084919Z
-DTSTAMP:20261028T084919Z
-LOCATION:Stadio Giuseppe Meazza\, Milano
-X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
-DTSTART:20270119T200000Z
-DTEND:20270119T220000Z
-SUMMARY:🔴⚽️ Internazionale vs Liverpool
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a92eb6c54aa8848ac4d6d0e
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:UEFA Champions League | Follow the live action on the Liverpool
-  website or App | Join in: @LFC \n\nGET CLOSER TO LFC. Register to access e
- xclusive video content\, enter competitions\, and receive the official news
- letter.\n\nMatch Centre\nhttps://ecal.ai/f/2qX1Jg/3NSJD\n\nAll Red Video\nh
- ttps://ecal.ai/f/2qX1Jw/3NSJD\n\nAll Red Membership\nhttps://ecal.ai/f/2qX1
- JL/3NSJD\n\nLFC Shop\nhttps://ecal.ai/f/2qX1K6/3NSJD\n\nFacebook\nhttps://e
- cal.ai/f/2qX1KF/3NSJD\n\nX\nhttps://ecal.ai/f/2qX1Lc/3NSJD\n\nInstagram\nht
- tps://ecal.ai/f/2qX1LN/3NSJD\n\nManage my ECAL\nhttps://ecal.ai/f/2qX1My/3N
- SJD\n\n
-BEGIN:VALARM
-TRIGGER:-P1DT
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT1H
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:20261028T084919Z
-DTSTAMP:20261028T084919Z
-LOCATION:Anfield\, Liverpool
-X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
-DTSTART:20270127T200000Z
-DTEND:20270127T220000Z
-SUMMARY:🔴⚽️ Liverpool vs Lens
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a92eb6c54aa88426515dd3e
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:UEFA Champions League | Follow the live action on the Liverpool
-  website or App | Join in: @LFC \n\nShow your colours\, shop official Liver
- pool merchandise online. Worldwide shipping available. Shop now!\n\nMatch C
- entre\nhttps://ecal.ai/f/2qX1MZ/3NSJD\n\nAll Red Video\nhttps://ecal.ai/f/2
- qX1Nf/3NSJD\n\nAll Red Membership\nhttps://ecal.ai/f/2qX1Nv/3NSJD\n\nLFC Sh
- op\nhttps://ecal.ai/f/2qX1NS/3NSJD\n\nFacebook\nhttps://ecal.ai/f/2qX1Pg/3N
- SJD\n\nX\nhttps://ecal.ai/f/2qX1Ps/3NSJD\n\nInstagram\nhttps://ecal.ai/f/2q
- X1PQ/3NSJD\n\nManage my ECAL\nhttps://ecal.ai/f/2qX1QG/3NSJD\n\n
-BEGIN:VALARM
-TRIGGER:-P1DT
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT1H
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:20261028T084919Z
-DTSTAMP:20261028T084919Z
-LOCATION:Selhurst Park\, London
-X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
-DTSTART:20261108T140000Z
-DTEND:20261108T160000Z
-SUMMARY:🔴⚽️ Crystal Palace vs Liverpool
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35078654aa8848ab04bf0e
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League | Watch live on UK - Sky Sports | Join in: #CRYL
- IV \n\nGET CLOSER TO LFC. Register to access exclusive video content\, ente
- r competitions\, and receive the official newsletter.\n\nMatch Centre\nhttp
- s://ecal.ai/f/2gSMRH/3NSJD\n\nAll Red Video\nhttps://ecal.ai/f/2gSMSd/3NSJD
- \n\nAll Red Membership\nhttps://ecal.ai/f/2gSMT2/3NSJD\n\nLFC Shop\nhttps:/
- /ecal.ai/f/2gSMTP/3NSJD\n\nFacebook\nhttps://ecal.ai/f/2gSMVB/3NSJD\n\nX\nh
- ttps://ecal.ai/f/2gSMWm/3NSJD\n\nInstagram\nhttps://ecal.ai/f/2gSMY2/3NSJD\
- n\nManage my ECAL\nhttps://ecal.ai/f/2gSN1D/3NSJD\n\n
-BEGIN:VALARM
-TRIGGER:-P1DT
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT1H
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:20261028T084919Z
-DTSTAMP:20261028T084919Z
-LOCATION:MKM Stadium\, Hull
-X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
-DTSTART:20261226T173000Z
-DTEND:20261226T193000Z
-SUMMARY:🔴⚽️ Hull City vs Liverpool
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35078754aa884dc433f8c6
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League | Follow the live action on the Liverpool websit
- e or App | Join in: #HULLIV \n\nGET CLOSER TO LFC. Register to access exclu
- sive video content\, enter competitions\, and receive the official newslett
- er.\n\nMatch Centre\nhttps://ecal.ai/f/2gSP1R/3NSJD\n\nAll Red Video\nhttps
- ://ecal.ai/f/2gSP2z/3NSJD\n\nAll Red Membership\nhttps://ecal.ai/f/2gSP3f/3
- NSJD\n\nLFC Shop\nhttps://ecal.ai/f/2gSP3N/3NSJD\n\nFacebook\nhttps://ecal.
- ai/f/2gSP5m/3NSJD\n\nX\nhttps://ecal.ai/f/2gSP61/3NSJD\n\nInstagram\nhttps:
- //ecal.ai/f/2gSP6H/3NSJD\n\nManage my ECAL\nhttps://ecal.ai/f/2gSP9s/3NSJD\
- n\n
-BEGIN:VALARM
-TRIGGER:-P1DT
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT1H
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:20261028T084919Z
-DTSTAMP:20261028T084919Z
-LOCATION:Villa Park\, Birmingham
-X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
-DTSTART:20261230T201500Z
-DTEND:20261230T221500Z
-SUMMARY:🔴⚽️ Aston Villa vs Liverpool
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35078754aa884dc433f8c7
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League | Follow the live action on the Liverpool websit
- e or App | Join in: #VILLIV \n\nGET CLOSER TO LFC. Register to access exclu
- sive video content\, enter competitions\, and receive the official newslett
- er.\n\nMatch Centre\nhttps://ecal.ai/f/2gSPbC/3NSJD\n\nAll Red Video\nhttps
- ://ecal.ai/f/2gSPcd/3NSJD\n\nAll Red Membership\nhttps://ecal.ai/f/2gSPcL/3
- NSJD\n\nLFC Shop\nhttps://ecal.ai/f/2gSPdC/3NSJD\n\nFacebook\nhttps://ecal.
- ai/f/2gSPfv/3NSJD\n\nX\nhttps://ecal.ai/f/2gSPgz/3NSJD\n\nInstagram\nhttps:
- //ecal.ai/f/2gSPhq/3NSJD\n\nManage my ECAL\nhttps://ecal.ai/f/2gSPkX/3NSJD\
- n\n
-BEGIN:VALARM
-TRIGGER:-P1DT
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT1H
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:20261028T084919Z
-DTSTAMP:20261028T084919Z
-LOCATION:Anfield\, Liverpool
-X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
-DTSTART:20270102T150000Z
-DTEND:20270102T170000Z
-SUMMARY:🔴⚽️ Liverpool vs Coventry City
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35078754aa8848ab04bf16
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League | Follow the live action on the Liverpool websit
- e or App | Join in: #LIVCOV \n\nShow your colours\, shop official Liverpool
-  merchandise online. Worldwide shipping available. Shop now!\n\nMatch Centr
- e\nhttps://ecal.ai/f/2gSPpJ/3NSJD\n\nAll Red Video\nhttps://ecal.ai/f/2gSPq
- s/3NSJD\n\nAll Red Membership\nhttps://ecal.ai/f/2gSPrp/3NSJD\n\nLFC Shop\n
- https://ecal.ai/f/2gSPsq/3NSJD\n\nFacebook\nhttps://ecal.ai/f/2gSPtP/3NSJD\
- n\nX\nhttps://ecal.ai/f/2gSPvF/3NSJD\n\nInstagram\nhttps://ecal.ai/f/2gSPwF
- /3NSJD\n\nManage my ECAL\nhttps://ecal.ai/f/2gSPzz/3NSJD\n\n
-BEGIN:VALARM
-TRIGGER:-P1DT
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT1H
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:20261028T084919Z
-DTSTAMP:20261028T084919Z
-LOCATION:Stadium of Light\, Sunderland
-X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
-DTSTART:20270105T201500Z
-DTEND:20270105T221500Z
-SUMMARY:🔴⚽️ Sunderland vs Liverpool
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35078754aa884dc433f8c9
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League | Follow the live action on the Liverpool websit
- e or App | Join in: #SUNLIV \n\nGET CLOSER TO LFC. Register to access exclu
- sive video content\, enter competitions\, and receive the official newslett
- er.\n\nMatch Centre\nhttps://ecal.ai/f/2gSPHX/3NSJD\n\nAll Red Video\nhttps
- ://ecal.ai/f/2gSPJR/3NSJD\n\nAll Red Membership\nhttps://ecal.ai/f/2gSPKG/3
- NSJD\n\nLFC Shop\nhttps://ecal.ai/f/2gSPLx/3NSJD\n\nFacebook\nhttps://ecal.
- ai/f/2gSPNd/3NSJD\n\nX\nhttps://ecal.ai/f/2gSPP1/3NSJD\n\nInstagram\nhttps:
- //ecal.ai/f/2gSPQ7/3NSJD\n\nManage my ECAL\nhttps://ecal.ai/f/2gSPT6/3NSJD\
- n\n
-BEGIN:VALARM
-TRIGGER:-P1DT
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT1H
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:20261028T084919Z
-DTSTAMP:20261028T084919Z
-LOCATION:Anfield\, Liverpool
-X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
-DTSTART:20270116T150000Z
-DTEND:20270116T170000Z
-SUMMARY:🔴⚽️ Liverpool vs Crystal Palace
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35078754aa8848ab04bf18
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League | Follow the live action on the Liverpool websit
- e or App | Join in: #LIVCRY \n\nShow your colours\, shop official Liverpool
-  merchandise online. Worldwide shipping available. Shop now!\n\nMatch Centr
- e\nhttps://ecal.ai/f/2gSPVf/3NSJD\n\nAll Red Video\nhttps://ecal.ai/f/2gSPW
- f/3NSJD\n\nAll Red Membership\nhttps://ecal.ai/f/2gSPXh/3NSJD\n\nLFC Shop\n
- https://ecal.ai/f/2gSPYB/3NSJD\n\nFacebook\nhttps://ecal.ai/f/2gSPZP/3NSJD\
- n\nX\nhttps://ecal.ai/f/2gSQ1C/3NSJD\n\nInstagram\nhttps://ecal.ai/f/2gSQ2z
- /3NSJD\n\nManage my ECAL\nhttps://ecal.ai/f/2gSQ9W/3NSJD\n\n
-BEGIN:VALARM
-TRIGGER:-P1DT
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT1H
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:20261028T084919Z
-DTSTAMP:20261028T084919Z
-LOCATION:Old Trafford\, Manchester
-X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
-DTSTART:20270123T150000Z
-DTEND:20270123T170000Z
-SUMMARY:🔴⚽️ Manchester United vs Liverpool
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35078754aa8848ab04bf19
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League | Follow the live action on the Liverpool websit
- e or App | Join in: #MUNLIV \n\nGET CLOSER TO LFC. Register to access exclu
- sive video content\, enter competitions\, and receive the official newslett
- er.\n\nMatch Centre\nhttps://ecal.ai/f/2gSQbV/3NSJD\n\nAll Red Video\nhttps
- ://ecal.ai/f/2gSQcz/3NSJD\n\nAll Red Membership\nhttps://ecal.ai/f/2gSQdq/3
- NSJD\n\nLFC Shop\nhttps://ecal.ai/f/2gSQf1/3NSJD\n\nFacebook\nhttps://ecal.
- ai/f/2gSQfV/3NSJD\n\nX\nhttps://ecal.ai/f/2gSQgG/3NSJD\n\nInstagram\nhttps:
- //ecal.ai/f/2gSQhH/3NSJD\n\nManage my ECAL\nhttps://ecal.ai/f/2gSQly/3NSJD\
- n\n
-BEGIN:VALARM
-TRIGGER:-P1DT
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT1H
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:20261028T084919Z
-DTSTAMP:20261028T084919Z
-LOCATION:Anfield\, Liverpool
-X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
-DTSTART:20270130T150000Z
-DTEND:20270130T170000Z
-SUMMARY:🔴⚽️ Liverpool vs Everton
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35078754aa8848ab04bf1a
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League | Follow the live action on the Liverpool websit
- e or App | Join in: #LIVEVE \n\nShow your colours\, shop official Liverpool
-  merchandise online. Worldwide shipping available. Shop now!\n\nMatch Centr
- e\nhttps://ecal.ai/f/2gSQmN/3NSJD\n\nAll Red Video\nhttps://ecal.ai/f/2gSQn
- P/3NSJD\n\nAll Red Membership\nhttps://ecal.ai/f/2gSQpG/3NSJD\n\nLFC Shop\n
- https://ecal.ai/f/2gSQqJ/3NSJD\n\nFacebook\nhttps://ecal.ai/f/2gSQsw/3NSJD\
- n\nX\nhttps://ecal.ai/f/2gSQt8/3NSJD\n\nInstagram\nhttps://ecal.ai/f/2gSQtH
- /3NSJD\n\nManage my ECAL\nhttps://ecal.ai/f/2gSQx3/3NSJD\n\n
-BEGIN:VALARM
-TRIGGER:-P1DT
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT1H
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:20261028T084919Z
-DTSTAMP:20261028T084919Z
-LOCATION:Emirates Stadium\, London
-X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
-DTSTART:20270206T150000Z
-DTEND:20270206T170000Z
-SUMMARY:🔴⚽️ Arsenal vs Liverpool
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35078754aa884dc433f8cc
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League | Follow the live action on the Liverpool websit
- e or App | Join in: #ARSLIV \n\nGET CLOSER TO LFC. Register to access exclu
- sive video content\, enter competitions\, and receive the official newslett
- er.\n\nMatch Centre\nhttps://ecal.ai/f/2gSQyg/3NSJD\n\nAll Red Video\nhttps
- ://ecal.ai/f/2gSQz4/3NSJD\n\nAll Red Membership\nhttps://ecal.ai/f/2gSQzX/3
- NSJD\n\nLFC Shop\nhttps://ecal.ai/f/2gSQBP/3NSJD\n\nFacebook\nhttps://ecal.
- ai/f/2gSQDb/3NSJD\n\nX\nhttps://ecal.ai/f/2gSQF7/3NSJD\n\nInstagram\nhttps:
- //ecal.ai/f/2gSQG7/3NSJD\n\nManage my ECAL\nhttps://ecal.ai/f/2gSQJM/3NSJD\
- n\n
-BEGIN:VALARM
-TRIGGER:-P1DT
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT1H
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:20261028T084919Z
-DTSTAMP:20261028T084919Z
-LOCATION:Coventry Building Society Arena\, Coventry
-X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
-DTSTART:20270210T200000Z
-DTEND:20270210T220000Z
-SUMMARY:🔴⚽️ Coventry City vs Liverpool
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35078754aa8848ab04bf1c
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League | Follow the live action on the Liverpool websit
- e or App | Join in: #COVLIV \n\nGET CLOSER TO LFC. Register to access exclu
- sive video content\, enter competitions\, and receive the official newslett
- er.\n\nMatch Centre\nhttps://ecal.ai/f/2gSQKL/3NSJD\n\nAll Red Video\nhttps
- ://ecal.ai/f/2gSQLw/3NSJD\n\nAll Red Membership\nhttps://ecal.ai/f/2gSQMB/3
- NSJD\n\nLFC Shop\nhttps://ecal.ai/f/2gSQNy/3NSJD\n\nFacebook\nhttps://ecal.
- ai/f/2gSQPX/3NSJD\n\nX\nhttps://ecal.ai/f/2gSQSq/3NSJD\n\nInstagram\nhttps:
- //ecal.ai/f/2gSQTb/3NSJD\n\nManage my ECAL\nhttps://ecal.ai/f/2gSQWQ/3NSJD\
- n\n
-BEGIN:VALARM
-TRIGGER:-P1DT
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT1H
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:20261028T084919Z
-DTSTAMP:20261028T084919Z
-LOCATION:Anfield\, Liverpool
-X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
-DTSTART:20270220T150000Z
-DTEND:20270220T170000Z
-SUMMARY:🔴⚽️ Liverpool vs Hull City
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35078754aa8848ab04bf1d
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League | Follow the live action on the Liverpool websit
- e or App | Join in: #LIVHUL \n\nShow your colours\, shop official Liverpool
-  merchandise online. Worldwide shipping available. Shop now!\n\nMatch Centr
- e\nhttps://ecal.ai/f/2gSQXB/3NSJD\n\nAll Red Video\nhttps://ecal.ai/f/2gSQY
- h/3NSJD\n\nAll Red Membership\nhttps://ecal.ai/f/2gSQYP/3NSJD\n\nLFC Shop\n
- https://ecal.ai/f/2gSQZg/3NSJD\n\nFacebook\nhttps://ecal.ai/f/2gSR1J/3NSJD\
- n\nX\nhttps://ecal.ai/f/2gSR2n/3NSJD\n\nInstagram\nhttps://ecal.ai/f/2gSR36
- /3NSJD\n\nManage my ECAL\nhttps://ecal.ai/f/2gSR5D/3NSJD\n\n
-BEGIN:VALARM
-TRIGGER:-P1DT
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT1H
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:20261028T084919Z
-DTSTAMP:20261028T084919Z
-LOCATION:Tottenham Hotspur Stadium\, London
-X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
-DTSTART:20270227T150000Z
-DTEND:20270227T170000Z
-SUMMARY:🔴⚽️ Tottenham Hotspur vs Liverpool
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35078754aa884dc433f8ce
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League | Follow the live action on the Liverpool websit
- e or App | Join in: #TOTLIV \n\nGET CLOSER TO LFC. Register to access exclu
- sive video content\, enter competitions\, and receive the official newslett
- er.\n\nMatch Centre\nhttps://ecal.ai/f/2gSR6T/3NSJD\n\nAll Red Video\nhttps
- ://ecal.ai/f/2gSR7z/3NSJD\n\nAll Red Membership\nhttps://ecal.ai/f/2gSR7Y/3
- NSJD\n\nLFC Shop\nhttps://ecal.ai/f/2gSR8L/3NSJD\n\nFacebook\nhttps://ecal.
- ai/f/2gSR9K/3NSJD\n\nX\nhttps://ecal.ai/f/2gSRbg/3NSJD\n\nInstagram\nhttps:
- //ecal.ai/f/2gSRbY/3NSJD\n\nManage my ECAL\nhttps://ecal.ai/f/2gSRfg/3NSJD\
- n\n
-BEGIN:VALARM
-TRIGGER:-P1DT
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT1H
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:20261028T084919Z
-DTSTAMP:20261028T084919Z
-LOCATION:Anfield\, Liverpool
-X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
-DTSTART:20270303T200000Z
-DTEND:20270303T220000Z
-SUMMARY:🔴⚽️ Liverpool vs Aston Villa
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35078754aa884dc433f8cf
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League | Follow the live action on the Liverpool websit
- e or App | Join in: #LIVVIL \n\nShow your colours\, shop official Liverpool
-  merchandise online. Worldwide shipping available. Shop now!\n\nMatch Centr
- e\nhttps://ecal.ai/f/2gSRgb/3NSJD\n\nAll Red Video\nhttps://ecal.ai/f/2gSRg
- S/3NSJD\n\nAll Red Membership\nhttps://ecal.ai/f/2gSRhF/3NSJD\n\nLFC Shop\n
- https://ecal.ai/f/2gSRjk/3NSJD\n\nFacebook\nhttps://ecal.ai/f/2gSRkM/3NSJD\
- n\nX\nhttps://ecal.ai/f/2gSRlC/3NSJD\n\nInstagram\nhttps://ecal.ai/f/2gSRmr
- /3NSJD\n\nManage my ECAL\nhttps://ecal.ai/f/2gSRpL/3NSJD\n\n
-BEGIN:VALARM
-TRIGGER:-P1DT
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT1H
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:20261028T084919Z
-DTSTAMP:20261028T084919Z
-LOCATION:Anfield\, Liverpool
-X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
-DTSTART:20270313T150000Z
-DTEND:20270313T170000Z
-SUMMARY:🔴⚽️ Liverpool vs Ipswich Town
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35078754aa884dc433f8d0
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League | Follow the live action on the Liverpool websit
- e or App | Join in: #LIVIPS \n\nShow your colours\, shop official Liverpool
-  merchandise online. Worldwide shipping available. Shop now!\n\nMatch Centr
- e\nhttps://ecal.ai/f/2gSRqL/3NSJD\n\nAll Red Video\nhttps://ecal.ai/f/2gSRr
- z/3NSJD\n\nAll Red Membership\nhttps://ecal.ai/f/2gSRsl/3NSJD\n\nLFC Shop\n
- https://ecal.ai/f/2gSRsX/3NSJD\n\nFacebook\nhttps://ecal.ai/f/2gSRv3/3NSJD\
- n\nX\nhttps://ecal.ai/f/2gSRvH/3NSJD\n\nInstagram\nhttps://ecal.ai/f/2gSRwt
- /3NSJD\n\nManage my ECAL\nhttps://ecal.ai/f/2gSRLS/3NSJD\n\n
-BEGIN:VALARM
-TRIGGER:-P1DT
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT1H
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:20261028T084919Z
-DTSTAMP:20261028T084919Z
-LOCATION:Craven Cottage\, London
-X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
-DTSTART:20270320T150000Z
-DTEND:20270320T170000Z
-SUMMARY:🔴⚽️ Fulham vs Liverpool
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35078754aa884dc433f8d1
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League | Follow the live action on the Liverpool websit
- e or App | Join in: #FULLIV \n\nGET CLOSER TO LFC. Register to access exclu
- sive video content\, enter competitions\, and receive the official newslett
- er.\n\nMatch Centre\nhttps://ecal.ai/f/2gSRMz/3NSJD\n\nAll Red Video\nhttps
- ://ecal.ai/f/2gSRN9/3NSJD\n\nAll Red Membership\nhttps://ecal.ai/f/2gSRNQ/3
- NSJD\n\nLFC Shop\nhttps://ecal.ai/f/2gSRPr/3NSJD\n\nFacebook\nhttps://ecal.
- ai/f/2gSRQt/3NSJD\n\nX\nhttps://ecal.ai/f/2gSRR8/3NSJD\n\nInstagram\nhttps:
- //ecal.ai/f/2gSRRP/3NSJD\n\nManage my ECAL\nhttps://ecal.ai/f/2gSRV4/3NSJD\
- n\n
-BEGIN:VALARM
-TRIGGER:-P1DT
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT1H
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:20261028T084919Z
-DTSTAMP:20261028T084919Z
-LOCATION:Anfield\, Liverpool
-X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
-DTSTART:20270410T140000Z
-DTEND:20270410T160000Z
-SUMMARY:🔴⚽️ Liverpool vs Newcastle United
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35078754aa884dc433f8d2
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League | Follow the live action on the Liverpool websit
- e or App | Join in: #LIVNEW \n\nShow your colours\, shop official Liverpool
-  merchandise online. Worldwide shipping available. Shop now!\n\nMatch Centr
- e\nhttps://ecal.ai/f/2gSRW7/3NSJD\n\nAll Red Video\nhttps://ecal.ai/f/2gSRW
- C/3NSJD\n\nAll Red Membership\nhttps://ecal.ai/f/2gSRX4/3NSJD\n\nLFC Shop\n
- https://ecal.ai/f/2gSRXJ/3NSJD\n\nFacebook\nhttps://ecal.ai/f/2gSRYK/3NSJD\
- n\nX\nhttps://ecal.ai/f/2gSRZs/3NSJD\n\nInstagram\nhttps://ecal.ai/f/2gSS1k
- /3NSJD\n\nManage my ECAL\nhttps://ecal.ai/f/2gSS3P/3NSJD\n\n
-BEGIN:VALARM
-TRIGGER:-P1DT
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT1H
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:20261028T084919Z
-DTSTAMP:20261028T084919Z
-LOCATION:The City Ground\, Nottingham
-X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
-DTSTART:20270417T140000Z
-DTEND:20270417T160000Z
-SUMMARY:🔴⚽️ Nottingham Forest vs Liverpool
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35078754aa8848ab04bf22
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League | Follow the live action on the Liverpool websit
- e or App | Join in: #FORLIV \n\nGET CLOSER TO LFC. Register to access exclu
- sive video content\, enter competitions\, and receive the official newslett
- er.\n\nMatch Centre\nhttps://ecal.ai/f/2gSS4Q/3NSJD\n\nAll Red Video\nhttps
- ://ecal.ai/f/2gSS5B/3NSJD\n\nAll Red Membership\nhttps://ecal.ai/f/2gSS6m/3
- NSJD\n\nLFC Shop\nhttps://ecal.ai/f/2gSS72/3NSJD\n\nFacebook\nhttps://ecal.
- ai/f/2gSS89/3NSJD\n\nX\nhttps://ecal.ai/f/2gSS8F/3NSJD\n\nInstagram\nhttps:
- //ecal.ai/f/2gSS9d/3NSJD\n\nManage my ECAL\nhttps://ecal.ai/f/2gSScn/3NSJD\
- n\n
-BEGIN:VALARM
-TRIGGER:-P1DT
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT1H
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:20261028T084919Z
-DTSTAMP:20261028T084919Z
-LOCATION:Elland Road\, Leeds
-X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
-DTSTART:20270424T140000Z
-DTEND:20270424T160000Z
-SUMMARY:🔴⚽️ Leeds United vs Liverpool
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35078754aa8848ab04bf23
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League | Follow the live action on the Liverpool websit
- e or App | Join in: #LEELIV \n\nGET CLOSER TO LFC. Register to access exclu
- sive video content\, enter competitions\, and receive the official newslett
- er.\n\nMatch Centre\nhttps://ecal.ai/f/2gSSd8/3NSJD\n\nAll Red Video\nhttps
- ://ecal.ai/f/2gSSdF/3NSJD\n\nAll Red Membership\nhttps://ecal.ai/f/2gSSfg/3
- NSJD\n\nLFC Shop\nhttps://ecal.ai/f/2gSSfK/3NSJD\n\nFacebook\nhttps://ecal.
- ai/f/2gSSh8/3NSJD\n\nX\nhttps://ecal.ai/f/2gSShK/3NSJD\n\nInstagram\nhttps:
- //ecal.ai/f/2gSSjL/3NSJD\n\nManage my ECAL\nhttps://ecal.ai/f/2gSSpr/3NSJD\
- n\n
-BEGIN:VALARM
-TRIGGER:-P1DT
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT1H
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:20261028T084919Z
-DTSTAMP:20261028T084919Z
-LOCATION:Anfield\, Liverpool
-X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
-DTSTART:20270501T140000Z
-DTEND:20270501T160000Z
-SUMMARY:🔴⚽️ Liverpool vs Chelsea
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35078754aa8848ab04bf24
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League | Follow the live action on the Liverpool websit
- e or App | Join in: #LIVCHE \n\nShow your colours\, shop official Liverpool
-  merchandise online. Worldwide shipping available. Shop now!\n\nMatch Centr
- e\nhttps://ecal.ai/f/2gSSqR/3NSJD\n\nAll Red Video\nhttps://ecal.ai/f/2gSSr
- q/3NSJD\n\nAll Red Membership\nhttps://ecal.ai/f/2gSSrR/3NSJD\n\nLFC Shop\n
- https://ecal.ai/f/2gSSsr/3NSJD\n\nFacebook\nhttps://ecal.ai/f/2gSStM/3NSJD\
- n\nX\nhttps://ecal.ai/f/2gSSvy/3NSJD\n\nInstagram\nhttps://ecal.ai/f/2gSSw9
- /3NSJD\n\nManage my ECAL\nhttps://ecal.ai/f/2gSSyf/3NSJD\n\n
-BEGIN:VALARM
-TRIGGER:-P1DT
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT1H
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:20261028T084919Z
-DTSTAMP:20261028T084919Z
-LOCATION:Etihad Stadium\, Manchester
-X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
-DTSTART:20270508T140000Z
-DTEND:20270508T160000Z
-SUMMARY:🔴⚽️ Manchester City vs Liverpool
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35078754aa8848ab04bf25
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League | Follow the live action on the Liverpool websit
- e or App | Join in: #MCILIV \n\nGET CLOSER TO LFC. Register to access exclu
- sive video content\, enter competitions\, and receive the official newslett
- er.\n\nMatch Centre\nhttps://ecal.ai/f/2gSSz4/3NSJD\n\nAll Red Video\nhttps
- ://ecal.ai/f/2gSSzW/3NSJD\n\nAll Red Membership\nhttps://ecal.ai/f/2gSSBR/3
- NSJD\n\nLFC Shop\nhttps://ecal.ai/f/2gSSCD/3NSJD\n\nFacebook\nhttps://ecal.
- ai/f/2gSSDQ/3NSJD\n\nX\nhttps://ecal.ai/f/2gSSFM/3NSJD\n\nInstagram\nhttps:
- //ecal.ai/f/2gSSGn/3NSJD\n\nManage my ECAL\nhttps://ecal.ai/f/2gSSJM/3NSJD\
- n\n
-BEGIN:VALARM
-TRIGGER:-P1DT
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT1H
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:20261028T084919Z
-DTSTAMP:20261028T084919Z
-LOCATION:Anfield\, Liverpool
-X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
-DTSTART:20270515T140000Z
-DTEND:20270515T160000Z
-SUMMARY:🔴⚽️ Liverpool vs Brentford
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35078754aa8848ab04bf26
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League | Follow the live action on the Liverpool websit
- e or App | Join in: #LIVBRE \n\nShow your colours\, shop official Liverpool
-  merchandise online. Worldwide shipping available. Shop now!\n\nMatch Centr
- e\nhttps://ecal.ai/f/2gSSKM/3NSJD\n\nAll Red Video\nhttps://ecal.ai/f/2gSSL
- B/3NSJD\n\nAll Red Membership\nhttps://ecal.ai/f/2gSSMs/3NSJD\n\nLFC Shop\n
- https://ecal.ai/f/2gSSNw/3NSJD\n\nFacebook\nhttps://ecal.ai/f/2gSSPB/3NSJD\
- n\nX\nhttps://ecal.ai/f/2gSSQr/3NSJD\n\nInstagram\nhttps://ecal.ai/f/2gSSR8
- /3NSJD\n\nManage my ECAL\nhttps://ecal.ai/f/2gSSTh/3NSJD\n\n
-BEGIN:VALARM
-TRIGGER:-P1DT
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT1H
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:20261028T084919Z
-DTSTAMP:20261028T084919Z
-LOCATION:American Express Stadium\, Falmer
-X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
-DTSTART:20270523T140000Z
-DTEND:20270523T160000Z
-SUMMARY:🔴⚽️ Brighton and Hove Albion vs Liverpool
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35078754aa8848ab04bf27
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League | Follow the live action on the Liverpool websit
- e or App | Join in: #BHALIV \n\nGET CLOSER TO LFC. Register to access exclu
- sive video content\, enter competitions\, and receive the official newslett
- er.\n\nMatch Centre\nhttps://ecal.ai/f/2gSSVv/3NSJD\n\nAll Red Video\nhttps
- ://ecal.ai/f/2gSSWs/3NSJD\n\nAll Red Membership\nhttps://ecal.ai/f/2gSSX3/3
- NSJD\n\nLFC Shop\nhttps://ecal.ai/f/2gSSY4/3NSJD\n\nFacebook\nhttps://ecal.
- ai/f/2gSSZr/3NSJD\n\nX\nhttps://ecal.ai/f/2gST1d/3NSJD\n\nInstagram\nhttps:
- //ecal.ai/f/2gST1P/3NSJD\n\nManage my ECAL\nhttps://ecal.ai/f/2gST3B/3NSJD\
- n\n
-BEGIN:VALARM
-TRIGGER:-P1DT
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT1H
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:20261028T084919Z
-DTSTAMP:20261028T084919Z
-LOCATION:Anfield\, Liverpool
-X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
-DTSTART:20270530T150000Z
-DTEND:20270530T170000Z
-SUMMARY:🔴⚽️ Liverpool vs Bournemouth
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35078754aa884dc433f8d5
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League | Follow the live action on the Liverpool websit
- e or App | Join in: #LIVBOU \n\nShow your colours\, shop official Liverpool
-  merchandise online. Worldwide shipping available. Shop now!\n\nMatch Centr
- e\nhttps://ecal.ai/f/2gST4w/3NSJD\n\nAll Red Video\nhttps://ecal.ai/f/2gST5
- g/3NSJD\n\nAll Red Membership\nhttps://ecal.ai/f/2gST5W/3NSJD\n\nLFC Shop\n
- https://ecal.ai/f/2gST6B/3NSJD\n\nFacebook\nhttps://ecal.ai/f/2gST7r/3NSJD\
- n\nX\nhttps://ecal.ai/f/2gST7W/3NSJD\n\nInstagram\nhttps://ecal.ai/f/2gST8D
- /3NSJD\n\nManage my ECAL\nhttps://ecal.ai/f/2gSTbt/3NSJD\n\n
-BEGIN:VALARM
-TRIGGER:-P1DT
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT1H
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:20261028T084919Z
-DTSTAMP:20261028T084919Z
-LOCATION:Anfield\, Liverpool
-X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
-DTSTART:20261212T150000Z
-DTEND:20261212T170000Z
-SUMMARY:🔴⚽️ Liverpool vs Leeds United
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35078654aa8848ab04bf13
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League | Follow the live action on the Liverpool websit
- e or App | Join in: #LIVLEE \n\nShow your colours\, shop official Liverpool
-  merchandise online. Worldwide shipping available. Shop now!\n\nMatch Centr
- e\nhttps://ecal.ai/f/2gSNFM/3NSJD\n\nAll Red Video\nhttps://ecal.ai/f/2gSNG
- H/3NSJD\n\nAll Red Membership\nhttps://ecal.ai/f/2gSNHG/3NSJD\n\nLFC Shop\n
- https://ecal.ai/f/2gSNJn/3NSJD\n\nFacebook\nhttps://ecal.ai/f/2gSNKz/3NSJD\
- n\nX\nhttps://ecal.ai/f/2gSNLb/3NSJD\n\nInstagram\nhttps://ecal.ai/f/2gSNM2
- /3NSJD\n\nManage my ECAL\nhttps://ecal.ai/f/2gSNPT/3NSJD\n\n
 BEGIN:VALARM
 TRIGGER:-P1DT
 ACTION:DISPLAY
@@ -11509,11 +10207,1352 @@ CLASS:PUBLIC
 DESCRIPTION:English League Cup | Follow the live action on the Liverpool we
  bsite or App | Join in: @LFC \n\nShow your colours\, shop official Liverpoo
  l merchandise online. Worldwide shipping available. Shop now!\n\nMatch Cent
- re\nhttps://ecal.ai/f/2x51Pg/3NSJD\n\nAll Red Video\nhttps://ecal.ai/f/2x51
+ re\nhttps://ecal.ai/f/2x7Bhy/3NSJD\n\nAll Red Video\nhttps://ecal.ai/f/2x51
  Pj/3NSJD\n\nAll Red Membership\nhttps://ecal.ai/f/2x51Pl/3NSJD\n\nLFC Shop\
  nhttps://ecal.ai/f/2x51Pn/3NSJD\n\nFacebook\nhttps://ecal.ai/f/2x51Pq/3NSJD
  \n\nX\nhttps://ecal.ai/f/2x51Ps/3NSJD\n\nInstagram\nhttps://ecal.ai/f/2x51P
  v/3NSJD\n\nManage my ECAL\nhttps://ecal.ai/f/2x51PC/3NSJD\n\n
+X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Anfield\, Liverpool
+X-ECAL-SCHEDULE:
+DTSTART:20261020T190000Z
+DTEND:20261020T210000Z
+SUMMARY:🔴⚽️ Liverpool vs Villarreal
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a92eb6c54aa88a21311f209
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:UEFA Champions League | Follow the live action on the Liverpool
+  website or App | Join in: @LFC \n\nShow your colours\, shop official Liver
+ pool merchandise online. Worldwide shipping available. Shop now!\n\nMatch C
+ entre\nhttps://ecal.ai/f/2x7Bjm/3NSJD\n\nAll Red Video\nhttps://ecal.ai/f/2
+ qX1sx/3NSJD\n\nAll Red Membership\nhttps://ecal.ai/f/2qX1sZ/3NSJD\n\nLFC Sh
+ op\nhttps://ecal.ai/f/2qX1tq/3NSJD\n\nFacebook\nhttps://ecal.ai/f/2qX1v7/3N
+ SJD\n\nX\nhttps://ecal.ai/f/2qX1vt/3NSJD\n\nInstagram\nhttps://ecal.ai/f/2q
+ X1vR/3NSJD\n\nManage my ECAL\nhttps://ecal.ai/f/2qX1wV/3NSJD\n\n
+X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Chobani Stadyumu\, Istanbul
+X-ECAL-SCHEDULE:
+DTSTART:20261104T174500Z
+DTEND:20261104T194500Z
+SUMMARY:🔴⚽️ Fenerbahçe vs Liverpool
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a92eb6c54aa8848ac4d6d0c
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:UEFA Champions League | Follow the live action on the Liverpool
+  website or App | Join in: @LFC \n\nGET CLOSER TO LFC. Register to access e
+ xclusive video content\, enter competitions\, and receive the official news
+ letter.\n\nMatch Centre\nhttps://ecal.ai/f/2x7BjR/3NSJD\n\nAll Red Video\nh
+ ttps://ecal.ai/f/2qX1xp/3NSJD\n\nAll Red Membership\nhttps://ecal.ai/f/2qX1
+ xH/3NSJD\n\nLFC Shop\nhttps://ecal.ai/f/2qX1xY/3NSJD\n\nFacebook\nhttps://e
+ cal.ai/f/2qX1ys/3NSJD\n\nX\nhttps://ecal.ai/f/2qX1yL/3NSJD\n\nInstagram\nht
+ tps://ecal.ai/f/2qX1yZ/3NSJD\n\nManage my ECAL\nhttps://ecal.ai/f/2qX1zS/3N
+ SJD\n\n
+X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Jan Breydelstadion\, Brugge
+X-ECAL-SCHEDULE:
+DTSTART:20261125T200000Z
+DTEND:20261125T220000Z
+SUMMARY:🔴⚽️ Club Brugge vs Liverpool
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a92eb6c54aa88426515dd3d
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:UEFA Champions League | Follow the live action on the Liverpool
+  website or App | Join in: @LFC \n\nGET CLOSER TO LFC. Register to access e
+ xclusive video content\, enter competitions\, and receive the official news
+ letter.\n\nMatch Centre\nhttps://ecal.ai/f/2x7Bk7/3NSJD\n\nAll Red Video\nh
+ ttps://ecal.ai/f/2qX1Bt/3NSJD\n\nAll Red Membership\nhttps://ecal.ai/f/2qX1
+ BP/3NSJD\n\nLFC Shop\nhttps://ecal.ai/f/2qX1C9/3NSJD\n\nFacebook\nhttps://e
+ cal.ai/f/2qX1Cx/3NSJD\n\nX\nhttps://ecal.ai/f/2qX1CV/3NSJD\n\nInstagram\nht
+ tps://ecal.ai/f/2qX1D6/3NSJD\n\nManage my ECAL\nhttps://ecal.ai/f/2qX1DX/3N
+ SJD\n\n
+X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Anfield\, Liverpool
+X-ECAL-SCHEDULE:
+DTSTART:20270127T200000Z
+DTEND:20270127T220000Z
+SUMMARY:🔴⚽️ Liverpool vs Lens
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a92eb6c54aa88426515dd3e
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:UEFA Champions League | Follow the live action on the Liverpool
+  website or App | Join in: @LFC \n\nShow your colours\, shop official Liver
+ pool merchandise online. Worldwide shipping available. Shop now!\n\nMatch C
+ entre\nhttps://ecal.ai/f/2x7Bl4/3NSJD\n\nAll Red Video\nhttps://ecal.ai/f/2
+ qX1Nf/3NSJD\n\nAll Red Membership\nhttps://ecal.ai/f/2qX1Nv/3NSJD\n\nLFC Sh
+ op\nhttps://ecal.ai/f/2qX1NS/3NSJD\n\nFacebook\nhttps://ecal.ai/f/2qX1Pg/3N
+ SJD\n\nX\nhttps://ecal.ai/f/2qX1Ps/3NSJD\n\nInstagram\nhttps://ecal.ai/f/2q
+ X1PQ/3NSJD\n\nManage my ECAL\nhttps://ecal.ai/f/2qX1QG/3NSJD\n\n
+X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Gtech Community Stadium\, Brentford
+X-ECAL-SCHEDULE:
+DTSTART:20261017T140000Z
+DTEND:20261017T160000Z
+SUMMARY:🔴⚽️ Brentford vs Liverpool
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35078654aa884dc433f8bd
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League | Listen live on BBC Radio 5 Live | Join in: #BR
+ ELIV \n\nGET CLOSER TO LFC. Register to access exclusive video content\, en
+ ter competitions\, and receive the official newsletter.\n\nMatch Centre\nht
+ tps://ecal.ai/f/2x7BmG/3NSJD\n\nAll Red Video\nhttps://ecal.ai/f/2gSMqY/3NS
+ JD\n\nAll Red Membership\nhttps://ecal.ai/f/2gSMrJ/3NSJD\n\nLFC Shop\nhttps
+ ://ecal.ai/f/2gSMsh/3NSJD\n\nFacebook\nhttps://ecal.ai/f/2gSMt8/3NSJD\n\nX\
+ nhttps://ecal.ai/f/2gSMtL/3NSJD\n\nInstagram\nhttps://ecal.ai/f/2gSMvj/3NSJ
+ D\n\nManage my ECAL\nhttps://ecal.ai/f/2gSMxf/3NSJD\n\n
+X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Selhurst Park\, London
+X-ECAL-SCHEDULE:
+DTSTART:20261108T140000Z
+DTEND:20261108T160000Z
+SUMMARY:🔴⚽️ Crystal Palace vs Liverpool
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35078654aa8848ab04bf0e
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League | Watch live on UK - Sky Sports | Join in: #CRYL
+ IV \n\nGET CLOSER TO LFC. Register to access exclusive video content\, ente
+ r competitions\, and receive the official newsletter.\n\nMatch Centre\nhttp
+ s://ecal.ai/f/2x7Bn3/3NSJD\n\nAll Red Video\nhttps://ecal.ai/f/2gSMSd/3NSJD
+ \n\nAll Red Membership\nhttps://ecal.ai/f/2gSMT2/3NSJD\n\nLFC Shop\nhttps:/
+ /ecal.ai/f/2gSMTP/3NSJD\n\nFacebook\nhttps://ecal.ai/f/2gSMVB/3NSJD\n\nX\nh
+ ttps://ecal.ai/f/2gSMWm/3NSJD\n\nInstagram\nhttps://ecal.ai/f/2gSMY2/3NSJD\
+ n\nManage my ECAL\nhttps://ecal.ai/f/2gSN1D/3NSJD\n\n
+X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Anfield\, Liverpool
+X-ECAL-SCHEDULE:
+DTSTART:20261122T163000Z
+DTEND:20261122T183000Z
+SUMMARY:🔴⚽️ Liverpool vs Manchester United
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35078654aa8848ab04bf0f
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League | Watch live on UK - Sky Sports | Join in: #LIVM
+ UN \n\nShow your colours\, shop official Liverpool merchandise online. Worl
+ dwide shipping available. Shop now!\n\nMatch Centre\nhttps://ecal.ai/f/2x7B
+ nv/3NSJD\n\nAll Red Video\nhttps://ecal.ai/f/2gSN3B/3NSJD\n\nAll Red Member
+ ship\nhttps://ecal.ai/f/2gSN4h/3NSJD\n\nLFC Shop\nhttps://ecal.ai/f/2gSN4T/
+ 3NSJD\n\nFacebook\nhttps://ecal.ai/f/2gSN6m/3NSJD\n\nX\nhttps://ecal.ai/f/2
+ gSN6P/3NSJD\n\nInstagram\nhttps://ecal.ai/f/2gSN7r/3NSJD\n\nManage my ECAL\
+ nhttps://ecal.ai/f/2gSN9p/3NSJD\n\n
+X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Hill Dickinson Stadium\, Liverpool
+X-ECAL-SCHEDULE:
+DTSTART:20261129T120000Z
+DTEND:20261129T140000Z
+SUMMARY:🔴⚽️ Everton vs Liverpool
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35078654aa884dc433f8c2
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League | Watch live on UK - TNT Sports | Join in: #EVEL
+ IV \n\nGET CLOSER TO LFC. Register to access exclusive video content\, ente
+ r competitions\, and receive the official newsletter.\n\nMatch Centre\nhttp
+ s://ecal.ai/f/2x7Bp2/3NSJD\n\nAll Red Video\nhttps://ecal.ai/f/2gSNcb/3NSJD
+ \n\nAll Red Membership\nhttps://ecal.ai/f/2gSNcV/3NSJD\n\nLFC Shop\nhttps:/
+ /ecal.ai/f/2gSNdv/3NSJD\n\nFacebook\nhttps://ecal.ai/f/2gSNfp/3NSJD\n\nX\nh
+ ttps://ecal.ai/f/2gSNfV/3NSJD\n\nInstagram\nhttps://ecal.ai/f/2gSNgw/3NSJD\
+ n\nManage my ECAL\nhttps://ecal.ai/f/2gSNjn/3NSJD\n\n
+X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Stamford Bridge\, London
+X-ECAL-SCHEDULE:
+DTSTART:20261205T123000Z
+DTEND:20261205T143000Z
+SUMMARY:🔴⚽️ Chelsea vs Liverpool
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35078654aa8848ab04bf12
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League | Watch live on UK - TNT Sports | Join in: #CHEL
+ IV \n\nGET CLOSER TO LFC. Register to access exclusive video content\, ente
+ r competitions\, and receive the official newsletter.\n\nMatch Centre\nhttp
+ s://ecal.ai/f/2x7BpC/3NSJD\n\nAll Red Video\nhttps://ecal.ai/f/2gSNvN/3NSJD
+ \n\nAll Red Membership\nhttps://ecal.ai/f/2gSNwC/3NSJD\n\nLFC Shop\nhttps:/
+ /ecal.ai/f/2gSNxj/3NSJD\n\nFacebook\nhttps://ecal.ai/f/2gSNyn/3NSJD\n\nX\nh
+ ttps://ecal.ai/f/2gSNzh/3NSJD\n\nInstagram\nhttps://ecal.ai/f/2gSNzY/3NSJD\
+ n\nManage my ECAL\nhttps://ecal.ai/f/2gSNDG/3NSJD\n\n
+X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Anfield\, Liverpool
+X-ECAL-SCHEDULE:
+DTSTART:20261212T150000Z
+DTEND:20261212T170000Z
+SUMMARY:🔴⚽️ Liverpool vs Leeds United
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35078654aa8848ab04bf13
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League | Follow the live action on the Liverpool websit
+ e or App | Join in: #LIVLEE \n\nShow your colours\, shop official Liverpool
+  merchandise online. Worldwide shipping available. Shop now!\n\nMatch Centr
+ e\nhttps://ecal.ai/f/2x7Bq4/3NSJD\n\nAll Red Video\nhttps://ecal.ai/f/2gSNG
+ H/3NSJD\n\nAll Red Membership\nhttps://ecal.ai/f/2gSNHG/3NSJD\n\nLFC Shop\n
+ https://ecal.ai/f/2gSNJn/3NSJD\n\nFacebook\nhttps://ecal.ai/f/2gSNKz/3NSJD\
+ n\nX\nhttps://ecal.ai/f/2gSNLb/3NSJD\n\nInstagram\nhttps://ecal.ai/f/2gSNM2
+ /3NSJD\n\nManage my ECAL\nhttps://ecal.ai/f/2gSNPT/3NSJD\n\n
+X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:MKM Stadium\, Hull
+X-ECAL-SCHEDULE:
+DTSTART:20261226T173000Z
+DTEND:20261226T193000Z
+SUMMARY:🔴⚽️ Hull City vs Liverpool
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35078754aa884dc433f8c6
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League | Follow the live action on the Liverpool websit
+ e or App | Join in: #HULLIV \n\nGET CLOSER TO LFC. Register to access exclu
+ sive video content\, enter competitions\, and receive the official newslett
+ er.\n\nMatch Centre\nhttps://ecal.ai/f/2x7BqF/3NSJD\n\nAll Red Video\nhttps
+ ://ecal.ai/f/2gSP2z/3NSJD\n\nAll Red Membership\nhttps://ecal.ai/f/2gSP3f/3
+ NSJD\n\nLFC Shop\nhttps://ecal.ai/f/2gSP3N/3NSJD\n\nFacebook\nhttps://ecal.
+ ai/f/2gSP5m/3NSJD\n\nX\nhttps://ecal.ai/f/2gSP61/3NSJD\n\nInstagram\nhttps:
+ //ecal.ai/f/2gSP6H/3NSJD\n\nManage my ECAL\nhttps://ecal.ai/f/2gSP9s/3NSJD\
+ n\n
+X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Anfield\, Liverpool
+X-ECAL-SCHEDULE:
+DTSTART:20270116T150000Z
+DTEND:20270116T170000Z
+SUMMARY:🔴⚽️ Liverpool vs Crystal Palace
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35078754aa8848ab04bf18
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League | Follow the live action on the Liverpool websit
+ e or App | Join in: #LIVCRY \n\nShow your colours\, shop official Liverpool
+  merchandise online. Worldwide shipping available. Shop now!\n\nMatch Centr
+ e\nhttps://ecal.ai/f/2x7Br9/3NSJD\n\nAll Red Video\nhttps://ecal.ai/f/2gSPW
+ f/3NSJD\n\nAll Red Membership\nhttps://ecal.ai/f/2gSPXh/3NSJD\n\nLFC Shop\n
+ https://ecal.ai/f/2gSPYB/3NSJD\n\nFacebook\nhttps://ecal.ai/f/2gSPZP/3NSJD\
+ n\nX\nhttps://ecal.ai/f/2gSQ1C/3NSJD\n\nInstagram\nhttps://ecal.ai/f/2gSQ2z
+ /3NSJD\n\nManage my ECAL\nhttps://ecal.ai/f/2gSQ9W/3NSJD\n\n
+X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Emirates Stadium\, London
+X-ECAL-SCHEDULE:
+DTSTART:20270206T150000Z
+DTEND:20270206T170000Z
+SUMMARY:🔴⚽️ Arsenal vs Liverpool
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35078754aa884dc433f8cc
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League | Follow the live action on the Liverpool websit
+ e or App | Join in: #ARSLIV \n\nGET CLOSER TO LFC. Register to access exclu
+ sive video content\, enter competitions\, and receive the official newslett
+ er.\n\nMatch Centre\nhttps://ecal.ai/f/2x7BrK/3NSJD\n\nAll Red Video\nhttps
+ ://ecal.ai/f/2gSQz4/3NSJD\n\nAll Red Membership\nhttps://ecal.ai/f/2gSQzX/3
+ NSJD\n\nLFC Shop\nhttps://ecal.ai/f/2gSQBP/3NSJD\n\nFacebook\nhttps://ecal.
+ ai/f/2gSQDb/3NSJD\n\nX\nhttps://ecal.ai/f/2gSQF7/3NSJD\n\nInstagram\nhttps:
+ //ecal.ai/f/2gSQG7/3NSJD\n\nManage my ECAL\nhttps://ecal.ai/f/2gSQJM/3NSJD\
+ n\n
+X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Old Trafford\, Manchester
+X-ECAL-SCHEDULE:
+DTSTART:20270123T150000Z
+DTEND:20270123T170000Z
+SUMMARY:🔴⚽️ Manchester United vs Liverpool
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35078754aa8848ab04bf19
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League | Follow the live action on the Liverpool websit
+ e or App | Join in: #MUNLIV \n\nGET CLOSER TO LFC. Register to access exclu
+ sive video content\, enter competitions\, and receive the official newslett
+ er.\n\nMatch Centre\nhttps://ecal.ai/f/2x7Bs4/3NSJD\n\nAll Red Video\nhttps
+ ://ecal.ai/f/2gSQcz/3NSJD\n\nAll Red Membership\nhttps://ecal.ai/f/2gSQdq/3
+ NSJD\n\nLFC Shop\nhttps://ecal.ai/f/2gSQf1/3NSJD\n\nFacebook\nhttps://ecal.
+ ai/f/2gSQfV/3NSJD\n\nX\nhttps://ecal.ai/f/2gSQgG/3NSJD\n\nInstagram\nhttps:
+ //ecal.ai/f/2gSQhH/3NSJD\n\nManage my ECAL\nhttps://ecal.ai/f/2gSQly/3NSJD\
+ n\n
+X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Anfield\, Liverpool
+X-ECAL-SCHEDULE:
+DTSTART:20270130T150000Z
+DTEND:20270130T170000Z
+SUMMARY:🔴⚽️ Liverpool vs Everton
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35078754aa8848ab04bf1a
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League | Follow the live action on the Liverpool websit
+ e or App | Join in: #LIVEVE \n\nShow your colours\, shop official Liverpool
+  merchandise online. Worldwide shipping available. Shop now!\n\nMatch Centr
+ e\nhttps://ecal.ai/f/2x7Bsw/3NSJD\n\nAll Red Video\nhttps://ecal.ai/f/2gSQn
+ P/3NSJD\n\nAll Red Membership\nhttps://ecal.ai/f/2gSQpG/3NSJD\n\nLFC Shop\n
+ https://ecal.ai/f/2gSQqJ/3NSJD\n\nFacebook\nhttps://ecal.ai/f/2gSQsw/3NSJD\
+ n\nX\nhttps://ecal.ai/f/2gSQt8/3NSJD\n\nInstagram\nhttps://ecal.ai/f/2gSQtH
+ /3NSJD\n\nManage my ECAL\nhttps://ecal.ai/f/2gSQx3/3NSJD\n\n
+X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Coventry Building Society Arena\, Coventry
+X-ECAL-SCHEDULE:
+DTSTART:20270210T200000Z
+DTEND:20270210T220000Z
+SUMMARY:🔴⚽️ Coventry City vs Liverpool
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35078754aa8848ab04bf1c
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League | Follow the live action on the Liverpool websit
+ e or App | Join in: #COVLIV \n\nGET CLOSER TO LFC. Register to access exclu
+ sive video content\, enter competitions\, and receive the official newslett
+ er.\n\nMatch Centre\nhttps://ecal.ai/f/2x7BsZ/3NSJD\n\nAll Red Video\nhttps
+ ://ecal.ai/f/2gSQLw/3NSJD\n\nAll Red Membership\nhttps://ecal.ai/f/2gSQMB/3
+ NSJD\n\nLFC Shop\nhttps://ecal.ai/f/2gSQNy/3NSJD\n\nFacebook\nhttps://ecal.
+ ai/f/2gSQPX/3NSJD\n\nX\nhttps://ecal.ai/f/2gSQSq/3NSJD\n\nInstagram\nhttps:
+ //ecal.ai/f/2gSQTb/3NSJD\n\nManage my ECAL\nhttps://ecal.ai/f/2gSQWQ/3NSJD\
+ n\n
+X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Anfield\, Liverpool
+X-ECAL-SCHEDULE:
+DTSTART:20270220T150000Z
+DTEND:20270220T170000Z
+SUMMARY:🔴⚽️ Liverpool vs Hull City
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35078754aa8848ab04bf1d
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League | Follow the live action on the Liverpool websit
+ e or App | Join in: #LIVHUL \n\nShow your colours\, shop official Liverpool
+  merchandise online. Worldwide shipping available. Shop now!\n\nMatch Centr
+ e\nhttps://ecal.ai/f/2x7Bts/3NSJD\n\nAll Red Video\nhttps://ecal.ai/f/2gSQY
+ h/3NSJD\n\nAll Red Membership\nhttps://ecal.ai/f/2gSQYP/3NSJD\n\nLFC Shop\n
+ https://ecal.ai/f/2gSQZg/3NSJD\n\nFacebook\nhttps://ecal.ai/f/2gSR1J/3NSJD\
+ n\nX\nhttps://ecal.ai/f/2gSR2n/3NSJD\n\nInstagram\nhttps://ecal.ai/f/2gSR36
+ /3NSJD\n\nManage my ECAL\nhttps://ecal.ai/f/2gSR5D/3NSJD\n\n
+X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Anfield\, Liverpool
+X-ECAL-SCHEDULE:
+DTSTART:20270303T200000Z
+DTEND:20270303T220000Z
+SUMMARY:🔴⚽️ Liverpool vs Aston Villa
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35078754aa884dc433f8cf
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League | Follow the live action on the Liverpool websit
+ e or App | Join in: #LIVVIL \n\nShow your colours\, shop official Liverpool
+  merchandise online. Worldwide shipping available. Shop now!\n\nMatch Centr
+ e\nhttps://ecal.ai/f/2x7BtT/3NSJD\n\nAll Red Video\nhttps://ecal.ai/f/2gSRg
+ S/3NSJD\n\nAll Red Membership\nhttps://ecal.ai/f/2gSRhF/3NSJD\n\nLFC Shop\n
+ https://ecal.ai/f/2gSRjk/3NSJD\n\nFacebook\nhttps://ecal.ai/f/2gSRkM/3NSJD\
+ n\nX\nhttps://ecal.ai/f/2gSRlC/3NSJD\n\nInstagram\nhttps://ecal.ai/f/2gSRmr
+ /3NSJD\n\nManage my ECAL\nhttps://ecal.ai/f/2gSRpL/3NSJD\n\n
+X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Anfield\, Liverpool
+X-ECAL-SCHEDULE:
+DTSTART:20270313T150000Z
+DTEND:20270313T170000Z
+SUMMARY:🔴⚽️ Liverpool vs Ipswich Town
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35078754aa884dc433f8d0
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League | Follow the live action on the Liverpool websit
+ e or App | Join in: #LIVIPS \n\nShow your colours\, shop official Liverpool
+  merchandise online. Worldwide shipping available. Shop now!\n\nMatch Centr
+ e\nhttps://ecal.ai/f/2x7Bvj/3NSJD\n\nAll Red Video\nhttps://ecal.ai/f/2gSRr
+ z/3NSJD\n\nAll Red Membership\nhttps://ecal.ai/f/2gSRsl/3NSJD\n\nLFC Shop\n
+ https://ecal.ai/f/2gSRsX/3NSJD\n\nFacebook\nhttps://ecal.ai/f/2gSRv3/3NSJD\
+ n\nX\nhttps://ecal.ai/f/2gSRvH/3NSJD\n\nInstagram\nhttps://ecal.ai/f/2gSRwt
+ /3NSJD\n\nManage my ECAL\nhttps://ecal.ai/f/2gSRLS/3NSJD\n\n
+X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Craven Cottage\, London
+X-ECAL-SCHEDULE:
+DTSTART:20270320T150000Z
+DTEND:20270320T170000Z
+SUMMARY:🔴⚽️ Fulham vs Liverpool
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35078754aa884dc433f8d1
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League | Follow the live action on the Liverpool websit
+ e or App | Join in: #FULLIV \n\nGET CLOSER TO LFC. Register to access exclu
+ sive video content\, enter competitions\, and receive the official newslett
+ er.\n\nMatch Centre\nhttps://ecal.ai/f/2x7BvM/3NSJD\n\nAll Red Video\nhttps
+ ://ecal.ai/f/2gSRN9/3NSJD\n\nAll Red Membership\nhttps://ecal.ai/f/2gSRNQ/3
+ NSJD\n\nLFC Shop\nhttps://ecal.ai/f/2gSRPr/3NSJD\n\nFacebook\nhttps://ecal.
+ ai/f/2gSRQt/3NSJD\n\nX\nhttps://ecal.ai/f/2gSRR8/3NSJD\n\nInstagram\nhttps:
+ //ecal.ai/f/2gSRRP/3NSJD\n\nManage my ECAL\nhttps://ecal.ai/f/2gSRV4/3NSJD\
+ n\n
+X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Anfield\, Liverpool
+X-ECAL-SCHEDULE:
+DTSTART:20270410T140000Z
+DTEND:20270410T160000Z
+SUMMARY:🔴⚽️ Liverpool vs Newcastle United
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35078754aa884dc433f8d2
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League | Follow the live action on the Liverpool websit
+ e or App | Join in: #LIVNEW \n\nShow your colours\, shop official Liverpool
+  merchandise online. Worldwide shipping available. Shop now!\n\nMatch Centr
+ e\nhttps://ecal.ai/f/2x7Bw8/3NSJD\n\nAll Red Video\nhttps://ecal.ai/f/2gSRW
+ C/3NSJD\n\nAll Red Membership\nhttps://ecal.ai/f/2gSRX4/3NSJD\n\nLFC Shop\n
+ https://ecal.ai/f/2gSRXJ/3NSJD\n\nFacebook\nhttps://ecal.ai/f/2gSRYK/3NSJD\
+ n\nX\nhttps://ecal.ai/f/2gSRZs/3NSJD\n\nInstagram\nhttps://ecal.ai/f/2gSS1k
+ /3NSJD\n\nManage my ECAL\nhttps://ecal.ai/f/2gSS3P/3NSJD\n\n
+X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Anfield\, Liverpool
+X-ECAL-SCHEDULE:
+DTSTART:20270501T140000Z
+DTEND:20270501T160000Z
+SUMMARY:🔴⚽️ Liverpool vs Chelsea
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35078754aa8848ab04bf24
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League | Follow the live action on the Liverpool websit
+ e or App | Join in: #LIVCHE \n\nShow your colours\, shop official Liverpool
+  merchandise online. Worldwide shipping available. Shop now!\n\nMatch Centr
+ e\nhttps://ecal.ai/f/2x7Bwy/3NSJD\n\nAll Red Video\nhttps://ecal.ai/f/2gSSr
+ q/3NSJD\n\nAll Red Membership\nhttps://ecal.ai/f/2gSSrR/3NSJD\n\nLFC Shop\n
+ https://ecal.ai/f/2gSSsr/3NSJD\n\nFacebook\nhttps://ecal.ai/f/2gSStM/3NSJD\
+ n\nX\nhttps://ecal.ai/f/2gSSvy/3NSJD\n\nInstagram\nhttps://ecal.ai/f/2gSSw9
+ /3NSJD\n\nManage my ECAL\nhttps://ecal.ai/f/2gSSyf/3NSJD\n\n
+X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Anfield\, Liverpool
+X-ECAL-SCHEDULE:
+DTSTART:20270515T140000Z
+DTEND:20270515T160000Z
+SUMMARY:🔴⚽️ Liverpool vs Brentford
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35078754aa8848ab04bf26
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League | Follow the live action on the Liverpool websit
+ e or App | Join in: #LIVBRE \n\nShow your colours\, shop official Liverpool
+  merchandise online. Worldwide shipping available. Shop now!\n\nMatch Centr
+ e\nhttps://ecal.ai/f/2x7Bx4/3NSJD\n\nAll Red Video\nhttps://ecal.ai/f/2gSSL
+ B/3NSJD\n\nAll Red Membership\nhttps://ecal.ai/f/2gSSMs/3NSJD\n\nLFC Shop\n
+ https://ecal.ai/f/2gSSNw/3NSJD\n\nFacebook\nhttps://ecal.ai/f/2gSSPB/3NSJD\
+ n\nX\nhttps://ecal.ai/f/2gSSQr/3NSJD\n\nInstagram\nhttps://ecal.ai/f/2gSSR8
+ /3NSJD\n\nManage my ECAL\nhttps://ecal.ai/f/2gSSTh/3NSJD\n\n
+X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:American Express Stadium\, Falmer
+X-ECAL-SCHEDULE:
+DTSTART:20270523T140000Z
+DTEND:20270523T160000Z
+SUMMARY:🔴⚽️ Brighton and Hove Albion vs Liverpool
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35078754aa8848ab04bf27
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League | Follow the live action on the Liverpool websit
+ e or App | Join in: #BHALIV \n\nGET CLOSER TO LFC. Register to access exclu
+ sive video content\, enter competitions\, and receive the official newslett
+ er.\n\nMatch Centre\nhttps://ecal.ai/f/2x7Bxy/3NSJD\n\nAll Red Video\nhttps
+ ://ecal.ai/f/2gSSWs/3NSJD\n\nAll Red Membership\nhttps://ecal.ai/f/2gSSX3/3
+ NSJD\n\nLFC Shop\nhttps://ecal.ai/f/2gSSY4/3NSJD\n\nFacebook\nhttps://ecal.
+ ai/f/2gSSZr/3NSJD\n\nX\nhttps://ecal.ai/f/2gST1d/3NSJD\n\nInstagram\nhttps:
+ //ecal.ai/f/2gST1P/3NSJD\n\nManage my ECAL\nhttps://ecal.ai/f/2gST3B/3NSJD\
+ n\n
+X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Anfield\, Liverpool
+X-ECAL-SCHEDULE:
+DTSTART:20270530T150000Z
+DTEND:20270530T170000Z
+SUMMARY:🔴⚽️ Liverpool vs Bournemouth
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35078754aa884dc433f8d5
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League | Follow the live action on the Liverpool websit
+ e or App | Join in: #LIVBOU \n\nShow your colours\, shop official Liverpool
+  merchandise online. Worldwide shipping available. Shop now!\n\nMatch Centr
+ e\nhttps://ecal.ai/f/2x7BxQ/3NSJD\n\nAll Red Video\nhttps://ecal.ai/f/2gST5
+ g/3NSJD\n\nAll Red Membership\nhttps://ecal.ai/f/2gST5W/3NSJD\n\nLFC Shop\n
+ https://ecal.ai/f/2gST6B/3NSJD\n\nFacebook\nhttps://ecal.ai/f/2gST7r/3NSJD\
+ n\nX\nhttps://ecal.ai/f/2gST7W/3NSJD\n\nInstagram\nhttps://ecal.ai/f/2gST8D
+ /3NSJD\n\nManage my ECAL\nhttps://ecal.ai/f/2gSTbt/3NSJD\n\n
+X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Anfield\, Liverpool
+X-ECAL-SCHEDULE:
+DTSTART:20270102T150000Z
+DTEND:20270102T170000Z
+SUMMARY:🔴⚽️ Liverpool vs Coventry City
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35078754aa8848ab04bf16
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League | Follow the live action on the Liverpool websit
+ e or App | Join in: #LIVCOV \n\nShow your colours\, shop official Liverpool
+  merchandise online. Worldwide shipping available. Shop now!\n\nMatch Centr
+ e\nhttps://ecal.ai/f/2x7Byt/3NSJD\n\nAll Red Video\nhttps://ecal.ai/f/2gSPq
+ s/3NSJD\n\nAll Red Membership\nhttps://ecal.ai/f/2gSPrp/3NSJD\n\nLFC Shop\n
+ https://ecal.ai/f/2gSPsq/3NSJD\n\nFacebook\nhttps://ecal.ai/f/2gSPtP/3NSJD\
+ n\nX\nhttps://ecal.ai/f/2gSPvF/3NSJD\n\nInstagram\nhttps://ecal.ai/f/2gSPwF
+ /3NSJD\n\nManage my ECAL\nhttps://ecal.ai/f/2gSPzz/3NSJD\n\n
+X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Anfield\, Liverpool
+X-ECAL-SCHEDULE:
+DTSTART:20261209T200000Z
+DTEND:20261209T220000Z
+SUMMARY:🔴⚽️ Liverpool vs FC Porto
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a92eb6c54aa8848ac4d6d0d
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:UEFA Champions League | Follow the live action on the Liverpool
+  website or App | Join in: @LFC \n\nShow your colours\, shop official Liver
+ pool merchandise online. Worldwide shipping available. Shop now!\n\nMatch C
+ entre\nhttps://ecal.ai/f/2x7Bzl/3NSJD\n\nAll Red Video\nhttps://ecal.ai/f/2
+ qX1Fv/3NSJD\n\nAll Red Membership\nhttps://ecal.ai/f/2qX1FP/3NSJD\n\nLFC Sh
+ op\nhttps://ecal.ai/f/2qX1G7/3NSJD\n\nFacebook\nhttps://ecal.ai/f/2qX1Gw/3N
+ SJD\n\nX\nhttps://ecal.ai/f/2qX1GP/3NSJD\n\nInstagram\nhttps://ecal.ai/f/2q
+ X1H1/3NSJD\n\nManage my ECAL\nhttps://ecal.ai/f/2qX1HT/3NSJD\n\n
+X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Stadio Giuseppe Meazza\, Milano
+X-ECAL-SCHEDULE:
+DTSTART:20270119T200000Z
+DTEND:20270119T220000Z
+SUMMARY:🔴⚽️ Internazionale vs Liverpool
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a92eb6c54aa8848ac4d6d0e
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:UEFA Champions League | Follow the live action on the Liverpool
+  website or App | Join in: @LFC \n\nGET CLOSER TO LFC. Register to access e
+ xclusive video content\, enter competitions\, and receive the official news
+ letter.\n\nMatch Centre\nhttps://ecal.ai/f/2x7BzR/3NSJD\n\nAll Red Video\nh
+ ttps://ecal.ai/f/2qX1Jw/3NSJD\n\nAll Red Membership\nhttps://ecal.ai/f/2qX1
+ JL/3NSJD\n\nLFC Shop\nhttps://ecal.ai/f/2qX1K6/3NSJD\n\nFacebook\nhttps://e
+ cal.ai/f/2qX1KF/3NSJD\n\nX\nhttps://ecal.ai/f/2qX1Lc/3NSJD\n\nInstagram\nht
+ tps://ecal.ai/f/2qX1LN/3NSJD\n\nManage my ECAL\nhttps://ecal.ai/f/2qX1My/3N
+ SJD\n\n
+X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Anfield\, Liverpool
+X-ECAL-SCHEDULE:
+DTSTART:20261101T163000Z
+DTEND:20261101T183000Z
+SUMMARY:🔴⚽️ Liverpool vs Arsenal
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35078654aa884dc433f8bf
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League | Watch live on UK - Sky Sports | BBC Radio 5 Li
+ ve | Join in: #LIVARS \n\nShow your colours\, shop official Liverpool merch
+ andise online. Worldwide shipping available. Shop now!\n\nMatch Centre\nhtt
+ ps://ecal.ai/f/2x7BBk/3NSJD\n\nAll Red Video\nhttps://ecal.ai/f/2gSMK3/3NSJ
+ D\n\nAll Red Membership\nhttps://ecal.ai/f/2gSMKy/3NSJD\n\nLFC Shop\nhttps:
+ //ecal.ai/f/2gSMLg/3NSJD\n\nFacebook\nhttps://ecal.ai/f/2gSMMk/3NSJD\n\nX\n
+ https://ecal.ai/f/2gSMMJ/3NSJD\n\nInstagram\nhttps://ecal.ai/f/2gSMNz/3NSJD
+ \n\nManage my ECAL\nhttps://ecal.ai/f/2gSMQz/3NSJD\n\n
+X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Anfield\, Liverpool
+X-ECAL-SCHEDULE:
+DTSTART:20261219T173000Z
+DTEND:20261219T193000Z
+SUMMARY:🔴⚽️ Liverpool vs Tottenham Hotspur
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35078654aa8848ab04bf14
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League | Watch live on UK - Sky Sports | Join in: #LIVT
+ OT \n\nShow your colours\, shop official Liverpool merchandise online. Worl
+ dwide shipping available. Shop now!\n\nMatch Centre\nhttps://ecal.ai/f/2x7B
+ BJ/3NSJD\n\nAll Red Video\nhttps://ecal.ai/f/2gSNRJ/3NSJD\n\nAll Red Member
+ ship\nhttps://ecal.ai/f/2gSNSb/3NSJD\n\nLFC Shop\nhttps://ecal.ai/f/2gSNSW/
+ 3NSJD\n\nFacebook\nhttps://ecal.ai/f/2gSNVk/3NSJD\n\nX\nhttps://ecal.ai/f/2
+ gSNVW/3NSJD\n\nInstagram\nhttps://ecal.ai/f/2gSNWN/3NSJD\n\nManage my ECAL\
+ nhttps://ecal.ai/f/2gSNZD/3NSJD\n\n
+X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Villa Park\, Birmingham
+X-ECAL-SCHEDULE:
+DTSTART:20261230T201500Z
+DTEND:20261230T221500Z
+SUMMARY:🔴⚽️ Aston Villa vs Liverpool
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35078754aa884dc433f8c7
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League | Follow the live action on the Liverpool websit
+ e or App | Join in: #VILLIV \n\nGET CLOSER TO LFC. Register to access exclu
+ sive video content\, enter competitions\, and receive the official newslett
+ er.\n\nMatch Centre\nhttps://ecal.ai/f/2x7BCc/3NSJD\n\nAll Red Video\nhttps
+ ://ecal.ai/f/2gSPcd/3NSJD\n\nAll Red Membership\nhttps://ecal.ai/f/2gSPcL/3
+ NSJD\n\nLFC Shop\nhttps://ecal.ai/f/2gSPdC/3NSJD\n\nFacebook\nhttps://ecal.
+ ai/f/2gSPfv/3NSJD\n\nX\nhttps://ecal.ai/f/2gSPgz/3NSJD\n\nInstagram\nhttps:
+ //ecal.ai/f/2gSPhq/3NSJD\n\nManage my ECAL\nhttps://ecal.ai/f/2gSPkX/3NSJD\
+ n\n
+X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Stadium of Light\, Sunderland
+X-ECAL-SCHEDULE:
+DTSTART:20270105T201500Z
+DTEND:20270105T221500Z
+SUMMARY:🔴⚽️ Sunderland vs Liverpool
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35078754aa884dc433f8c9
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League | Follow the live action on the Liverpool websit
+ e or App | Join in: #SUNLIV \n\nGET CLOSER TO LFC. Register to access exclu
+ sive video content\, enter competitions\, and receive the official newslett
+ er.\n\nMatch Centre\nhttps://ecal.ai/f/2x7BCM/3NSJD\n\nAll Red Video\nhttps
+ ://ecal.ai/f/2gSPJR/3NSJD\n\nAll Red Membership\nhttps://ecal.ai/f/2gSPKG/3
+ NSJD\n\nLFC Shop\nhttps://ecal.ai/f/2gSPLx/3NSJD\n\nFacebook\nhttps://ecal.
+ ai/f/2gSPNd/3NSJD\n\nX\nhttps://ecal.ai/f/2gSPP1/3NSJD\n\nInstagram\nhttps:
+ //ecal.ai/f/2gSPQ7/3NSJD\n\nManage my ECAL\nhttps://ecal.ai/f/2gSPT6/3NSJD\
+ n\n
+X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Tottenham Hotspur Stadium\, London
+X-ECAL-SCHEDULE:
+DTSTART:20270227T150000Z
+DTEND:20270227T170000Z
+SUMMARY:🔴⚽️ Tottenham Hotspur vs Liverpool
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35078754aa884dc433f8ce
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League | Follow the live action on the Liverpool websit
+ e or App | Join in: #TOTLIV \n\nGET CLOSER TO LFC. Register to access exclu
+ sive video content\, enter competitions\, and receive the official newslett
+ er.\n\nMatch Centre\nhttps://ecal.ai/f/2x7BDk/3NSJD\n\nAll Red Video\nhttps
+ ://ecal.ai/f/2gSR7z/3NSJD\n\nAll Red Membership\nhttps://ecal.ai/f/2gSR7Y/3
+ NSJD\n\nLFC Shop\nhttps://ecal.ai/f/2gSR8L/3NSJD\n\nFacebook\nhttps://ecal.
+ ai/f/2gSR9K/3NSJD\n\nX\nhttps://ecal.ai/f/2gSRbg/3NSJD\n\nInstagram\nhttps:
+ //ecal.ai/f/2gSRbY/3NSJD\n\nManage my ECAL\nhttps://ecal.ai/f/2gSRfg/3NSJD\
+ n\n
+X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:The City Ground\, Nottingham
+X-ECAL-SCHEDULE:
+DTSTART:20270417T140000Z
+DTEND:20270417T160000Z
+SUMMARY:🔴⚽️ Nottingham Forest vs Liverpool
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35078754aa8848ab04bf22
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League | Follow the live action on the Liverpool websit
+ e or App | Join in: #FORLIV \n\nGET CLOSER TO LFC. Register to access exclu
+ sive video content\, enter competitions\, and receive the official newslett
+ er.\n\nMatch Centre\nhttps://ecal.ai/f/2x7BDL/3NSJD\n\nAll Red Video\nhttps
+ ://ecal.ai/f/2gSS5B/3NSJD\n\nAll Red Membership\nhttps://ecal.ai/f/2gSS6m/3
+ NSJD\n\nLFC Shop\nhttps://ecal.ai/f/2gSS72/3NSJD\n\nFacebook\nhttps://ecal.
+ ai/f/2gSS89/3NSJD\n\nX\nhttps://ecal.ai/f/2gSS8F/3NSJD\n\nInstagram\nhttps:
+ //ecal.ai/f/2gSS9d/3NSJD\n\nManage my ECAL\nhttps://ecal.ai/f/2gSScn/3NSJD\
+ n\n
+X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Elland Road\, Leeds
+X-ECAL-SCHEDULE:
+DTSTART:20270424T140000Z
+DTEND:20270424T160000Z
+SUMMARY:🔴⚽️ Leeds United vs Liverpool
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35078754aa8848ab04bf23
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League | Follow the live action on the Liverpool websit
+ e or App | Join in: #LEELIV \n\nGET CLOSER TO LFC. Register to access exclu
+ sive video content\, enter competitions\, and receive the official newslett
+ er.\n\nMatch Centre\nhttps://ecal.ai/f/2x7BFk/3NSJD\n\nAll Red Video\nhttps
+ ://ecal.ai/f/2gSSdF/3NSJD\n\nAll Red Membership\nhttps://ecal.ai/f/2gSSfg/3
+ NSJD\n\nLFC Shop\nhttps://ecal.ai/f/2gSSfK/3NSJD\n\nFacebook\nhttps://ecal.
+ ai/f/2gSSh8/3NSJD\n\nX\nhttps://ecal.ai/f/2gSShK/3NSJD\n\nInstagram\nhttps:
+ //ecal.ai/f/2gSSjL/3NSJD\n\nManage my ECAL\nhttps://ecal.ai/f/2gSSpr/3NSJD\
+ n\n
+X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Etihad Stadium\, Manchester
+X-ECAL-SCHEDULE:
+DTSTART:20270508T140000Z
+DTEND:20270508T160000Z
+SUMMARY:🔴⚽️ Manchester City vs Liverpool
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35078754aa8848ab04bf25
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League | Follow the live action on the Liverpool websit
+ e or App | Join in: #MCILIV \n\nGET CLOSER TO LFC. Register to access exclu
+ sive video content\, enter competitions\, and receive the official newslett
+ er.\n\nMatch Centre\nhttps://ecal.ai/f/2x7BFP/3NSJD\n\nAll Red Video\nhttps
+ ://ecal.ai/f/2gSSzW/3NSJD\n\nAll Red Membership\nhttps://ecal.ai/f/2gSSBR/3
+ NSJD\n\nLFC Shop\nhttps://ecal.ai/f/2gSSCD/3NSJD\n\nFacebook\nhttps://ecal.
+ ai/f/2gSSDQ/3NSJD\n\nX\nhttps://ecal.ai/f/2gSSFM/3NSJD\n\nInstagram\nhttps:
+ //ecal.ai/f/2gSSGn/3NSJD\n\nManage my ECAL\nhttps://ecal.ai/f/2gSSJM/3NSJD\
+ n\n
+X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Anfield\, Liverpool
+X-ECAL-SCHEDULE:
+DTSTART:20261025T140000Z
+DTEND:20261025T160000Z
+SUMMARY:🔴⚽️ Liverpool vs Brighton and Hove Albion
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35078654aa884dc433f8be
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League | Watch live on UK - Sky Sports | BBC Radio 5 Li
+ ve | Join in: #LIVBHA \n\nShow your colours\, shop official Liverpool merch
+ andise online. Worldwide shipping available. Shop now!\n\nMatch Centre\nhtt
+ ps://ecal.ai/f/2x7BGV/3NSJD\n\nAll Red Video\nhttps://ecal.ai/f/2gSMyW/3NSJ
+ D\n\nAll Red Membership\nhttps://ecal.ai/f/2gSMzm/3NSJD\n\nLFC Shop\nhttps:
+ //ecal.ai/f/2gSMzZ/3NSJD\n\nFacebook\nhttps://ecal.ai/f/2gSMDd/3NSJD\n\nX\n
+ https://ecal.ai/f/2gSMDR/3NSJD\n\nInstagram\nhttps://ecal.ai/f/2gSMFH/3NSJD
+ \n\nManage my ECAL\nhttps://ecal.ai/f/2gSMHC/3NSJD\n\n
+X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Anfield\, Liverpool
+X-ECAL-SCHEDULE:
+DTSTART:20261202T193000Z
+DTEND:20261202T213000Z
+SUMMARY:🔴⚽️ Liverpool vs Sunderland
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35078654aa8848ab04bf11
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League | Watch live on UK - Sky Sports | Join in: #LIVS
+ UN \n\nShow your colours\, shop official Liverpool merchandise online. Worl
+ dwide shipping available. Shop now!\n\nMatch Centre\nhttps://ecal.ai/f/2x7B
+ Hp/3NSJD\n\nAll Red Video\nhttps://ecal.ai/f/2gSNlg/3NSJD\n\nAll Red Member
+ ship\nhttps://ecal.ai/f/2gSNm1/3NSJD\n\nLFC Shop\nhttps://ecal.ai/f/2gSNmW/
+ 3NSJD\n\nFacebook\nhttps://ecal.ai/f/2gSNnY/3NSJD\n\nX\nhttps://ecal.ai/f/2
+ gSNpC/3NSJD\n\nInstagram\nhttps://ecal.ai/f/2gSNqj/3NSJD\n\nManage my ECAL\
+ nhttps://ecal.ai/f/2gSNsv/3NSJD\n\n
+X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Anfield\, Liverpool
+X-ECAL-SCHEDULE:
+DTSTART:20261028T200000Z
+DTEND:20261028T220000Z
+SUMMARY:🔴⚽️ Liverpool vs Chelsea
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6aab161954aa88b4fa2e6b47
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:English League Cup | Follow the live action on the Liverpool we
+ bsite or App | Join in: @LFC \n\nShow your colours\, shop official Liverpoo
+ l merchandise online. Worldwide shipping available. Shop now!\n\nMatch Cent
+ re\nhttps://ecal.ai/f/2x7BHP/3NSJD\n\nAll Red Video\nhttps://ecal.ai/f/2slz
+ Nm/3NSJD\n\nAll Red Membership\nhttps://ecal.ai/f/2slzNq/3NSJD\n\nLFC Shop\
+ nhttps://ecal.ai/f/2slzNs/3NSJD\n\nFacebook\nhttps://ecal.ai/f/2slzNt/3NSJD
+ \n\nX\nhttps://ecal.ai/f/2slzNv/3NSJD\n\nInstagram\nhttps://ecal.ai/f/2slzN
+ w/3NSJD\n\nManage my ECAL\nhttps://ecal.ai/f/2slzNz/3NSJD\n\n
 X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
 BEGIN:VALARM
 TRIGGER:-P1DT

@@ -2818,38 +2818,6 @@ END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
 DTSTAMP:00010101T000000Z
-LOCATION:Stamford Bridge\, London
-X-ECAL-SCHEDULE:
-DTSTART:20261031T123000Z
-DTEND:20261031T143000Z
-SUMMARY:⚡⚽️ Chelsea v Manchester United
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35075954aa8848aa0a865a
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League Matchweek 9 | Watch live on UK - TNT Sports. Lis
- ten live on TalkSport | #CHEMUN\n\n⚡ Chelsea sit fifth with 13 points\, w
- hile Manchester United are 16th with seven. United are now winless in their
-  last six Premier League games. Can Chelsea take advantage at Stamford Brid
- ge?\n\nDive into the latest news\, press conferences and the final injury u
- pdates.\n\nMatch Preview and Lineups\nhttps://premlge.co/f/2gRWZV/3NSJK\n\n
- Latest Premier League News\nhttps://premlge.co/f/2x3y2C/3NSJK\n\nLatest Che
- lsea News\nhttps://premlge.co/f/2qCvQz/3NSJK\n\nChelsea on X\nhttps://preml
- ge.co/f/2qCvQN/3NSJK\n\nLatest Manchester United News\nhttps://premlge.co/f
- /2qCvQQ/3NSJK\n\nManchester United on X\nhttps://premlge.co/f/2qCvQY/3NSJK\
- n\nManage my ECAL\nhttps://premlge.co/f/2gRX1r/3NSJK\n\n
-X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
 LOCATION:Gtech Community Stadium\, Brentford
 X-ECAL-SCHEDULE:
 DTSTART:20261031T150000Z
@@ -10129,6 +10097,35 @@ DESCRIPTION:Premier League Matchweek 9 | Watch live on UK - Sky Sports. Lis
  e.co/f/2gRX3Y/3NSJK\n\nLatest Arsenal News\nhttps://premlge.co/f/2gRX4c/3NS
  JK\n\nArsenal on X\nhttps://premlge.co/f/2gRX4g/3NSJK\n\nManage my ECAL\nht
  tps://premlge.co/f/2gRX4t/3NSJK\n\n
+X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Stamford Bridge\, London
+X-ECAL-SCHEDULE:
+DTSTART:20261031T123000Z
+DTEND:20261031T143000Z
+SUMMARY:📰⚽️ Chelsea v Manchester United
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35075954aa8848aa0a865a
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League Matchweek 9 | Watch live on UK - TNT Sports. Lis
+ ten live on TalkSport | #CHEMUN\n\n📰 TEN memorable moments from Chelsea 
+ v Man Utd\n\nRead all about it 👇\nhttps://premlge.co/f/2xhSJd/3NSJK\n\nL
+ atest Premier League News\nhttps://premlge.co/f/2x3y2C/3NSJK\n\nLatest Chel
+ sea News\nhttps://premlge.co/f/2qCvQz/3NSJK\n\nChelsea on X\nhttps://premlg
+ e.co/f/2qCvQN/3NSJK\n\nLatest Manchester United News\nhttps://premlge.co/f/
+ 2qCvQQ/3NSJK\n\nManchester United on X\nhttps://premlge.co/f/2qCvQY/3NSJK\n
+ \nManage my ECAL\nhttps://premlge.co/f/2gRX1r/3NSJK\n\n
 X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
 BEGIN:VALARM
 TRIGGER:-PT15M

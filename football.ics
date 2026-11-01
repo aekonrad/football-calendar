@@ -9840,35 +9840,6 @@ END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
 DTSTAMP:00010101T000000Z
-LOCATION:Anfield\, Liverpool
-X-ECAL-SCHEDULE:
-DTSTART:20261101T163000Z
-DTEND:20261101T183000Z
-SUMMARY:📰⚽️ Liverpool v Arsenal
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35075954aa884dbc65c975
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League Matchweek 9 | Watch live on UK - Sky Sports. Lis
- ten live on BBC Radio 5 Live | #LIVARS\n\n📰 TEN memorable moments from L
- iverpool v Arsenal\n\nRead all about it 👇\nhttps://premlge.co/f/2xkFvK/3
- NSJK\n\nLatest Premier League News\nhttps://premlge.co/f/2x8WV8/3NSJK\n\nLa
- test Liverpool News\nhttps://premlge.co/f/2qCvTn/3NSJK\n\nLiverpool on X\nh
- ttps://premlge.co/f/2gRX3Y/3NSJK\n\nLatest Arsenal News\nhttps://premlge.co
- /f/2gRX4c/3NSJK\n\nArsenal on X\nhttps://premlge.co/f/2gRX4g/3NSJK\n\nManag
- e my ECAL\nhttps://premlge.co/f/2gRX4t/3NSJK\n\n
-X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
 LOCATION:MKM Stadium\, Hull
 X-ECAL-SCHEDULE:
 DTSTART:20261226T173000Z
@@ -10140,6 +10111,35 @@ DESCRIPTION:The Drama doesn’t stop at the final whistle!\n\nDive back int
  sults\nhttps://premlge.co/f/2xk1Tt/3NSJK\n\nLatest Chelsea News\nhttps://pr
  emlge.co/f/2qCvQz/3NSJK\n\nLatest Manchester United News\nhttps://premlge.c
  o/f/2qCvQQ/3NSJK\n\nManage my ECAL\nhttps://premlge.co/f/2gRX1r/3NSJK\n\n
+X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Anfield\, Liverpool
+X-ECAL-SCHEDULE:
+DTSTART:20261101T163000Z
+DTEND:20261101T183000Z
+SUMMARY:🟣⚽️ Liverpool v Arsenal
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35075954aa884dbc65c975
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League Matchweek 9 | Watch live on UK - Sky Sports. Lis
+ ten live on BBC Radio 5 Live | #LIVARS\n\nEverything you need to know from 
+ kickoff to the final whistle 👇\n\n▶️ Watch LIVE on UK - Sky Sports\n
+ https://premlge.co/f/2wJqqT/3NSJK\n\n📱 Matchday LIVE\nhttps://premlge.co
+ /f/2gRX3K/3NSJK\n\nSee other Scores\nhttps://premlge.co/f/2xqgHx/3NSJK\n\nF
+ ollow the match on Liverpool X\nhttps://premlge.co/f/2gRX3Y/3NSJK\n\nFollow
+  the match on Arsenal X\nhttps://premlge.co/f/2gRX4g/3NSJK\n\nManage my ECA
+ L\nhttps://premlge.co/f/2gRX4t/3NSJK\n\n
 X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
 BEGIN:VALARM
 TRIGGER:-PT15M

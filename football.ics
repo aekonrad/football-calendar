@@ -10089,35 +10089,6 @@ END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
 DTSTAMP:00010101T000000Z
-LOCATION:St. James' Park\, Newcastle
-X-ECAL-SCHEDULE:
-DTSTART:20261102T200000Z
-DTEND:20261102T220000Z
-SUMMARY:📰⚽️ Newcastle United v Everton
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35075954aa8848ab04b9ee
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League Matchweek 9 | Watch live on UK - Sky Sports. Lis
- ten live on TalkSport | #NEWEVE\n\n📰 Ten KEY questions for Matchweek 9's
-  fixtures\n\nRead all about it 👇\nhttps://premlge.co/f/2xHJkw/3NSJK\n\nL
- atest Premier League News\nhttps://premlge.co/f/2xjj9g/3NSJK\n\nLatest Newc
- astle United News\nhttps://premlge.co/f/2qTRhV/3NSJK\n\nNewcastle United on
-  X\nhttps://premlge.co/f/2gRX6b/3NSJK\n\nLatest Everton News\nhttps://preml
- ge.co/f/2qTRhZ/3NSJK\n\nEverton on X\nhttps://premlge.co/f/2gRX6p/3NSJK\n\n
- Manage my ECAL\nhttps://premlge.co/f/2gRX6M/3NSJK\n\n
-X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
 LOCATION:Selhurst Park\, London
 X-ECAL-SCHEDULE:
 DTSTART:20261227T190000Z
@@ -10136,6 +10107,35 @@ DESCRIPTION:Premier League Matchweek 17 | Watch live on UK - Sky Sports | #
  3NSJK\n\nLatest Arsenal News\nhttps://premlge.co/f/2gRYBZ/3NSJK\n\nArsenal 
  on X\nhttps://premlge.co/f/2gRYC7/3NSJK\n\nManage my ECAL\nhttps://premlge.
  co/f/2gRYCr/3NSJK\n\n
+X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:St. James' Park\, Newcastle
+X-ECAL-SCHEDULE:
+DTSTART:20261102T200000Z
+DTEND:20261102T220000Z
+SUMMARY:🟣⚽️ Newcastle United v Everton
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35075954aa8848ab04b9ee
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League Matchweek 9 | Watch live on UK - Sky Sports. Lis
+ ten live on TalkSport | #NEWEVE\n\nEverything you need to know from kickoff
+  to the final whistle 👇\n\n▶️ Watch LIVE on UK - Sky Sports\nhttps:/
+ /premlge.co/f/2wJqmp/3NSJK\n\n📱 Matchday LIVE\nhttps://premlge.co/f/2gRX
+ 5V/3NSJK\n\nSee other Scores\nhttps://premlge.co/f/2xJVSs/3NSJK\n\nFollow t
+ he match on Newcastle United X\nhttps://premlge.co/f/2gRX6b/3NSJK\n\nFollow
+  the match on Everton X\nhttps://premlge.co/f/2gRX6p/3NSJK\n\nManage my ECA
+ L\nhttps://premlge.co/f/2gRX6M/3NSJK\n\n
 X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
 BEGIN:VALARM
 TRIGGER:-PT15M

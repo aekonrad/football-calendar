@@ -4163,38 +4163,6 @@ END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
 DTSTAMP:00010101T000000Z
-LOCATION:St. James' Park\, Newcastle
-X-ECAL-SCHEDULE:
-DTSTART:20261102T200000Z
-DTEND:20261102T220000Z
-SUMMARY:⚡⚽️ Newcastle United v Everton
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35075954aa8848ab04b9ee
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League Matchweek 9 | Watch live on UK - Sky Sports. Lis
- ten live on TalkSport | #NEWEVE\n\n⚡ Newcastle United ended a two-match P
- remier League losing run with a 2-0 win at Crystal Palace\, while Everton h
- ead to St James’ Park after consecutive 2-0 defeats.\n\nDive into the lat
- est news\, press conferences and the final injury updates.\n\nMatch Preview
-  and Lineups\nhttps://premlge.co/f/2gRX5V/3NSJK\n\nLatest Premier League Ne
- ws\nhttps://premlge.co/f/2xjj9g/3NSJK\n\nLatest Newcastle United News\nhttp
- s://premlge.co/f/2qTRhV/3NSJK\n\nNewcastle United on X\nhttps://premlge.co/
- f/2gRX6b/3NSJK\n\nLatest Everton News\nhttps://premlge.co/f/2qTRhZ/3NSJK\n\
- nEverton on X\nhttps://premlge.co/f/2gRX6p/3NSJK\n\nManage my ECAL\nhttps:/
- /premlge.co/f/2gRX6M/3NSJK\n\n
-X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
 LOCATION:Hill Dickinson Stadium\, Liverpool
 X-ECAL-SCHEDULE:
 DTSTART:20261106T200000Z
@@ -5753,62 +5721,6 @@ DESCRIPTION:Premier League Matchweek 17 | Follow the game on Matchday Live
   on X\nhttps://premlge.co/f/2nsjl2/3NSJK\n\nLatest AFC Bournemouth News\nht
  tps://premlge.co/f/2nsjl3/3NSJK\n\nAFC Bournemouth on X\nhttps://premlge.co
  /f/2nsjl5/3NSJK\n\nManage my ECAL\nhttps://premlge.co/f/2gRYLz/3NSJK\n\n
-X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
-LOCATION:Old Trafford\, Manchester
-X-ECAL-SCHEDULE:
-DTSTART:20261227T163000Z
-DTEND:20261227T183000Z
-SUMMARY:⚽️ Manchester United v Nottingham Forest
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35075a54aa884dbe01994d
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League Matchweek 17 | Follow the game on Matchday Live 
- | #MUNFOR\n\nMatchday Live\nhttps://premlge.co/f/2gRYJ3/3NSJK\n\nLatest Man
- chester United News\nhttps://premlge.co/f/2qTPtT/3NSJK\n\nManchester United
-  on X\nhttps://premlge.co/f/2qTPtX/3NSJK\n\nLatest Nottingham Forest News\n
- https://premlge.co/f/2qTPv5/3NSJK\n\nNottingham Forest on X\nhttps://premlg
- e.co/f/2nB7Ks/3NSJK\n\nManage my ECAL\nhttps://premlge.co/f/2gRYJv/3NSJK\n\
- n
-X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
-LOCATION:Selhurst Park\, London
-X-ECAL-SCHEDULE:
-DTSTART:20261227T190000Z
-DTEND:20261227T210000Z
-SUMMARY:⚽️ Crystal Palace v Arsenal
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35075a54aa8848ab04ba08
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League Matchweek 17 | Follow the game on Matchday Live 
- | #CRYARS\n\nMatchday Live\nhttps://premlge.co/f/2gRYBG/3NSJK\n\nShop Offic
- ial Crystal Palace Merchandise\nhttps://premlge.co/f/2qTPrr/3NSJK\n\nDownlo
- ad the Crystal Palace App\nhttps://premlge.co/f/2qTPrt/3NSJK\n\nShop Offici
- al Arsenal Merchandise\nhttps://premlge.co/f/2qTPrw/3NSJK\n\nDownload the A
- rsenal App\nhttps://premlge.co/f/2qTPry/3NSJK\n\nManage my ECAL\nhttps://pr
- emlge.co/f/2gRYCr/3NSJK\n\n
 X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -10093,35 +10005,6 @@ END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
 DTSTAMP:00010101T000000Z
-LOCATION:Anfield\, Liverpool
-X-ECAL-SCHEDULE:
-DTSTART:20261101T163000Z
-DTEND:20261101T183000Z
-SUMMARY:🟣⚽️ Liverpool v Arsenal
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35075954aa884dbc65c975
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League Matchweek 9 | Watch live on UK - Sky Sports. Lis
- ten live on BBC Radio 5 Live | #LIVARS\n\nEverything you need to know from 
- kickoff to the final whistle 👇\n\n▶️ Watch LIVE on UK - Sky Sports\n
- https://premlge.co/f/2wJqqT/3NSJK\n\n📱 Matchday LIVE\nhttps://premlge.co
- /f/2gRX3K/3NSJK\n\nSee other Scores\nhttps://premlge.co/f/2xqgHx/3NSJK\n\nF
- ollow the match on Liverpool X\nhttps://premlge.co/f/2gRX3Y/3NSJK\n\nFollow
-  the match on Arsenal X\nhttps://premlge.co/f/2gRX4g/3NSJK\n\nManage my ECA
- L\nhttps://premlge.co/f/2gRX4t/3NSJK\n\n
-X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
 LOCATION:Coventry Building Society Arena\, Coventry
 X-ECAL-SCHEDULE:
 DTSTART:20261227T140000Z
@@ -10140,6 +10023,119 @@ DESCRIPTION:Premier League Matchweek 17 | Watch live on UK - Sky Sports | #
  SJK\n\nLatest Chelsea News\nhttps://premlge.co/f/2qTPr9/3NSJK\n\nChelsea on
   X\nhttps://premlge.co/f/2jgBPq/3NSJK\n\nManage my ECAL\nhttps://premlge.co
  /f/2gRYBs/3NSJK\n\n
+X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Old Trafford\, Manchester
+X-ECAL-SCHEDULE:
+DTSTART:20261227T163000Z
+DTEND:20261227T183000Z
+SUMMARY:⚽️ Manchester United v Nottingham Forest
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35075a54aa884dbe01994d
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League Matchweek 17 | Watch live on UK - Sky Sports | #
+ MUNFOR\n\nWatch Live\nhttps://premlge.co/f/2xHCwY/3NSJK\n\nMatchday Live\nh
+ ttps://premlge.co/f/2gRYJ3/3NSJK\n\nLatest Manchester United News\nhttps://
+ premlge.co/f/2qTPtT/3NSJK\n\nManchester United on X\nhttps://premlge.co/f/2
+ qTPtX/3NSJK\n\nLatest Nottingham Forest News\nhttps://premlge.co/f/2qTPv5/3
+ NSJK\n\nNottingham Forest on X\nhttps://premlge.co/f/2nB7Ks/3NSJK\n\nManage
+  my ECAL\nhttps://premlge.co/f/2gRYJv/3NSJK\n\n
+X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Anfield\, Liverpool
+X-ECAL-SCHEDULE:
+DTSTART:20261101T163000Z
+DTEND:20261101T183000Z
+SUMMARY:▶️⚽️ Liverpool 0 - Arsenal 1
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35075954aa884dbc65c975
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:The Drama doesn’t stop at the final whistle!\n\nDive back int
+ o the action! Catch every goal\, spectacular save\, and match highlight rig
+ ht here.\n\nWatch highlights on UK - Sky Sports\nhttps://premlge.co/f/2xHJk
+ v/3NSJK\n\nMatch Summary\nhttps://premlge.co/f/2gRX3K/3NSJK\n\nSee other Re
+ sults\nhttps://premlge.co/f/2xqgHx/3NSJK\n\nLatest Liverpool News\nhttps://
+ premlge.co/f/2qCvTn/3NSJK\n\nLatest Arsenal News\nhttps://premlge.co/f/2gRX
+ 4c/3NSJK\n\nManage my ECAL\nhttps://premlge.co/f/2gRX4t/3NSJK\n\n
+X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:St. James' Park\, Newcastle
+X-ECAL-SCHEDULE:
+DTSTART:20261102T200000Z
+DTEND:20261102T220000Z
+SUMMARY:📰⚽️ Newcastle United v Everton
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35075954aa8848ab04b9ee
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League Matchweek 9 | Watch live on UK - Sky Sports. Lis
+ ten live on TalkSport | #NEWEVE\n\n📰 Ten KEY questions for Matchweek 9's
+  fixtures\n\nRead all about it 👇\nhttps://premlge.co/f/2xHJkw/3NSJK\n\nL
+ atest Premier League News\nhttps://premlge.co/f/2xjj9g/3NSJK\n\nLatest Newc
+ astle United News\nhttps://premlge.co/f/2qTRhV/3NSJK\n\nNewcastle United on
+  X\nhttps://premlge.co/f/2gRX6b/3NSJK\n\nLatest Everton News\nhttps://preml
+ ge.co/f/2qTRhZ/3NSJK\n\nEverton on X\nhttps://premlge.co/f/2gRX6p/3NSJK\n\n
+ Manage my ECAL\nhttps://premlge.co/f/2gRX6M/3NSJK\n\n
+X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Selhurst Park\, London
+X-ECAL-SCHEDULE:
+DTSTART:20261227T190000Z
+DTEND:20261227T210000Z
+SUMMARY:⚽️ Crystal Palace v Arsenal
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35075a54aa8848ab04ba08
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League Matchweek 17 | Watch live on UK - Sky Sports | #
+ CRYARS\n\nWatch Live\nhttps://premlge.co/f/2xHJkx/3NSJK\n\nMatchday Live\nh
+ ttps://premlge.co/f/2gRYBG/3NSJK\n\nLatest Crystal Palace News\nhttps://pre
+ mlge.co/f/2qCGTh/3NSJK\n\nCrystal Palace on X\nhttps://premlge.co/f/2gRYBR/
+ 3NSJK\n\nLatest Arsenal News\nhttps://premlge.co/f/2gRYBZ/3NSJK\n\nArsenal 
+ on X\nhttps://premlge.co/f/2gRYC7/3NSJK\n\nManage my ECAL\nhttps://premlge.
+ co/f/2gRYCr/3NSJK\n\n
 X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
 BEGIN:VALARM
 TRIGGER:-PT15M

@@ -5145,34 +5145,6 @@ END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
 DTSTAMP:00010101T000000Z
-LOCATION:The City Ground\, Nottingham
-X-ECAL-SCHEDULE:
-DTSTART:20261219T150000Z
-DTEND:20261219T170000Z
-SUMMARY:⚽️ Nottingham Forest v Everton
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35075a54aa884dbe019944
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League Matchweek 16 | Follow the game on Matchday Live 
- | #FOREVE\n\nMatchday Live\nhttps://premlge.co/f/2gRYxh/3NSJK\n\nShop Offic
- ial Nottingham Forest Merchandise\nhttps://premlge.co/f/2qTPql/3NSJK\n\nDow
- nload the Nottingham Forest App\nhttps://premlge.co/f/2qTPqn/3NSJK\n\nShop 
- Official Everton Merchandise\nhttps://premlge.co/f/2qTPqs/3NSJK\n\nDownload
-  the Everton App\nhttps://premlge.co/f/2qTPqy/3NSJK\n\nManage my ECAL\nhttp
- s://premlge.co/f/2gRYxX/3NSJK\n\n
-X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
 LOCATION:Etihad Stadium\, Manchester
 X-ECAL-SCHEDULE:
 DTSTART:20261219T150000Z
@@ -9612,34 +9584,6 @@ END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
 DTSTAMP:00010101T000000Z
-LOCATION:Stamford Bridge\, London
-X-ECAL-SCHEDULE:
-DTSTART:20261031T123000Z
-DTEND:20261031T143000Z
-SUMMARY:▶️⚽️ Chelsea 2 - Manchester United 0
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35075954aa8848aa0a865a
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:The Drama doesn’t stop at the final whistle!\n\nDive back int
- o the action! Catch every goal\, spectacular save\, and match highlight rig
- ht here.\n\nWatch highlights on UK - TNT Sports\nhttps://premlge.co/f/2s6rS
- s/3NSJK\n\nMatch Summary\nhttps://premlge.co/f/2gRWZV/3NSJK\n\nSee other Re
- sults\nhttps://premlge.co/f/2xk1Tt/3NSJK\n\nLatest Chelsea News\nhttps://pr
- emlge.co/f/2qCvQz/3NSJK\n\nLatest Manchester United News\nhttps://premlge.c
- o/f/2qCvQQ/3NSJK\n\nManage my ECAL\nhttps://premlge.co/f/2gRX1r/3NSJK\n\n
-X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
 LOCATION:Coventry Building Society Arena\, Coventry
 X-ECAL-SCHEDULE:
 DTSTART:20261227T140000Z
@@ -9770,35 +9714,6 @@ DESCRIPTION:The Drama doesn’t stop at the final whistle!\n\nDive back int
  sults\nhttps://premlge.co/f/2xJVSs/3NSJK\n\nLatest Newcastle United News\nh
  ttps://premlge.co/f/2qTRhV/3NSJK\n\nLatest Everton News\nhttps://premlge.co
  /f/2qTRhZ/3NSJK\n\nManage my ECAL\nhttps://premlge.co/f/2gRX6M/3NSJK\n\n
-X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
-LOCATION:Elland Road\, Leeds
-X-ECAL-SCHEDULE:
-DTSTART:20261107T123000Z
-DTEND:20261107T143000Z
-SUMMARY:⚽️ Leeds United v Tottenham Hotspur
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35075954aa884dbe019929
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League Matchweek 10 | Watch live on UK - TNT Sports. Li
- sten live on TalkSport | #LEETOT\n\nWatch Live\nhttps://premlge.co/f/2st39j
- /3NSJK\n\nMatchday Live\nhttps://premlge.co/f/2gRXhn/3NSJK\n\nShop Official
-  Leeds United Merchandise\nhttps://premlge.co/f/2qTP3K/3NSJK\n\nDownload th
- e Leeds United App\nhttps://premlge.co/f/2qTP3T/3NSJK\n\nShop Official Tott
- enham Hotspur Merchandise\nhttps://premlge.co/f/2qTP3X/3NSJK\n\nDownload th
- e Tottenham Hotspur App\nhttps://premlge.co/f/2qTP41/3NSJK\n\nManage my ECA
- L\nhttps://premlge.co/f/2gRXj5/3NSJK\n\n
 X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -10151,6 +10066,93 @@ ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Elland Road\, Leeds
+X-ECAL-SCHEDULE:
+DTSTART:20261107T123000Z
+DTEND:20261107T143000Z
+SUMMARY:⚡⚽️ Leeds United v Tottenham Hotspur
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35075954aa884dbe019929
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League Matchweek 10 | Watch live on UK - TNT Sports. Li
+ sten live on TalkSport | #LEETOT\n\n⚡ Leeds United have failed to win the
+ ir last five Premier League matches\, while Tottenham Hotspur arrive at Ell
+ and Road on the back of three consecutive league victories.\n\nDive into th
+ e latest news\, press conferences and the final injury updates.\n\nMatch Pr
+ eview and Lineups\nhttps://premlge.co/f/2gRXhn/3NSJK\n\nLatest Premier Leag
+ ue News\nhttps://premlge.co/f/2xPxwj/3NSJK\n\nLatest Leeds United News\nhtt
+ ps://premlge.co/f/2qCvW7/3NSJK\n\nLeeds United on X\nhttps://premlge.co/f/2
+ gRXhx/3NSJK\n\nLatest Tottenham Hotspur News\nhttps://premlge.co/f/2qCvWf/3
+ NSJK\n\nTottenham Hotspur on X\nhttps://premlge.co/f/2gRXhN/3NSJK\n\nManage
+  my ECAL\nhttps://premlge.co/f/2gRXj5/3NSJK\n\n
+X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:The City Ground\, Nottingham
+X-ECAL-SCHEDULE:
+DTSTART:20261220T140000Z
+DTEND:20261220T160000Z
+SUMMARY:⚽️ Nottingham Forest v Everton
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35075a54aa884dbe019944
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League Matchweek 16 | Follow the game on Matchday Live 
+ | #FOREVE\n\nMatchday Live\nhttps://premlge.co/f/2gRYxh/3NSJK\n\nLatest Not
+ tingham Forest News\nhttps://premlge.co/f/2qCGRS/3NSJK\n\nNottingham Forest
+  on X\nhttps://premlge.co/f/2gRYxr/3NSJK\n\nLatest Everton News\nhttps://pr
+ emlge.co/f/2qCGS3/3NSJK\n\nEverton on X\nhttps://premlge.co/f/2gRYxD/3NSJK\
+ n\nManage my ECAL\nhttps://premlge.co/f/2gRYxX/3NSJK\n\n
+X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Stamford Bridge\, London
+X-ECAL-SCHEDULE:
+DTSTART:20261031T123000Z
+DTEND:20261031T143000Z
+SUMMARY:⚽️ Chelsea v Manchester United
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35075954aa8848aa0a865a
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League Matchweek 9 | Watch live on UK - TNT Sports. Lis
+ ten live on TalkSport | #CHEMUN\n\nWatch Live\nhttps://premlge.co/f/2s6rSs/
+ 3NSJK\n\nMatchday Live\nhttps://premlge.co/f/2gRWZV/3NSJK\n\nLatest Chelsea
+  News\nhttps://premlge.co/f/2qCvQz/3NSJK\n\nChelsea on X\nhttps://premlge.c
+ o/f/2qCvQN/3NSJK\n\nLatest Manchester United News\nhttps://premlge.co/f/2qC
+ vQQ/3NSJK\n\nManchester United on X\nhttps://premlge.co/f/2qCvQY/3NSJK\n\nM
+ anage my ECAL\nhttps://premlge.co/f/2gRX1r/3NSJK\n\n
+X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
 END:VCALENDAR
 BEGIN:VEVENT
 LAST-MODIFIED:20261028T084919Z
@@ -10209,40 +10211,6 @@ DESCRIPTION:You'll now have the most up-to-date info about events from Live
  f/2x2lDP/3NSJD\n\n
 BEGIN:VALARM
 TRIGGER:-PT1M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
-LOCATION:Anfield\, Liverpool
-X-ECAL-SCHEDULE:
-DTSTART:20261215T150000Z
-DTEND:20261215T170000Z
-SUMMARY:🔴⚽️ Liverpool vs Bournemouth
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6ae2aa0354aa88395864095d
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:English League Cup | Follow the live action on the Liverpool we
- bsite or App | Join in: @LFC \n\nShow your colours\, shop official Liverpoo
- l merchandise online. Worldwide shipping available. Shop now!\n\nMatch Cent
- re\nhttps://ecal.ai/f/2x7Bhy/3NSJD\n\nAll Red Video\nhttps://ecal.ai/f/2x51
- Pj/3NSJD\n\nAll Red Membership\nhttps://ecal.ai/f/2x51Pl/3NSJD\n\nLFC Shop\
- nhttps://ecal.ai/f/2x51Pn/3NSJD\n\nFacebook\nhttps://ecal.ai/f/2x51Pq/3NSJD
- \n\nX\nhttps://ecal.ai/f/2x51Ps/3NSJD\n\nInstagram\nhttps://ecal.ai/f/2x51P
- v/3NSJD\n\nManage my ECAL\nhttps://ecal.ai/f/2x51PC/3NSJD\n\n
-X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
-BEGIN:VALARM
-TRIGGER:-P1DT
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT1H
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
@@ -11583,6 +11551,40 @@ DESCRIPTION:Reminder
 END:VALARM
 BEGIN:VALARM
 TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Anfield\, Liverpool
+X-ECAL-SCHEDULE:
+DTSTART:20261216T200000Z
+DTEND:20261216T220000Z
+SUMMARY:🔴⚽️ Liverpool vs Bournemouth
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6ae2aa0354aa88395864095d
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:English League Cup | Follow the live action on the Liverpool we
+ bsite or App | Join in: @LFC \n\nShow your colours\, shop official Liverpoo
+ l merchandise online. Worldwide shipping available. Shop now!\n\nMatch Cent
+ re\nhttps://ecal.ai/f/2x7Bhy/3NSJD\n\nAll Red Video\nhttps://ecal.ai/f/2x51
+ Pj/3NSJD\n\nAll Red Membership\nhttps://ecal.ai/f/2x51Pl/3NSJD\n\nLFC Shop\
+ nhttps://ecal.ai/f/2x51Pn/3NSJD\n\nFacebook\nhttps://ecal.ai/f/2x51Pq/3NSJD
+ \n\nX\nhttps://ecal.ai/f/2x51Ps/3NSJD\n\nInstagram\nhttps://ecal.ai/f/2x51P
+ v/3NSJD\n\nManage my ECAL\nhttps://ecal.ai/f/2x51PC/3NSJD\n\n
+X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1DT
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM

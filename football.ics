@@ -2094,60 +2094,6 @@ END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
 DTSTAMP:00010101T000000Z
-LOCATION:MKM Stadium\, Hull
-X-ECAL-SCHEDULE:
-DTSTART:20261229T193000Z
-DTEND:20261229T213000Z
-SUMMARY:⚽️ Hull City v Leeds United
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35075a54aa884dbc65c97c
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League Matchweek 18 | Follow the game on Matchday Live 
- | #HULLEE\n\nMatchday Live\nhttps://premlge.co/f/2gRYQN/3NSJK\n\nLatest Hul
- l City News\nhttps://premlge.co/f/2qCGWB/3NSJK\n\nHull City on X\nhttps://p
- remlge.co/f/2gRYQT/3NSJK\n\nLatest Leeds United News\nhttps://premlge.co/f/
- 2qCGWG/3NSJK\n\nLeeds United on X\nhttps://premlge.co/f/2jgBPy/3NSJK\n\nMan
- age my ECAL\nhttps://premlge.co/f/2gRYRd/3NSJK\n\n
-X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
-LOCATION:Hill Dickinson Stadium\, Liverpool
-X-ECAL-SCHEDULE:
-DTSTART:20261229T201500Z
-DTEND:20261229T221500Z
-SUMMARY:⚽️ Everton v Manchester City
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35075a54aa8848ab04ba0e
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League Matchweek 18 | Follow the game on Matchday Live 
- | #EVEMCI\n\nMatchday Live\nhttps://premlge.co/f/2gRYPs/3NSJK\n\nLatest Eve
- rton News\nhttps://premlge.co/f/2qTRny/3NSJK\n\nEverton on X\nhttps://preml
- ge.co/f/2gRYPw/3NSJK\n\nLatest Manchester City News\nhttps://premlge.co/f/2
- qTRnJ/3NSJK\n\nManchester City on X\nhttps://premlge.co/f/2qTRnP/3NSJK\n\nM
- anage my ECAL\nhttps://premlge.co/f/2gRYPT/3NSJK\n\n
-X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
 LOCATION:Selhurst Park\, London
 X-ECAL-SCHEDULE:
 DTSTART:20261230T193000Z
@@ -5438,34 +5384,6 @@ DESCRIPTION:Premier League Matchweek 17 | Follow the game on Matchday Live
   on X\nhttps://premlge.co/f/2nsjl2/3NSJK\n\nLatest AFC Bournemouth News\nht
  tps://premlge.co/f/2nsjl3/3NSJK\n\nAFC Bournemouth on X\nhttps://premlge.co
  /f/2nsjl5/3NSJK\n\nManage my ECAL\nhttps://premlge.co/f/2gRYLz/3NSJK\n\n
-X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
-LOCATION:Tottenham Hotspur Stadium\, London
-X-ECAL-SCHEDULE:
-DTSTART:20261229T193000Z
-DTEND:20261229T213000Z
-SUMMARY:⚽️ Tottenham Hotspur v Brighton & Hove Albion
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35075a54aa884dbe019951
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League Matchweek 18 | Follow the game on Matchday Live 
- | #TOTBHA\n\nMatchday Live\nhttps://premlge.co/f/2gRYTj/3NSJK\n\nShop Offic
- ial Tottenham Hotspur Merchandise\nhttps://premlge.co/f/2gRYTv/3NSJK\n\nDow
- nload the Tottenham Hotspur App\nhttps://premlge.co/f/2qCGX2/3NSJK\n\nShop 
- Official Brighton & Hove Albion Merchandise\nhttps://premlge.co/f/2qCGXc/3N
- SJK\n\nDownload the Brighton & Hove Albion App\nhttps://premlge.co/f/2gRYTV
- /3NSJK\n\nManage my ECAL\nhttps://premlge.co/f/2gRYVl/3NSJK\n\n
 X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -9862,34 +9780,6 @@ END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
 DTSTAMP:00010101T000000Z
-LOCATION:Hill Dickinson Stadium\, Liverpool
-X-ECAL-SCHEDULE:
-DTSTART:20261106T200000Z
-DTEND:20261106T220000Z
-SUMMARY:⚽️ Everton v Coventry City
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35075954aa884dbe019926
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League Matchweek 10 | Watch live on UK - Sky Sports. Li
- sten live on TalkSport | #EVECOV\n\nWatch Live\nhttps://premlge.co/f/2xMq2h
- /3NSJK\n\nMatchday Live\nhttps://premlge.co/f/2gRXd2/3NSJK\n\nLatest Everto
- n News\nhttps://premlge.co/f/2qTRjl/3NSJK\n\nEverton on X\nhttps://premlge.
- co/f/2gRXdf/3NSJK\n\nLatest Coventry City News\nhttps://premlge.co/f/2qTRjs
- /3NSJK\n\nCoventry City on X\nhttps://premlge.co/f/2nB7Hz/3NSJK\n\nManage m
- y ECAL\nhttps://premlge.co/f/2gRXdP/3NSJK\n\n
-X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
 LOCATION:Elland Road\, Leeds
 X-ECAL-SCHEDULE:
 DTSTART:20261107T123000Z
@@ -10138,6 +10028,122 @@ DESCRIPTION:Premier League Matchweek 10 | Watch live on UK - Sky Sports. Li
  hop Official Aston Villa Merchandise\nhttps://premlge.co/f/2gRXjS/3NSJK\n\n
  Download the Aston Villa App\nhttps://premlge.co/f/2qCvWr/3NSJK\n\nManage m
  y ECAL\nhttps://premlge.co/f/2gRXkv/3NSJK\n\n
+X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:MKM Stadium\, Hull
+X-ECAL-SCHEDULE:
+DTSTART:20261229T193000Z
+DTEND:20261229T213000Z
+SUMMARY:⚽️ Hull City v Leeds United
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35075a54aa884dbc65c97c
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League Matchweek 18 | Watch live on UK - Sky Sports | #
+ HULLEE\n\nWatch Live\nhttps://premlge.co/f/2xMTld/3NSJK\n\nMatchday Live\nh
+ ttps://premlge.co/f/2gRYQN/3NSJK\n\nShop Official Hull City Merchandise\nht
+ tps://premlge.co/f/2gRYQQ/3NSJK\n\nDownload the Hull City App\nhttps://prem
+ lge.co/f/2qTPwk/3NSJK\n\nShop Official Leeds United Merchandise\nhttps://pr
+ emlge.co/f/2gRYQY/3NSJK\n\nDownload the Leeds United App\nhttps://premlge.c
+ o/f/2qTPws/3NSJK\n\nManage my ECAL\nhttps://premlge.co/f/2gRYRd/3NSJK\n\n
+X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Hill Dickinson Stadium\, Liverpool
+X-ECAL-SCHEDULE:
+DTSTART:20261106T200000Z
+DTEND:20261106T220000Z
+SUMMARY:⚡⚽️ Everton v Coventry City
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35075954aa884dbe019926
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League Matchweek 10 | Watch live on UK - Sky Sports. Li
+ sten live on TalkSport | #EVECOV\n\n🆚 Everton and Coventry City have not
+  met in the Premier League since January 2001\, when Everton won 3-1. Their
+  last two top-flight meetings were split\, with one victory apiece.\n\nDive
+  into the latest news\, press conferences and the final injury updates.\n\n
+ Match Preview and Lineups\nhttps://premlge.co/f/2gRXd2/3NSJK\n\nLatest Prem
+ ier League News\nhttps://premlge.co/f/2xMTlk/3NSJK\n\nLatest Everton News\n
+ https://premlge.co/f/2qTRjl/3NSJK\n\nEverton on X\nhttps://premlge.co/f/2gR
+ Xdf/3NSJK\n\nLatest Coventry City News\nhttps://premlge.co/f/2qTRjs/3NSJK\n
+ \nCoventry City on X\nhttps://premlge.co/f/2nB7Hz/3NSJK\n\nManage my ECAL\n
+ https://premlge.co/f/2gRXdP/3NSJK\n\n
+X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Hill Dickinson Stadium\, Liverpool
+X-ECAL-SCHEDULE:
+DTSTART:20261229T201500Z
+DTEND:20261229T221500Z
+SUMMARY:⚽️ Everton v Manchester City
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35075a54aa8848ab04ba0e
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League Matchweek 18 | Watch live on UK - Sky Sports | #
+ EVEMCI\n\nWatch Live\nhttps://premlge.co/f/2xMTll/3NSJK\n\nMatchday Live\nh
+ ttps://premlge.co/f/2gRYPs/3NSJK\n\nShop Official Everton Merchandise\nhttp
+ s://premlge.co/f/2qCGXt/3NSJK\n\nDownload the Everton App\nhttps://premlge.
+ co/f/2qCGXG/3NSJK\n\nShop Official Manchester City Merchandise\nhttps://pre
+ mlge.co/f/2qCGXN/3NSJK\n\nDownload the Manchester City App\nhttps://premlge
+ .co/f/2qCGXV/3NSJK\n\nManage my ECAL\nhttps://premlge.co/f/2gRYPT/3NSJK\n\n
+X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Tottenham Hotspur Stadium\, London
+X-ECAL-SCHEDULE:
+DTSTART:20261229T193000Z
+DTEND:20261229T213000Z
+SUMMARY:⚽️ Tottenham Hotspur v Brighton & Hove Albion
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35075a54aa884dbe019951
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League Matchweek 18 | Watch live on UK - Sky Sports | #
+ TOTBHA\n\nWatch Live\nhttps://premlge.co/f/2xMTlG/3NSJK\n\nMatchday Live\nh
+ ttps://premlge.co/f/2gRYTj/3NSJK\n\nLatest Tottenham Hotspur News\nhttps://
+ premlge.co/f/2qTPwM/3NSJK\n\nTottenham Hotspur on X\nhttps://premlge.co/f/2
+ qTPwT/3NSJK\n\nLatest Brighton & Hove Albion News\nhttps://premlge.co/f/2qT
+ PwW/3NSJK\n\nBrighton & Hove Albion on X\nhttps://premlge.co/f/2qTPx2/3NSJK
+ \n\nManage my ECAL\nhttps://premlge.co/f/2gRYVl/3NSJK\n\n
 X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
 BEGIN:VALARM
 TRIGGER:-PT15M

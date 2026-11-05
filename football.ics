@@ -2094,61 +2094,6 @@ END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
 DTSTAMP:00010101T000000Z
-LOCATION:Selhurst Park\, London
-X-ECAL-SCHEDULE:
-DTSTART:20261230T193000Z
-DTEND:20261230T213000Z
-SUMMARY:⚽️ Crystal Palace v AFC Bournemouth
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35075a54aa884dbc65c97b
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League Matchweek 18 | Follow the game on Matchday Live 
- | #CRYBOU\n\nMatchday Live\nhttps://premlge.co/f/2gRYNJ/3NSJK\n\nLatest Cry
- stal Palace News\nhttps://premlge.co/f/2qCtTz/3NSJK\n\nCrystal Palace on X\
- nhttps://premlge.co/f/2gRYNP/3NSJK\n\nLatest AFC Bournemouth News\nhttps://
- premlge.co/f/2gRYNS/3NSJK\n\nAFC Bournemouth on X\nhttps://premlge.co/f/2gR
- YNV/3NSJK\n\nManage my ECAL\nhttps://premlge.co/f/2gRYPc/3NSJK\n\n
-X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
-LOCATION:Villa Park\, Birmingham
-X-ECAL-SCHEDULE:
-DTSTART:20261230T201500Z
-DTEND:20261230T221500Z
-SUMMARY:⚽️ Aston Villa v Liverpool
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35075a54aa884dbc65c97a
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League Matchweek 18 | Follow the game on Matchday Live 
- | #VILLIV\n\nMatchday Live\nhttps://premlge.co/f/2gRYLQ/3NSJK\n\nShop Offic
- ial Aston Villa Merchandise\nhttps://premlge.co/f/2nsjhW/3NSJK\n\nDownload 
- the Aston Villa App\nhttps://premlge.co/f/2qCGYy/3NSJK\n\nShop Official Liv
- erpool Merchandise\nhttps://premlge.co/f/2nsjhZ/3NSJK\n\nDownload the Liver
- pool App\nhttps://premlge.co/f/2nsjj1/3NSJK\n\nManage my ECAL\nhttps://prem
- lge.co/f/2gRYMD/3NSJK\n\n
-X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
 LOCATION:Emirates Stadium\, London
 X-ECAL-SCHEDULE:
 DTSTART:20270102T150000Z
@@ -5366,116 +5311,6 @@ END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
 DTSTAMP:00010101T000000Z
-LOCATION:Old Trafford\, Manchester
-X-ECAL-SCHEDULE:
-DTSTART:20261230T193000Z
-DTEND:20261230T213000Z
-SUMMARY:⚽️ Manchester United v Sunderland
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35075a54aa884dbe01994f
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League Matchweek 18 | Follow the game on Matchday Live 
- | #MUNSUN\n\nMatchday Live\nhttps://premlge.co/f/2gRYRp/3NSJK\n\nShop Offic
- ial Manchester United Merchandise\nhttps://premlge.co/f/2qCGZ7/3NSJK\n\nDow
- nload the Manchester United App\nhttps://premlge.co/f/2gRYRw/3NSJK\n\nShop 
- Official Sunderland Merchandise\nhttps://premlge.co/f/2gRYRB/3NSJK\n\nDownl
- oad the Sunderland App\nhttps://premlge.co/f/2qCGZm/3NSJK\n\nManage my ECAL
- \nhttps://premlge.co/f/2gRYRY/3NSJK\n\n
-X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
-LOCATION:St. James' Park\, Newcastle
-X-ECAL-SCHEDULE:
-DTSTART:20261230T193000Z
-DTEND:20261230T213000Z
-SUMMARY:⚽️ Newcastle United v Nottingham Forest
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35075a54aa884dbe019950
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League Matchweek 18 | Follow the game on Matchday Live 
- | #NEWFOR\n\nMatchday Live\nhttps://premlge.co/f/2gRYSd/3NSJK\n\nLatest New
- castle United News\nhttps://premlge.co/f/2qCGZB/3NSJK\n\nNewcastle United o
- n X\nhttps://premlge.co/f/2gRYSq/3NSJK\n\nLatest Nottingham Forest News\nht
- tps://premlge.co/f/2qCGZK/3NSJK\n\nNottingham Forest on X\nhttps://premlge.
- co/f/2gRYSH/3NSJK\n\nManage my ECAL\nhttps://premlge.co/f/2gRYT3/3NSJK\n\n
-X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
-LOCATION:Coventry Building Society Arena\, Coventry
-X-ECAL-SCHEDULE:
-DTSTART:20261230T193000Z
-DTEND:20261230T213000Z
-SUMMARY:⚽️ Coventry City v Brentford
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35075a54aa8848ab04ba0d
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League Matchweek 18 | Follow the game on Matchday Live 
- | #COVBRE\n\nMatchday Live\nhttps://premlge.co/f/2gRYMR/3NSJK\n\nShop Offic
- ial Coventry City Merchandise\nhttps://premlge.co/f/2gRYMY/3NSJK\n\nDownloa
- d the Coventry City App\nhttps://premlge.co/f/2qCH12/3NSJK\n\nShop Official
-  Brentford Merchandise\nhttps://premlge.co/f/2gRYNb/3NSJK\n\nDownload the B
- rentford App\nhttps://premlge.co/f/2gRYNk/3NSJK\n\nManage my ECAL\nhttps://
- premlge.co/f/2gRYNy/3NSJK\n\n
-X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
-LOCATION:Portman Road\, Ipswich
-X-ECAL-SCHEDULE:
-DTSTART:20261230T201500Z
-DTEND:20261230T221500Z
-SUMMARY:⚽️ Ipswich Town v Chelsea
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35075a54aa884dc433f42d
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League Matchweek 18 | Follow the game on Matchday Live 
- | #IPSCHE\n\nMatchday Live\nhttps://premlge.co/f/2gRVLM/3NSJK\n\nLatest Ips
- wich Town News\nhttps://premlge.co/f/2gRVLS/3NSJK\n\nIpswich Town on X\nhtt
- ps://premlge.co/f/2gRVLY/3NSJK\n\nLatest Chelsea News\nhttps://premlge.co/f
- /2qCGYQ/3NSJK\n\nChelsea on X\nhttps://premlge.co/f/2gRVM6/3NSJK\n\nManage 
- my ECAL\nhttps://premlge.co/f/2gRVMB/3NSJK\n\n
-X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
 LOCATION:Elland Road\, Leeds
 X-ECAL-SCHEDULE:
 DTSTART:20270101T200000Z
@@ -5493,34 +5328,6 @@ DESCRIPTION:Premier League Matchweek 19 | Follow the game on Matchday Live
  ps://premlge.co/f/2gRVVt/3NSJK\n\nLatest Everton News\nhttps://premlge.co/f
  /2qTRpt/3NSJK\n\nEverton on X\nhttps://premlge.co/f/2nB7KW/3NSJK\n\nManage 
  my ECAL\nhttps://premlge.co/f/2gRVVH/3NSJK\n\n
-X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
-LOCATION:Craven Cottage\, London
-X-ECAL-SCHEDULE:
-DTSTART:20261230T193000Z
-DTEND:20261230T213000Z
-SUMMARY:⚽️ Fulham v Arsenal
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35075a54aa8848ab04ba0f
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League Matchweek 18 | Follow the game on Matchday Live 
- | #FULARS\n\nMatchday Live\nhttps://premlge.co/f/2gRYQ1/3NSJK\n\nShop Offic
- ial Fulham Merchandise\nhttps://premlge.co/f/2qTPxP/3NSJK\n\nDownload the F
- ulham App\nhttps://premlge.co/f/2qTPxT/3NSJK\n\nShop Official Arsenal Merch
- andise\nhttps://premlge.co/f/2qTPxV/3NSJK\n\nDownload the Arsenal App\nhttp
- s://premlge.co/f/2qTPy3/3NSJK\n\nManage my ECAL\nhttps://premlge.co/f/2gRYQ
- D/3NSJK\n\n
 X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -9359,203 +9166,6 @@ END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
 DTSTAMP:00010101T000000Z
-LOCATION:Gtech Community Stadium\, Brentford
-X-ECAL-SCHEDULE:
-DTSTART:20261031T150000Z
-DTEND:20261031T170000Z
-SUMMARY:▶️⚽️ Brentford 2 - Nottingham Forest 0
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35075954aa884dbc65c971
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:The Drama doesn’t stop at the final whistle!\n\nDive back int
- o the action! Catch every goal\, spectacular save\, and match highlight rig
- ht here.\n\n▶️ Watch Highlights\nhttps://premlge.co/f/2xkV73/3NSJK\n\nM
- atch Summary\nhttps://premlge.co/f/2gRWYY/3NSJK\n\nSee other Results\nhttps
- ://premlge.co/f/2xk1PK/3NSJK\n\nLatest Brentford News\nhttps://premlge.co/f
- /2qCvRV/3NSJK\n\nLatest Nottingham Forest News\nhttps://premlge.co/f/2qCvS1
- /3NSJK\n\nManage my ECAL\nhttps://premlge.co/f/2gRWZH/3NSJK\n\n
-X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
-LOCATION:Vitality Stadium\, Bournemouth
-X-ECAL-SCHEDULE:
-DTSTART:20261031T150000Z
-DTEND:20261031T170000Z
-SUMMARY:▶️⚽️ AFC Bournemouth 2 - Leeds United 0
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35075954aa884dbc65c970
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:The Drama doesn’t stop at the final whistle!\n\nDive back int
- o the action! Catch every goal\, spectacular save\, and match highlight rig
- ht here.\n\n▶️ Watch Highlights\nhttps://premlge.co/f/2xkV74/3NSJK\n\nM
- atch Summary\nhttps://premlge.co/f/2gRWY7/3NSJK\n\nSee other Results\nhttps
- ://premlge.co/f/2xk1PM/3NSJK\n\nLatest AFC Bournemouth News\nhttps://premlg
- e.co/f/2qTNXG/3NSJK\n\nLatest Leeds United News\nhttps://premlge.co/f/2qTNX
- R/3NSJK\n\nManage my ECAL\nhttps://premlge.co/f/2gRWYC/3NSJK\n\n
-X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
-LOCATION:Coventry Building Society Arena\, Coventry
-X-ECAL-SCHEDULE:
-DTSTART:20261031T150000Z
-DTEND:20261031T170000Z
-SUMMARY:▶️⚽️ Coventry City 3 - Sunderland 1
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35075954aa884dbc65c973
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:The Drama doesn’t stop at the final whistle!\n\nDive back int
- o the action! Catch every goal\, spectacular save\, and match highlight rig
- ht here.\n\n▶️ Watch Highlights\nhttps://premlge.co/f/2xkV75/3NSJK\n\nM
- atch Summary\nhttps://premlge.co/f/2gRX1J/3NSJK\n\nSee other Results\nhttps
- ://premlge.co/f/2xk1PP/3NSJK\n\nLatest Coventry City News\nhttps://premlge.
- co/f/2gRX1V/3NSJK\n\nLatest Sunderland News\nhttps://premlge.co/f/2qTNYN/3N
- SJK\n\nManage my ECAL\nhttps://premlge.co/f/2gRX2K/3NSJK\n\n
-X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
-LOCATION:MKM Stadium\, Hull
-X-ECAL-SCHEDULE:
-DTSTART:20261031T150000Z
-DTEND:20261031T170000Z
-SUMMARY:▶️⚽️ Hull City 2 - Ipswich Town 2
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35075954aa8848aa0a865c
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:The Drama doesn’t stop at the final whistle!\n\nDive back int
- o the action! Catch every goal\, spectacular save\, and match highlight rig
- ht here.\n\n▶️ Watch Highlights\nhttps://premlge.co/f/2xkV76/3NSJK\n\nM
- atch Summary\nhttps://premlge.co/f/2gRX2Z/3NSJK\n\nSee other Results\nhttps
- ://premlge.co/f/2xk1PS/3NSJK\n\nLatest Hull City News\nhttps://premlge.co/f
- /2qCvSt/3NSJK\n\nLatest Ipswich Town News\nhttps://premlge.co/f/2qCvSy/3NSJ
- K\n\nManage my ECAL\nhttps://premlge.co/f/2gRX3v/3NSJK\n\n
-X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
-LOCATION:Tottenham Hotspur Stadium\, London
-X-ECAL-SCHEDULE:
-DTSTART:20261031T173000Z
-DTEND:20261031T193000Z
-SUMMARY:▶️⚽️ Tottenham Hotspur 2 - Crystal Palace 0
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35075954aa884dbe019921
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:The Drama doesn’t stop at the final whistle!\n\nDive back int
- o the action! Catch every goal\, spectacular save\, and match highlight rig
- ht here.\n\nWatch highlights on UK - Sky Sports\nhttps://premlge.co/f/2xkV7
- 7/3NSJK\n\nMatch Summary\nhttps://premlge.co/f/2gRX6Z/3NSJK\n\nSee other Re
- sults\nhttps://premlge.co/f/2xk1Q1/3NSJK\n\nLatest Tottenham Hotspur News\n
- https://premlge.co/f/2qCvT1/3NSJK\n\nLatest Crystal Palace News\nhttps://pr
- emlge.co/f/2qCvT2/3NSJK\n\nManage my ECAL\nhttps://premlge.co/f/2gRX7P/3NSJ
- K\n\n
-X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
-LOCATION:Villa Park\, Birmingham
-X-ECAL-SCHEDULE:
-DTSTART:20261031T200000Z
-DTEND:20261031T220000Z
-SUMMARY:▶️⚽️ Aston Villa 1 - Fulham 1
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35075954aa8848ab04b9ec
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:The Drama doesn’t stop at the final whistle!\n\nDive back int
- o the action! Catch every goal\, spectacular save\, and match highlight rig
- ht here.\n\nWatch highlights on UK - Sky Sports\nhttps://premlge.co/f/2xkV7
- 8/3NSJK\n\nMatch Summary\nhttps://premlge.co/f/2gRWXd/3NSJK\n\nSee other Re
- sults\nhttps://premlge.co/f/2xk1Q2/3NSJK\n\nLatest Aston Villa News\nhttps:
- //premlge.co/f/2qTRhq/3NSJK\n\nLatest Fulham News\nhttps://premlge.co/f/2qT
- Rhy/3NSJK\n\nManage my ECAL\nhttps://premlge.co/f/2gRWXR/3NSJK\n\n
-X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
-LOCATION:Etihad Stadium\, Manchester
-X-ECAL-SCHEDULE:
-DTSTART:20261031T150000Z
-DTEND:20261031T170000Z
-SUMMARY:▶️⚽️ Manchester City 0 - Brighton & Hove Albion 1
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35075954aa8848aa0a865e
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:The Drama doesn’t stop at the final whistle!\n\nDive back int
- o the action! Catch every goal\, spectacular save\, and match highlight rig
- ht here.\n\n▶️ Watch Highlights\nhttps://premlge.co/f/2xkV7Y/3NSJK\n\nM
- atch Summary\nhttps://premlge.co/f/2gRX4J/3NSJK\n\nSee other Results\nhttps
- ://premlge.co/f/2xk1PX/3NSJK\n\nLatest Manchester City News\nhttps://premlg
- e.co/f/2qTNZH/3NSJK\n\nLatest Brighton & Hove Albion News\nhttps://premlge.
- co/f/2qTNZX/3NSJK\n\nManage my ECAL\nhttps://premlge.co/f/2gRX5H/3NSJK\n\n
-X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
 LOCATION:St. James' Park\, Newcastle
 X-ECAL-SCHEDULE:
 DTSTART:20261226T200000Z
@@ -9714,92 +9324,6 @@ DESCRIPTION:The Drama doesn’t stop at the final whistle!\n\nDive back int
  sults\nhttps://premlge.co/f/2xJVSs/3NSJK\n\nLatest Newcastle United News\nh
  ttps://premlge.co/f/2qTRhV/3NSJK\n\nLatest Everton News\nhttps://premlge.co
  /f/2qTRhZ/3NSJK\n\nManage my ECAL\nhttps://premlge.co/f/2gRX6M/3NSJK\n\n
-X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
-LOCATION:Emirates Stadium\, London
-X-ECAL-SCHEDULE:
-DTSTART:20261107T150000Z
-DTEND:20261107T170000Z
-SUMMARY:⚽️ Arsenal v Hull City
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35075954aa8848ab04b9ef
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League Matchweek 10 | Listen live on BBC Radio 5 Live |
-  #ARSHUL\n\nWatch Live\nhttps://premlge.co/f/2gRX7Y/3NSJK\n\nMatchday Live\
- nhttps://premlge.co/f/2gRX86/3NSJK\n\nLatest Arsenal News\nhttps://premlge.
- co/f/2gRX8d/3NSJK\n\nArsenal on X\nhttps://premlge.co/f/2gRX8m/3NSJK\n\nLat
- est Hull City News\nhttps://premlge.co/f/2qCvVH/3NSJK\n\nHull City on X\nht
- tps://premlge.co/f/2gRX8C/3NSJK\n\nManage my ECAL\nhttps://premlge.co/f/2gR
- X8Z/3NSJK\n\n
-X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
-LOCATION:Craven Cottage\, London
-X-ECAL-SCHEDULE:
-DTSTART:20261107T150000Z
-DTEND:20261107T170000Z
-SUMMARY:⚽️ Fulham v Newcastle United
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35075954aa884dbe019927
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League Matchweek 10 | Listen live on BBC Radio 5 Live |
-  #FULNEW\n\nWatch Live\nhttps://premlge.co/f/2gRXff/3NSJK\n\nMatchday Live\
- nhttps://premlge.co/f/2gRXfl/3NSJK\n\nShop Official Fulham Merchandise\nhtt
- ps://premlge.co/f/2j3386/3NSJK\n\nDownload the Fulham App\nhttps://premlge.
- co/f/2j3387/3NSJK\n\nShop Official Newcastle United Merchandise\nhttps://pr
- emlge.co/f/2j3388/3NSJK\n\nDownload the Newcastle United App\nhttps://preml
- ge.co/f/2j3389/3NSJK\n\nManage my ECAL\nhttps://premlge.co/f/2gRXfW/3NSJK\n
- \n
-X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
-LOCATION:The City Ground\, Nottingham
-X-ECAL-SCHEDULE:
-DTSTART:20261107T173000Z
-DTEND:20261107T193000Z
-SUMMARY:⚽️ Nottingham Forest v Manchester City
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35075954aa8848aa0a8662
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League Matchweek 10 | Watch live on UK - Sky Sports. Li
- sten live on BBC Radio 5 Live | #FORMCI\n\nWatch Live\nhttps://premlge.co/f
- /2xMtl2/3NSJK\n\nMatchday Live\nhttps://premlge.co/f/2gRXkK/3NSJK\n\nLatest
-  Nottingham Forest News\nhttps://premlge.co/f/2qCvWz/3NSJK\n\nNottingham Fo
- rest on X\nhttps://premlge.co/f/2gRXkZ/3NSJK\n\nLatest Manchester City News
- \nhttps://premlge.co/f/2qCvWF/3NSJK\n\nManchester City on X\nhttps://premlg
- e.co/f/2gRXlk/3NSJK\n\nManage my ECAL\nhttps://premlge.co/f/2gRXlG/3NSJK\n\
- n
 X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -10101,33 +9625,6 @@ END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
 DTSTAMP:00010101T000000Z
-LOCATION:The City Ground\, Nottingham
-X-ECAL-SCHEDULE:
-DTSTART:20261220T140000Z
-DTEND:20261220T160000Z
-SUMMARY:⚽️ Nottingham Forest v Everton
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35075a54aa884dbe019944
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League Matchweek 16 | Follow the game on Matchday Live 
- | #FOREVE\n\nMatchday Live\nhttps://premlge.co/f/2gRYxh/3NSJK\n\nLatest Not
- tingham Forest News\nhttps://premlge.co/f/2qCGRS/3NSJK\n\nNottingham Forest
-  on X\nhttps://premlge.co/f/2gRYxr/3NSJK\n\nLatest Everton News\nhttps://pr
- emlge.co/f/2qCGS3/3NSJK\n\nEverton on X\nhttps://premlge.co/f/2gRYxD/3NSJK\
- n\nManage my ECAL\nhttps://premlge.co/f/2gRYxX/3NSJK\n\n
-X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
 LOCATION:Stamford Bridge\, London
 X-ECAL-SCHEDULE:
 DTSTART:20261031T123000Z
@@ -10146,6 +9643,523 @@ DESCRIPTION:Premier League Matchweek 9 | Watch live on UK - TNT Sports. Lis
  o/f/2qCvQN/3NSJK\n\nLatest Manchester United News\nhttps://premlge.co/f/2qC
  vQQ/3NSJK\n\nManchester United on X\nhttps://premlge.co/f/2qCvQY/3NSJK\n\nM
  anage my ECAL\nhttps://premlge.co/f/2gRX1r/3NSJK\n\n
+X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Vitality Stadium\, Bournemouth
+X-ECAL-SCHEDULE:
+DTSTART:20261031T150000Z
+DTEND:20261031T170000Z
+SUMMARY:⚽️ AFC Bournemouth v Leeds United
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35075954aa884dbc65c970
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League Matchweek 9 | Follow the game on Matchday Live |
+  #BOULEE\n\nMatchday Live\nhttps://premlge.co/f/2gRWY7/3NSJK\n\nShop Offici
+ al AFC Bournemouth Merchandise\nhttps://premlge.co/f/2gRWYb/3NSJK\n\nDownlo
+ ad the AFC Bournemouth App\nhttps://premlge.co/f/2qCvS9/3NSJK\n\nShop Offic
+ ial Leeds United Merchandise\nhttps://premlge.co/f/2gRWYj/3NSJK\n\nDownload
+  the Leeds United App\nhttps://premlge.co/f/2qCvSg/3NSJK\n\nManage my ECAL\
+ nhttps://premlge.co/f/2gRWYC/3NSJK\n\n
+X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Emirates Stadium\, London
+X-ECAL-SCHEDULE:
+DTSTART:20261107T150000Z
+DTEND:20261107T170000Z
+SUMMARY:⚡⚽️ Arsenal v Hull City
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35075954aa8848ab04b9ef
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League Matchweek 10 | Listen live on BBC Radio 5 Live |
+  #ARSHUL\n\n🆚 Arsenal have dominated Hull City in the Premier League\, w
+ inning eight of their 10 meetings (8 wins\, 1 draw)\, scoring 25 goals to H
+ ull's eight.\n\nDive into the latest news\, press conferences and the final
+  injury updates.\n\nMatch Preview and Lineups\nhttps://premlge.co/f/2gRX86/
+ 3NSJK\n\nLatest Premier League News\nhttps://premlge.co/f/2xPRRW/3NSJK\n\nL
+ atest Arsenal News\nhttps://premlge.co/f/2gRX8d/3NSJK\n\nArsenal on X\nhttp
+ s://premlge.co/f/2gRX8m/3NSJK\n\nLatest Hull City News\nhttps://premlge.co/
+ f/2qCvVH/3NSJK\n\nHull City on X\nhttps://premlge.co/f/2gRX8C/3NSJK\n\nMana
+ ge my ECAL\nhttps://premlge.co/f/2gRX8Z/3NSJK\n\n
+X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Gtech Community Stadium\, Brentford
+X-ECAL-SCHEDULE:
+DTSTART:20261031T150000Z
+DTEND:20261031T170000Z
+SUMMARY:⚽️ Brentford v Nottingham Forest
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35075954aa884dbc65c971
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League Matchweek 9 | Follow the game on Matchday Live |
+  #BREFOR\n\nMatchday Live\nhttps://premlge.co/f/2gRWYY/3NSJK\n\nLatest Bren
+ tford News\nhttps://premlge.co/f/2qCvRV/3NSJK\n\nBrentford on X\nhttps://pr
+ emlge.co/f/2gRWZ8/3NSJK\n\nLatest Nottingham Forest News\nhttps://premlge.c
+ o/f/2qCvS1/3NSJK\n\nNottingham Forest on X\nhttps://premlge.co/f/2gRWZk/3NS
+ JK\n\nManage my ECAL\nhttps://premlge.co/f/2gRWZH/3NSJK\n\n
+X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Coventry Building Society Arena\, Coventry
+X-ECAL-SCHEDULE:
+DTSTART:20261031T150000Z
+DTEND:20261031T170000Z
+SUMMARY:⚽️ Coventry City v Sunderland
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35075954aa884dbc65c973
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League Matchweek 9 | Listen live on BBC Radio 5 Live | 
+ #COVSUN\n\nWatch Live\nhttps://premlge.co/f/2gRX1B/3NSJK\n\nMatchday Live\n
+ https://premlge.co/f/2gRX1J/3NSJK\n\nLatest Coventry City News\nhttps://pre
+ mlge.co/f/2gRX1V/3NSJK\n\nCoventry City on X\nhttps://premlge.co/f/2gRX23/3
+ NSJK\n\nLatest Sunderland News\nhttps://premlge.co/f/2qTNYN/3NSJK\n\nSunder
+ land on X\nhttps://premlge.co/f/2gRX2n/3NSJK\n\nManage my ECAL\nhttps://pre
+ mlge.co/f/2gRX2K/3NSJK\n\n
+X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:MKM Stadium\, Hull
+X-ECAL-SCHEDULE:
+DTSTART:20261031T150000Z
+DTEND:20261031T170000Z
+SUMMARY:⚽️ Hull City v Ipswich Town
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35075954aa8848aa0a865c
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League Matchweek 9 | Follow the game on Matchday Live |
+  #HULIPS\n\nMatchday Live\nhttps://premlge.co/f/2gRX2Z/3NSJK\n\nShop Offici
+ al Hull City Merchandise\nhttps://premlge.co/f/2gRX32/3NSJK\n\nDownload the
+  Hull City App\nhttps://premlge.co/f/2qTNY8/3NSJK\n\nShop Official Ipswich 
+ Town Merchandise\nhttps://premlge.co/f/2gRX3b/3NSJK\n\nDownload the Ipswich
+  Town App\nhttps://premlge.co/f/2qTNYm/3NSJK\n\nManage my ECAL\nhttps://pre
+ mlge.co/f/2gRX3v/3NSJK\n\n
+X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Etihad Stadium\, Manchester
+X-ECAL-SCHEDULE:
+DTSTART:20261031T150000Z
+DTEND:20261031T170000Z
+SUMMARY:⚽️ Manchester City v Brighton & Hove Albion
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35075954aa8848aa0a865e
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League Matchweek 9 | Listen live on BBC Radio 5 Live | 
+ #MCIBHA\n\nWatch Live\nhttps://premlge.co/f/2gRX4B/3NSJK\n\nMatchday Live\n
+ https://premlge.co/f/2gRX4J/3NSJK\n\nLatest Manchester City News\nhttps://p
+ remlge.co/f/2qTNZH/3NSJK\n\nManchester City on X\nhttps://premlge.co/f/2qTN
+ ZS/3NSJK\n\nLatest Brighton & Hove Albion News\nhttps://premlge.co/f/2qTNZX
+ /3NSJK\n\nBrighton & Hove Albion on X\nhttps://premlge.co/f/2qTP14/3NSJK\n\
+ nManage my ECAL\nhttps://premlge.co/f/2gRX5H/3NSJK\n\n
+X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Tottenham Hotspur Stadium\, London
+X-ECAL-SCHEDULE:
+DTSTART:20261031T173000Z
+DTEND:20261031T193000Z
+SUMMARY:⚽️ Tottenham Hotspur v Crystal Palace
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35075954aa884dbe019921
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League Matchweek 9 | Watch live on UK - Sky Sports. Lis
+ ten live on BBC Radio 5 Live | #TOTCRY\n\nWatch Live\nhttps://premlge.co/f/
+ 2wJqq2/3NSJK\n\nMatchday Live\nhttps://premlge.co/f/2gRX6Z/3NSJK\n\nShop Of
+ ficial Tottenham Hotspur Merchandise\nhttps://premlge.co/f/2gRX77/3NSJK\n\n
+ Download the Tottenham Hotspur App\nhttps://premlge.co/f/2qTNZc/3NSJK\n\nSh
+ op Official Crystal Palace Merchandise\nhttps://premlge.co/f/2gRX7q/3NSJK\n
+ \nDownload the Crystal Palace App\nhttps://premlge.co/f/2qTNZl/3NSJK\n\nMan
+ age my ECAL\nhttps://premlge.co/f/2gRX7P/3NSJK\n\n
+X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Craven Cottage\, London
+X-ECAL-SCHEDULE:
+DTSTART:20261107T150000Z
+DTEND:20261107T170000Z
+SUMMARY:⚡⚽️ Fulham v Newcastle United
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35075954aa884dbe019927
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League Matchweek 10 | Listen live on BBC Radio 5 Live |
+  #FULNEW\n\n⚡ Fulham have lost just once in their last five Premier Leagu
+ e matches\, while Newcastle United have lost three of their last five\, inc
+ luding their latest defeat to Everton.\n\nDive into the latest news\, press
+  conferences and the final injury updates.\n\nMatch Preview and Lineups\nht
+ tps://premlge.co/f/2gRXfl/3NSJK\n\nLatest Premier League News\nhttps://prem
+ lge.co/f/2xPRSb/3NSJK\n\nLatest Fulham News\nhttps://premlge.co/f/2qCvTM/3N
+ SJK\n\nFulham on X\nhttps://premlge.co/f/2gRXft/3NSJK\n\nLatest Newcastle U
+ nited News\nhttps://premlge.co/f/2qCvTS/3NSJK\n\nNewcastle United on X\nhtt
+ ps://premlge.co/f/2gRXfC/3NSJK\n\nManage my ECAL\nhttps://premlge.co/f/2gRX
+ fW/3NSJK\n\n
+X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:The City Ground\, Nottingham
+X-ECAL-SCHEDULE:
+DTSTART:20261107T173000Z
+DTEND:20261107T193000Z
+SUMMARY:⚡⚽️ Nottingham Forest v Manchester City
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35075954aa8848aa0a8662
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League Matchweek 10 | Watch live on UK - Sky Sports. Li
+ sten live on BBC Radio 5 Live | #FORMCI\n\n⚡ Nottingham Forest have picke
+ d up just one point from their last five Premier League games\, while Manch
+ ester City arrive looking to bounce back from consecutive league defeats.\n
+ \nDive into the latest news\, press conferences and the final injury update
+ s.\n\nMatch Preview and Lineups\nhttps://premlge.co/f/2gRXkK/3NSJK\n\nLates
+ t Premier League News\nhttps://premlge.co/f/2xPRSd/3NSJK\n\nLatest Nottingh
+ am Forest News\nhttps://premlge.co/f/2qCvWz/3NSJK\n\nNottingham Forest on X
+ \nhttps://premlge.co/f/2gRXkZ/3NSJK\n\nLatest Manchester City News\nhttps:/
+ /premlge.co/f/2qCvWF/3NSJK\n\nManchester City on X\nhttps://premlge.co/f/2g
+ RXlk/3NSJK\n\nManage my ECAL\nhttps://premlge.co/f/2gRXlG/3NSJK\n\n
+X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:The City Ground\, Nottingham
+X-ECAL-SCHEDULE:
+DTSTART:20261220T140000Z
+DTEND:20261220T160000Z
+SUMMARY:⚽️ Nottingham Forest v Everton
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35075a54aa884dbe019944
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League Matchweek 16 | Watch live on UK - Sky Sports | #
+ FOREVE\n\nWatch Live\nhttps://premlge.co/f/2xPRSf/3NSJK\n\nMatchday Live\nh
+ ttps://premlge.co/f/2gRYxh/3NSJK\n\nShop Official Nottingham Forest Merchan
+ dise\nhttps://premlge.co/f/2qTPql/3NSJK\n\nDownload the Nottingham Forest A
+ pp\nhttps://premlge.co/f/2qTPqn/3NSJK\n\nShop Official Everton Merchandise\
+ nhttps://premlge.co/f/2qTPqs/3NSJK\n\nDownload the Everton App\nhttps://pre
+ mlge.co/f/2qTPqy/3NSJK\n\nManage my ECAL\nhttps://premlge.co/f/2gRYxX/3NSJK
+ \n\n
+X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Villa Park\, Birmingham
+X-ECAL-SCHEDULE:
+DTSTART:20261031T200000Z
+DTEND:20261031T220000Z
+SUMMARY:⚽️ Aston Villa v Fulham
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35075954aa8848ab04b9ec
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League Matchweek 9 | Watch live on UK - Sky Sports. Lis
+ ten live on TalkSport | #VILFUL\n\nWatch Live\nhttps://premlge.co/f/2wJqq1/
+ 3NSJK\n\nMatchday Live\nhttps://premlge.co/f/2gRWXd/3NSJK\n\nLatest Aston V
+ illa News\nhttps://premlge.co/f/2qTRhq/3NSJK\n\nAston Villa on X\nhttps://p
+ remlge.co/f/2gRWXk/3NSJK\n\nLatest Fulham News\nhttps://premlge.co/f/2qTRhy
+ /3NSJK\n\nFulham on X\nhttps://premlge.co/f/2gRWXt/3NSJK\n\nManage my ECAL\
+ nhttps://premlge.co/f/2gRWXR/3NSJK\n\n
+X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Selhurst Park\, London
+X-ECAL-SCHEDULE:
+DTSTART:20261230T193000Z
+DTEND:20261230T213000Z
+SUMMARY:⚽️ Crystal Palace v AFC Bournemouth
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35075a54aa884dbc65c97b
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League Matchweek 18 | Watch live on UK - Sky Sports | #
+ CRYBOU\n\nWatch Live\nhttps://premlge.co/f/2xQ1qY/3NSJK\n\nMatchday Live\nh
+ ttps://premlge.co/f/2gRYNJ/3NSJK\n\nLatest Crystal Palace News\nhttps://pre
+ mlge.co/f/2qCtTz/3NSJK\n\nCrystal Palace on X\nhttps://premlge.co/f/2gRYNP/
+ 3NSJK\n\nLatest AFC Bournemouth News\nhttps://premlge.co/f/2gRYNS/3NSJK\n\n
+ AFC Bournemouth on X\nhttps://premlge.co/f/2gRYNV/3NSJK\n\nManage my ECAL\n
+ https://premlge.co/f/2gRYPc/3NSJK\n\n
+X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Old Trafford\, Manchester
+X-ECAL-SCHEDULE:
+DTSTART:20261230T193000Z
+DTEND:20261230T213000Z
+SUMMARY:⚽️ Manchester United v Sunderland
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35075a54aa884dbe01994f
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League Matchweek 18 | Watch live on UK - Sky Sports | #
+ MUNSUN\n\nWatch Live\nhttps://premlge.co/f/2xQ1r5/3NSJK\n\nMatchday Live\nh
+ ttps://premlge.co/f/2gRYRp/3NSJK\n\nShop Official Manchester United Merchan
+ dise\nhttps://premlge.co/f/2qCGZ7/3NSJK\n\nDownload the Manchester United A
+ pp\nhttps://premlge.co/f/2gRYRw/3NSJK\n\nShop Official Sunderland Merchandi
+ se\nhttps://premlge.co/f/2gRYRB/3NSJK\n\nDownload the Sunderland App\nhttps
+ ://premlge.co/f/2qCGZm/3NSJK\n\nManage my ECAL\nhttps://premlge.co/f/2gRYRY
+ /3NSJK\n\n
+X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:St. James' Park\, Newcastle
+X-ECAL-SCHEDULE:
+DTSTART:20261230T193000Z
+DTEND:20261230T213000Z
+SUMMARY:⚽️ Newcastle United v Nottingham Forest
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35075a54aa884dbe019950
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League Matchweek 18 | Watch live on UK - Sky Sports | #
+ NEWFOR\n\nWatch Live\nhttps://premlge.co/f/2xQ1r6/3NSJK\n\nMatchday Live\nh
+ ttps://premlge.co/f/2gRYSd/3NSJK\n\nLatest Newcastle United News\nhttps://p
+ remlge.co/f/2qCGZB/3NSJK\n\nNewcastle United on X\nhttps://premlge.co/f/2gR
+ YSq/3NSJK\n\nLatest Nottingham Forest News\nhttps://premlge.co/f/2qCGZK/3NS
+ JK\n\nNottingham Forest on X\nhttps://premlge.co/f/2gRYSH/3NSJK\n\nManage m
+ y ECAL\nhttps://premlge.co/f/2gRYT3/3NSJK\n\n
+X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Coventry Building Society Arena\, Coventry
+X-ECAL-SCHEDULE:
+DTSTART:20261230T193000Z
+DTEND:20261230T213000Z
+SUMMARY:⚽️ Coventry City v Brentford
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35075a54aa8848ab04ba0d
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League Matchweek 18 | Watch live on UK - Sky Sports | #
+ COVBRE\n\nWatch Live\nhttps://premlge.co/f/2xQ1r7/3NSJK\n\nMatchday Live\nh
+ ttps://premlge.co/f/2gRYMR/3NSJK\n\nShop Official Coventry City Merchandise
+ \nhttps://premlge.co/f/2gRYMY/3NSJK\n\nDownload the Coventry City App\nhttp
+ s://premlge.co/f/2qCH12/3NSJK\n\nShop Official Brentford Merchandise\nhttps
+ ://premlge.co/f/2gRYNb/3NSJK\n\nDownload the Brentford App\nhttps://premlge
+ .co/f/2gRYNk/3NSJK\n\nManage my ECAL\nhttps://premlge.co/f/2gRYNy/3NSJK\n\n
+X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Craven Cottage\, London
+X-ECAL-SCHEDULE:
+DTSTART:20261230T193000Z
+DTEND:20261230T213000Z
+SUMMARY:⚽️ Fulham v Arsenal
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35075a54aa8848ab04ba0f
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League Matchweek 18 | Watch live on UK - Sky Sports | #
+ FULARS\n\nWatch Live\nhttps://premlge.co/f/2xQ1r9/3NSJK\n\nMatchday Live\nh
+ ttps://premlge.co/f/2gRYQ1/3NSJK\n\nShop Official Fulham Merchandise\nhttps
+ ://premlge.co/f/2qTPxP/3NSJK\n\nDownload the Fulham App\nhttps://premlge.co
+ /f/2qTPxT/3NSJK\n\nShop Official Arsenal Merchandise\nhttps://premlge.co/f/
+ 2qTPxV/3NSJK\n\nDownload the Arsenal App\nhttps://premlge.co/f/2qTPy3/3NSJK
+ \n\nManage my ECAL\nhttps://premlge.co/f/2gRYQD/3NSJK\n\n
+X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Portman Road\, Ipswich
+X-ECAL-SCHEDULE:
+DTSTART:20261230T201500Z
+DTEND:20261230T221500Z
+SUMMARY:⚽️ Ipswich Town v Chelsea
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35075a54aa884dc433f42d
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League Matchweek 18 | Watch live on UK - Sky Sports | #
+ IPSCHE\n\nWatch Live\nhttps://premlge.co/f/2xQ1rc/3NSJK\n\nMatchday Live\nh
+ ttps://premlge.co/f/2gRVLM/3NSJK\n\nLatest Ipswich Town News\nhttps://preml
+ ge.co/f/2gRVLS/3NSJK\n\nIpswich Town on X\nhttps://premlge.co/f/2gRVLY/3NSJ
+ K\n\nLatest Chelsea News\nhttps://premlge.co/f/2qCGYQ/3NSJK\n\nChelsea on X
+ \nhttps://premlge.co/f/2gRVM6/3NSJK\n\nManage my ECAL\nhttps://premlge.co/f
+ /2gRVMB/3NSJK\n\n
+X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Villa Park\, Birmingham
+X-ECAL-SCHEDULE:
+DTSTART:20261230T201500Z
+DTEND:20261230T221500Z
+SUMMARY:⚽️ Aston Villa v Liverpool
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35075a54aa884dbc65c97a
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League Matchweek 18 | Watch live on UK - Sky Sports | #
+ VILLIV\n\nWatch Live\nhttps://premlge.co/f/2xQ1rd/3NSJK\n\nMatchday Live\nh
+ ttps://premlge.co/f/2gRYLQ/3NSJK\n\nShop Official Aston Villa Merchandise\n
+ https://premlge.co/f/2nsjhW/3NSJK\n\nDownload the Aston Villa App\nhttps://
+ premlge.co/f/2qCGYy/3NSJK\n\nShop Official Liverpool Merchandise\nhttps://p
+ remlge.co/f/2nsjhZ/3NSJK\n\nDownload the Liverpool App\nhttps://premlge.co/
+ f/2nsjj1/3NSJK\n\nManage my ECAL\nhttps://premlge.co/f/2gRYMD/3NSJK\n\n
 X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -11178,41 +11192,6 @@ END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
 DTSTAMP:00010101T000000Z
-LOCATION:Villa Park\, Birmingham
-X-ECAL-SCHEDULE:
-DTSTART:20261230T201500Z
-DTEND:20261230T221500Z
-SUMMARY:🔴⚽️ Aston Villa vs Liverpool
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35078754aa884dc433f8c7
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League | Follow the live action on the Liverpool websit
- e or App | Join in: #VILLIV \n\nGET CLOSER TO LFC. Register to access exclu
- sive video content\, enter competitions\, and receive the official newslett
- er.\n\nMatch Centre\nhttps://ecal.ai/f/2x7BCc/3NSJD\n\nAll Red Video\nhttps
- ://ecal.ai/f/2gSPcd/3NSJD\n\nAll Red Membership\nhttps://ecal.ai/f/2gSPcL/3
- NSJD\n\nLFC Shop\nhttps://ecal.ai/f/2gSPdC/3NSJD\n\nFacebook\nhttps://ecal.
- ai/f/2gSPfv/3NSJD\n\nX\nhttps://ecal.ai/f/2gSPgz/3NSJD\n\nInstagram\nhttps:
- //ecal.ai/f/2gSPhq/3NSJD\n\nManage my ECAL\nhttps://ecal.ai/f/2gSPkX/3NSJD\
- n\n
-X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
-BEGIN:VALARM
-TRIGGER:-P1DT
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT1H
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
 LOCATION:Stadium of Light\, Sunderland
 X-ECAL-SCHEDULE:
 DTSTART:20270105T201500Z
@@ -11585,6 +11564,40 @@ DESCRIPTION:Reminder
 END:VALARM
 BEGIN:VALARM
 TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Villa Park\, Birmingham
+X-ECAL-SCHEDULE:
+DTSTART:20261230T201500Z
+DTEND:20261230T221500Z
+SUMMARY:🔴⚽️ Aston Villa vs Liverpool
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35078754aa884dc433f8c7
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League | Watch live on UK - Sky Sports | Join in: #VILL
+ IV \n\nGET CLOSER TO LFC. Register to access exclusive video content\, ente
+ r competitions\, and receive the official newsletter.\n\nMatch Centre\nhttp
+ s://ecal.ai/f/2x7BCc/3NSJD\n\nAll Red Video\nhttps://ecal.ai/f/2gSPcd/3NSJD
+ \n\nAll Red Membership\nhttps://ecal.ai/f/2gSPcL/3NSJD\n\nLFC Shop\nhttps:/
+ /ecal.ai/f/2gSPdC/3NSJD\n\nFacebook\nhttps://ecal.ai/f/2gSPfv/3NSJD\n\nX\nh
+ ttps://ecal.ai/f/2gSPgz/3NSJD\n\nInstagram\nhttps://ecal.ai/f/2gSPhq/3NSJD\
+ n\nManage my ECAL\nhttps://ecal.ai/f/2gSPkX/3NSJD\n\n
+X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM

@@ -9166,38 +9166,6 @@ END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
 DTSTAMP:00010101T000000Z
-LOCATION:Elland Road\, Leeds
-X-ECAL-SCHEDULE:
-DTSTART:20261107T123000Z
-DTEND:20261107T143000Z
-SUMMARY:⚡⚽️ Leeds United v Tottenham Hotspur
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35075954aa884dbe019929
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League Matchweek 10 | Watch live on UK - TNT Sports. Li
- sten live on TalkSport | #LEETOT\n\n⚡ Leeds United have failed to win the
- ir last five Premier League matches\, while Tottenham Hotspur arrive at Ell
- and Road on the back of three consecutive league victories.\n\nDive into th
- e latest news\, press conferences and the final injury updates.\n\nMatch Pr
- eview and Lineups\nhttps://premlge.co/f/2gRXhn/3NSJK\n\nLatest Premier Leag
- ue News\nhttps://premlge.co/f/2xPxwj/3NSJK\n\nLatest Leeds United News\nhtt
- ps://premlge.co/f/2qCvW7/3NSJK\n\nLeeds United on X\nhttps://premlge.co/f/2
- gRXhx/3NSJK\n\nLatest Tottenham Hotspur News\nhttps://premlge.co/f/2qCvWf/3
- NSJK\n\nTottenham Hotspur on X\nhttps://premlge.co/f/2gRXhN/3NSJK\n\nManage
-  my ECAL\nhttps://premlge.co/f/2gRXj5/3NSJK\n\n
-X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
 LOCATION:Stamford Bridge\, London
 X-ECAL-SCHEDULE:
 DTSTART:20261031T123000Z
@@ -9244,37 +9212,6 @@ DESCRIPTION:Premier League Matchweek 9 | Follow the game on Matchday Live |
  ial Leeds United Merchandise\nhttps://premlge.co/f/2gRWYj/3NSJK\n\nDownload
   the Leeds United App\nhttps://premlge.co/f/2qCvSg/3NSJK\n\nManage my ECAL\
  nhttps://premlge.co/f/2gRWYC/3NSJK\n\n
-X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
-LOCATION:Emirates Stadium\, London
-X-ECAL-SCHEDULE:
-DTSTART:20261107T150000Z
-DTEND:20261107T170000Z
-SUMMARY:⚡⚽️ Arsenal v Hull City
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35075954aa8848ab04b9ef
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League Matchweek 10 | Listen live on BBC Radio 5 Live |
-  #ARSHUL\n\n🆚 Arsenal have dominated Hull City in the Premier League\, w
- inning eight of their 10 meetings (8 wins\, 1 draw)\, scoring 25 goals to H
- ull's eight.\n\nDive into the latest news\, press conferences and the final
-  injury updates.\n\nMatch Preview and Lineups\nhttps://premlge.co/f/2gRX86/
- 3NSJK\n\nLatest Premier League News\nhttps://premlge.co/f/2xPRRW/3NSJK\n\nL
- atest Arsenal News\nhttps://premlge.co/f/2gRX8d/3NSJK\n\nArsenal on X\nhttp
- s://premlge.co/f/2gRX8m/3NSJK\n\nLatest Hull City News\nhttps://premlge.co/
- f/2qCvVH/3NSJK\n\nHull City on X\nhttps://premlge.co/f/2gRX8C/3NSJK\n\nMana
- ge my ECAL\nhttps://premlge.co/f/2gRX8Z/3NSJK\n\n
 X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -9415,70 +9352,6 @@ DESCRIPTION:Premier League Matchweek 9 | Watch live on UK - Sky Sports. Lis
  op Official Crystal Palace Merchandise\nhttps://premlge.co/f/2gRX7q/3NSJK\n
  \nDownload the Crystal Palace App\nhttps://premlge.co/f/2qTNZl/3NSJK\n\nMan
  age my ECAL\nhttps://premlge.co/f/2gRX7P/3NSJK\n\n
-X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
-LOCATION:Craven Cottage\, London
-X-ECAL-SCHEDULE:
-DTSTART:20261107T150000Z
-DTEND:20261107T170000Z
-SUMMARY:⚡⚽️ Fulham v Newcastle United
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35075954aa884dbe019927
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League Matchweek 10 | Listen live on BBC Radio 5 Live |
-  #FULNEW\n\n⚡ Fulham have lost just once in their last five Premier Leagu
- e matches\, while Newcastle United have lost three of their last five\, inc
- luding their latest defeat to Everton.\n\nDive into the latest news\, press
-  conferences and the final injury updates.\n\nMatch Preview and Lineups\nht
- tps://premlge.co/f/2gRXfl/3NSJK\n\nLatest Premier League News\nhttps://prem
- lge.co/f/2xPRSb/3NSJK\n\nLatest Fulham News\nhttps://premlge.co/f/2qCvTM/3N
- SJK\n\nFulham on X\nhttps://premlge.co/f/2gRXft/3NSJK\n\nLatest Newcastle U
- nited News\nhttps://premlge.co/f/2qCvTS/3NSJK\n\nNewcastle United on X\nhtt
- ps://premlge.co/f/2gRXfC/3NSJK\n\nManage my ECAL\nhttps://premlge.co/f/2gRX
- fW/3NSJK\n\n
-X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
-LOCATION:The City Ground\, Nottingham
-X-ECAL-SCHEDULE:
-DTSTART:20261107T173000Z
-DTEND:20261107T193000Z
-SUMMARY:⚡⚽️ Nottingham Forest v Manchester City
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35075954aa8848aa0a8662
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League Matchweek 10 | Watch live on UK - Sky Sports. Li
- sten live on BBC Radio 5 Live | #FORMCI\n\n⚡ Nottingham Forest have picke
- d up just one point from their last five Premier League games\, while Manch
- ester City arrive looking to bounce back from consecutive league defeats.\n
- \nDive into the latest news\, press conferences and the final injury update
- s.\n\nMatch Preview and Lineups\nhttps://premlge.co/f/2gRXkK/3NSJK\n\nLates
- t Premier League News\nhttps://premlge.co/f/2xPRSd/3NSJK\n\nLatest Nottingh
- am Forest News\nhttps://premlge.co/f/2qCvWz/3NSJK\n\nNottingham Forest on X
- \nhttps://premlge.co/f/2gRXkZ/3NSJK\n\nLatest Manchester City News\nhttps:/
- /premlge.co/f/2qCvWF/3NSJK\n\nManchester City on X\nhttps://premlge.co/f/2g
- RXlk/3NSJK\n\nManage my ECAL\nhttps://premlge.co/f/2gRXlG/3NSJK\n\n
 X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -10175,6 +10048,124 @@ DESCRIPTION:Premier League Matchweek 10 | Watch live on UK - Sky Sports. Li
  the match on Everton X\nhttps://premlge.co/f/2gRXdf/3NSJK\n\nFollow the mat
  ch on Coventry City X\nhttps://premlge.co/f/2nB7Hz/3NSJK\n\nManage my ECAL\
  nhttps://premlge.co/f/2gRXdP/3NSJK\n\n
+X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Elland Road\, Leeds
+X-ECAL-SCHEDULE:
+DTSTART:20261107T123000Z
+DTEND:20261107T143000Z
+SUMMARY:📰⚽️ Leeds United v Tottenham Hotspur
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35075954aa884dbe019929
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League Matchweek 10 | Watch live on UK - TNT Sports. Li
+ sten live on TalkSport | #LEETOT\n\n📰 Expected Goals v actual goals: How
+  each Premier League team rank\n\nRead all about it 👇\nhttps://premlge.c
+ o/f/2xTwZM/3NSJK\n\nLatest Premier League News\nhttps://premlge.co/f/2xPxwj
+ /3NSJK\n\nLatest Leeds United News\nhttps://premlge.co/f/2qCvW7/3NSJK\n\nLe
+ eds United on X\nhttps://premlge.co/f/2gRXhx/3NSJK\n\nLatest Tottenham Hots
+ pur News\nhttps://premlge.co/f/2qCvWf/3NSJK\n\nTottenham Hotspur on X\nhttp
+ s://premlge.co/f/2gRXhN/3NSJK\n\nManage my ECAL\nhttps://premlge.co/f/2gRXj
+ 5/3NSJK\n\n
+X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Emirates Stadium\, London
+X-ECAL-SCHEDULE:
+DTSTART:20261107T150000Z
+DTEND:20261107T170000Z
+SUMMARY:📰⚽️ Arsenal v Hull City
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35075954aa8848ab04b9ef
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League Matchweek 10 | Listen live on BBC Radio 5 Live |
+  #ARSHUL\n\n📰 Premier League injury news: Latest updates for all clubs\n
+ \nRead all about it 👇\nhttps://premlge.co/f/2xTFrr/3NSJK\n\nLatest Premi
+ er League News\nhttps://premlge.co/f/2xPRRW/3NSJK\n\nLatest Arsenal News\nh
+ ttps://premlge.co/f/2gRX8d/3NSJK\n\nArsenal on X\nhttps://premlge.co/f/2gRX
+ 8m/3NSJK\n\nLatest Hull City News\nhttps://premlge.co/f/2qCvVH/3NSJK\n\nHul
+ l City on X\nhttps://premlge.co/f/2gRX8C/3NSJK\n\nManage my ECAL\nhttps://p
+ remlge.co/f/2gRX8Z/3NSJK\n\n
+X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Craven Cottage\, London
+X-ECAL-SCHEDULE:
+DTSTART:20261107T150000Z
+DTEND:20261107T170000Z
+SUMMARY:📰⚽️ Fulham v Newcastle United
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35075954aa884dbe019927
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League Matchweek 10 | Listen live on BBC Radio 5 Live |
+  #FULNEW\n\n📰 Golden Boot: Who are the top scorers this season?\n\nRead 
+ all about it 👇\nhttps://premlge.co/f/2xTFrt/3NSJK\n\nLatest Premier Leag
+ ue News\nhttps://premlge.co/f/2xPRSb/3NSJK\n\nLatest Fulham News\nhttps://p
+ remlge.co/f/2qCvTM/3NSJK\n\nFulham on X\nhttps://premlge.co/f/2gRXft/3NSJK\
+ n\nLatest Newcastle United News\nhttps://premlge.co/f/2qCvTS/3NSJK\n\nNewca
+ stle United on X\nhttps://premlge.co/f/2gRXfC/3NSJK\n\nManage my ECAL\nhttp
+ s://premlge.co/f/2gRXfW/3NSJK\n\n
+X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:The City Ground\, Nottingham
+X-ECAL-SCHEDULE:
+DTSTART:20261107T173000Z
+DTEND:20261107T193000Z
+SUMMARY:📰⚽️ Nottingham Forest v Manchester City
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35075954aa8848aa0a8662
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League Matchweek 10 | Watch live on UK - Sky Sports. Li
+ sten live on BBC Radio 5 Live | #FORMCI\n\n📰 Expected Goals v actual goa
+ ls: How each Premier League team rank\n\nRead all about it 👇\nhttps://pr
+ emlge.co/f/2xTFrw/3NSJK\n\nLatest Premier League News\nhttps://premlge.co/f
+ /2xPRSd/3NSJK\n\nLatest Nottingham Forest News\nhttps://premlge.co/f/2qCvWz
+ /3NSJK\n\nNottingham Forest on X\nhttps://premlge.co/f/2gRXkZ/3NSJK\n\nLate
+ st Manchester City News\nhttps://premlge.co/f/2qCvWF/3NSJK\n\nManchester Ci
+ ty on X\nhttps://premlge.co/f/2gRXlk/3NSJK\n\nManage my ECAL\nhttps://preml
+ ge.co/f/2gRXlG/3NSJK\n\n
 X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
 BEGIN:VALARM
 TRIGGER:-PT15M

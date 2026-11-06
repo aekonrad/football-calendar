@@ -9902,35 +9902,6 @@ END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
 DTSTAMP:00010101T000000Z
-LOCATION:Hill Dickinson Stadium\, Liverpool
-X-ECAL-SCHEDULE:
-DTSTART:20261106T200000Z
-DTEND:20261106T220000Z
-SUMMARY:📰⚽️ Everton v Coventry City
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35075954aa884dbe019926
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League Matchweek 10 | Watch live on UK - Sky Sports. Li
- sten live on TalkSport | #EVECOV\n\n📰 Ten KEY questions for Matchweek 10
- 's fixtures\n\nRead all about it 👇\nhttps://premlge.co/f/2xRQH9/3NSJK\n\
- nLatest Premier League News\nhttps://premlge.co/f/2xMTlk/3NSJK\n\nLatest Ev
- erton News\nhttps://premlge.co/f/2qTRjl/3NSJK\n\nEverton on X\nhttps://prem
- lge.co/f/2gRXdf/3NSJK\n\nLatest Coventry City News\nhttps://premlge.co/f/2q
- TRjs/3NSJK\n\nCoventry City on X\nhttps://premlge.co/f/2nB7Hz/3NSJK\n\nMana
- ge my ECAL\nhttps://premlge.co/f/2gRXdP/3NSJK\n\n
-X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
 LOCATION:Anfield\, Liverpool
 X-ECAL-SCHEDULE:
 DTSTART:20261219T173000Z
@@ -10175,6 +10146,35 @@ DESCRIPTION:Premier League Matchweek 16 | Follow the game on Matchday Live
  cial Hull City Merchandise\nhttps://premlge.co/f/2gRYqc/3NSJK\n\nDownload t
  he Hull City App\nhttps://premlge.co/f/2qCGRB/3NSJK\n\nManage my ECAL\nhttp
  s://premlge.co/f/2gRYqw/3NSJK\n\n
+X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Hill Dickinson Stadium\, Liverpool
+X-ECAL-SCHEDULE:
+DTSTART:20261106T200000Z
+DTEND:20261106T220000Z
+SUMMARY:🟣⚽️ Everton v Coventry City
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35075954aa884dbe019926
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League Matchweek 10 | Watch live on UK - Sky Sports. Li
+ sten live on TalkSport | #EVECOV\n\nEverything you need to know from kickof
+ f to the final whistle 👇\n\n▶️ Watch LIVE on UK - Sky Sports\nhttps:
+ //premlge.co/f/2xMq2h/3NSJK\n\n📱 Matchday LIVE\nhttps://premlge.co/f/2gR
+ Xd2/3NSJK\n\nSee other Scores\nhttps://premlge.co/f/2xSjlR/3NSJK\n\nFollow 
+ the match on Everton X\nhttps://premlge.co/f/2gRXdf/3NSJK\n\nFollow the mat
+ ch on Coventry City X\nhttps://premlge.co/f/2nB7Hz/3NSJK\n\nManage my ECAL\
+ nhttps://premlge.co/f/2gRXdP/3NSJK\n\n
 X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
 BEGIN:VALARM
 TRIGGER:-PT15M

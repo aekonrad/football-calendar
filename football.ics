@@ -9974,124 +9974,6 @@ END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
 DTSTAMP:00010101T000000Z
-LOCATION:Elland Road\, Leeds
-X-ECAL-SCHEDULE:
-DTSTART:20261107T123000Z
-DTEND:20261107T143000Z
-SUMMARY:📰⚽️ Leeds United v Tottenham Hotspur
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35075954aa884dbe019929
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League Matchweek 10 | Watch live on UK - TNT Sports. Li
- sten live on TalkSport | #LEETOT\n\n📰 Expected Goals v actual goals: How
-  each Premier League team rank\n\nRead all about it 👇\nhttps://premlge.c
- o/f/2xTwZM/3NSJK\n\nLatest Premier League News\nhttps://premlge.co/f/2xPxwj
- /3NSJK\n\nLatest Leeds United News\nhttps://premlge.co/f/2qCvW7/3NSJK\n\nLe
- eds United on X\nhttps://premlge.co/f/2gRXhx/3NSJK\n\nLatest Tottenham Hots
- pur News\nhttps://premlge.co/f/2qCvWf/3NSJK\n\nTottenham Hotspur on X\nhttp
- s://premlge.co/f/2gRXhN/3NSJK\n\nManage my ECAL\nhttps://premlge.co/f/2gRXj
- 5/3NSJK\n\n
-X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
-LOCATION:Emirates Stadium\, London
-X-ECAL-SCHEDULE:
-DTSTART:20261107T150000Z
-DTEND:20261107T170000Z
-SUMMARY:📰⚽️ Arsenal v Hull City
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35075954aa8848ab04b9ef
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League Matchweek 10 | Listen live on BBC Radio 5 Live |
-  #ARSHUL\n\n📰 Premier League injury news: Latest updates for all clubs\n
- \nRead all about it 👇\nhttps://premlge.co/f/2xTFrr/3NSJK\n\nLatest Premi
- er League News\nhttps://premlge.co/f/2xPRRW/3NSJK\n\nLatest Arsenal News\nh
- ttps://premlge.co/f/2gRX8d/3NSJK\n\nArsenal on X\nhttps://premlge.co/f/2gRX
- 8m/3NSJK\n\nLatest Hull City News\nhttps://premlge.co/f/2qCvVH/3NSJK\n\nHul
- l City on X\nhttps://premlge.co/f/2gRX8C/3NSJK\n\nManage my ECAL\nhttps://p
- remlge.co/f/2gRX8Z/3NSJK\n\n
-X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
-LOCATION:Craven Cottage\, London
-X-ECAL-SCHEDULE:
-DTSTART:20261107T150000Z
-DTEND:20261107T170000Z
-SUMMARY:📰⚽️ Fulham v Newcastle United
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35075954aa884dbe019927
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League Matchweek 10 | Listen live on BBC Radio 5 Live |
-  #FULNEW\n\n📰 Golden Boot: Who are the top scorers this season?\n\nRead 
- all about it 👇\nhttps://premlge.co/f/2xTFrt/3NSJK\n\nLatest Premier Leag
- ue News\nhttps://premlge.co/f/2xPRSb/3NSJK\n\nLatest Fulham News\nhttps://p
- remlge.co/f/2qCvTM/3NSJK\n\nFulham on X\nhttps://premlge.co/f/2gRXft/3NSJK\
- n\nLatest Newcastle United News\nhttps://premlge.co/f/2qCvTS/3NSJK\n\nNewca
- stle United on X\nhttps://premlge.co/f/2gRXfC/3NSJK\n\nManage my ECAL\nhttp
- s://premlge.co/f/2gRXfW/3NSJK\n\n
-X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
-LOCATION:The City Ground\, Nottingham
-X-ECAL-SCHEDULE:
-DTSTART:20261107T173000Z
-DTEND:20261107T193000Z
-SUMMARY:📰⚽️ Nottingham Forest v Manchester City
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35075954aa8848aa0a8662
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League Matchweek 10 | Watch live on UK - Sky Sports. Li
- sten live on BBC Radio 5 Live | #FORMCI\n\n📰 Expected Goals v actual goa
- ls: How each Premier League team rank\n\nRead all about it 👇\nhttps://pr
- emlge.co/f/2xTFrw/3NSJK\n\nLatest Premier League News\nhttps://premlge.co/f
- /2xPRSd/3NSJK\n\nLatest Nottingham Forest News\nhttps://premlge.co/f/2qCvWz
- /3NSJK\n\nNottingham Forest on X\nhttps://premlge.co/f/2gRXkZ/3NSJK\n\nLate
- st Manchester City News\nhttps://premlge.co/f/2qCvWF/3NSJK\n\nManchester Ci
- ty on X\nhttps://premlge.co/f/2gRXlk/3NSJK\n\nManage my ECAL\nhttps://preml
- ge.co/f/2gRXlG/3NSJK\n\n
-X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
 LOCATION:St. James' Park\, Newcastle
 X-ECAL-SCHEDULE:
 DTSTART:20261102T200000Z
@@ -10166,6 +10048,122 @@ DESCRIPTION:The Drama doesn’t stop at the final whistle!\n\nDive back int
  sults\nhttps://premlge.co/f/2xSjlR/3NSJK\n\nLatest Everton News\nhttps://pr
  emlge.co/f/2qTRjl/3NSJK\n\nLatest Coventry City News\nhttps://premlge.co/f/
  2qTRjs/3NSJK\n\nManage my ECAL\nhttps://premlge.co/f/2gRXdP/3NSJK\n\n
+X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Craven Cottage\, London
+X-ECAL-SCHEDULE:
+DTSTART:20261107T150000Z
+DTEND:20261107T170000Z
+SUMMARY:🟣⚽️ Fulham v Newcastle United
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35075954aa884dbe019927
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League Matchweek 10 | Listen live on BBC Radio 5 Live |
+  #FULNEW\n\nEverything you need to know from kickoff to the final whistle 
+ 👇\n\n▶️ Watch LIVE on BBC Radio 5 Live\nhttps://premlge.co/f/2gRXff/
+ 3NSJK\n\n📱 Matchday LIVE\nhttps://premlge.co/f/2gRXfl/3NSJK\n\nSee other
+  Scores\nhttps://premlge.co/f/2xZlC7/3NSJK\n\nFollow the match on Fulham X\
+ nhttps://premlge.co/f/2gRXft/3NSJK\n\nFollow the match on Newcastle United 
+ X\nhttps://premlge.co/f/2gRXfC/3NSJK\n\nManage my ECAL\nhttps://premlge.co/
+ f/2gRXfW/3NSJK\n\n
+X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Elland Road\, Leeds
+X-ECAL-SCHEDULE:
+DTSTART:20261107T123000Z
+DTEND:20261107T143000Z
+SUMMARY:🟣⚽️ Leeds United v Tottenham Hotspur
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35075954aa884dbe019929
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League Matchweek 10 | Watch live on UK - TNT Sports. Li
+ sten live on TalkSport | #LEETOT\n\nEverything you need to know from kickof
+ f to the final whistle 👇\n\n▶️ Watch LIVE on UK - TNT Sports\nhttps:
+ //premlge.co/f/2st39j/3NSJK\n\n📱 Matchday LIVE\nhttps://premlge.co/f/2gR
+ Xhn/3NSJK\n\nSee other Scores\nhttps://premlge.co/f/2xZlZX/3NSJK\n\nFollow 
+ the match on Leeds United X\nhttps://premlge.co/f/2gRXhx/3NSJK\n\nFollow th
+ e match on Tottenham Hotspur X\nhttps://premlge.co/f/2gRXhN/3NSJK\n\nManage
+  my ECAL\nhttps://premlge.co/f/2gRXj5/3NSJK\n\n
+X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Emirates Stadium\, London
+X-ECAL-SCHEDULE:
+DTSTART:20261107T150000Z
+DTEND:20261107T170000Z
+SUMMARY:🟣⚽️ Arsenal v Hull City
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35075954aa8848ab04b9ef
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League Matchweek 10 | Listen live on BBC Radio 5 Live |
+  #ARSHUL\n\nEverything you need to know from kickoff to the final whistle 
+ 👇\n\n▶️ Watch LIVE on BBC Radio 5 Live\nhttps://premlge.co/f/2gRX7Y/
+ 3NSJK\n\n📱 Matchday LIVE\nhttps://premlge.co/f/2gRX86/3NSJK\n\nSee other
+  Scores\nhttps://premlge.co/f/2xZm16/3NSJK\n\nFollow the match on Arsenal X
+ \nhttps://premlge.co/f/2gRX8m/3NSJK\n\nFollow the match on Hull City X\nhtt
+ ps://premlge.co/f/2gRX8C/3NSJK\n\nManage my ECAL\nhttps://premlge.co/f/2gRX
+ 8Z/3NSJK\n\n
+X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:The City Ground\, Nottingham
+X-ECAL-SCHEDULE:
+DTSTART:20261107T173000Z
+DTEND:20261107T193000Z
+SUMMARY:🟣⚽️ Nottingham Forest v Manchester City
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35075954aa8848aa0a8662
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League Matchweek 10 | Watch live on UK - Sky Sports. Li
+ sten live on BBC Radio 5 Live | #FORMCI\n\nEverything you need to know from
+  kickoff to the final whistle 👇\n\n▶️ Watch LIVE on UK - Sky Sports\
+ nhttps://premlge.co/f/2xMtl2/3NSJK\n\n📱 Matchday LIVE\nhttps://premlge.c
+ o/f/2gRXkK/3NSJK\n\nSee other Scores\nhttps://premlge.co/f/2xZm1c/3NSJK\n\n
+ Follow the match on Nottingham Forest X\nhttps://premlge.co/f/2gRXkZ/3NSJK\
+ n\nFollow the match on Manchester City X\nhttps://premlge.co/f/2gRXlk/3NSJK
+ \n\nManage my ECAL\nhttps://premlge.co/f/2gRXlG/3NSJK\n\n
 X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
 BEGIN:VALARM
 TRIGGER:-PT15M

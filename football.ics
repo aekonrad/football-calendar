@@ -9707,94 +9707,6 @@ LAST-MODIFIED:00010101T000000Z
 DTSTAMP:00010101T000000Z
 LOCATION:American Express Stadium\, Falmer
 X-ECAL-SCHEDULE:
-DTSTART:20261108T140000Z
-DTEND:20261108T160000Z
-SUMMARY:📰⚽️ Brighton & Hove Albion v Brentford
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35075954aa8848ab04b9f0
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League Matchweek 10 | Watch live on UK - Sky Sports. Li
- sten live on BBC Radio 5 Live | #BHABRE\n\n📰 Ten KEY questions for Match
- week 10 fixtures\n\nRead all about it 👇\nhttps://premlge.co/f/2y1c5q/3NS
- JK\n\nLatest Premier League News\nhttps://premlge.co/f/2xRFfF/3NSJK\n\nLate
- st Brighton & Hove Albion News\nhttps://premlge.co/f/2qTP1P/3NSJK\n\nBright
- on & Hove Albion on X\nhttps://premlge.co/f/2qTP1T/3NSJK\n\nLatest Brentfor
- d News\nhttps://premlge.co/f/2qTP1Z/3NSJK\n\nBrentford on X\nhttps://premlg
- e.co/f/2qTP29/3NSJK\n\nManage my ECAL\nhttps://premlge.co/f/2gRXbp/3NSJK\n\
- n
-X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
-LOCATION:Selhurst Park\, London
-X-ECAL-SCHEDULE:
-DTSTART:20261108T140000Z
-DTEND:20261108T160000Z
-SUMMARY:📰⚽️ Crystal Palace v Liverpool
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35075954aa884dbe019925
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League Matchweek 10 | Watch live on UK - Sky Sports. Li
- sten live on BBC Radio 5 Live | #CRYLIV\n\n📰 Premier League injury news:
-  Latest updates for all clubs\n\nRead all about it 👇\nhttps://premlge.co
- /f/2y1c5r/3NSJK\n\nLatest Premier League News\nhttps://premlge.co/f/2xRFfP/
- 3NSJK\n\nLatest Crystal Palace News\nhttps://premlge.co/f/2qCvVc/3NSJK\n\nC
- rystal Palace on X\nhttps://premlge.co/f/2gRXc5/3NSJK\n\nLatest Liverpool N
- ews\nhttps://premlge.co/f/2qCvVh/3NSJK\n\nLiverpool on X\nhttps://premlge.c
- o/f/2gRXch/3NSJK\n\nManage my ECAL\nhttps://premlge.co/f/2gRXcN/3NSJK\n\n
-X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
-LOCATION:Stadium of Light\, Sunderland
-X-ECAL-SCHEDULE:
-DTSTART:20261108T140000Z
-DTEND:20261108T160000Z
-SUMMARY:📰⚽️ Sunderland v Chelsea
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35075954aa8848aa0a8663
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League Matchweek 10 | Watch live on UK - Sky Sports. Li
- sten live on BBC Radio 5 Live | #SUNCHE\n\n📰 Golden Boot: Who are the to
- p scorers this season?\n\nRead all about it 👇\nhttps://premlge.co/f/2y1c
- 5s/3NSJK\n\nLatest Premier League News\nhttps://premlge.co/f/2xRFfH/3NSJK\n
- \nLatest Sunderland News\nhttps://premlge.co/f/2qTP4W/3NSJK\n\nSunderland o
- n X\nhttps://premlge.co/f/2gRXm5/3NSJK\n\nLatest Chelsea News\nhttps://prem
- lge.co/f/2qTP56/3NSJK\n\nChelsea on X\nhttps://premlge.co/f/2qTP5g/3NSJK\n\
- nManage my ECAL\nhttps://premlge.co/f/2gRXmJ/3NSJK\n\n
-X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
-LOCATION:American Express Stadium\, Falmer
-X-ECAL-SCHEDULE:
 DTSTART:20270102T123000Z
 DTEND:20270102T143000Z
 SUMMARY:⚽️ Brighton & Hove Albion v Manchester United
@@ -9811,35 +9723,6 @@ DESCRIPTION:Premier League Matchweek 19 | Watch live on UK - TNT Sports | #
  lge.co/f/2qTRp2/3NSJK\n\nLatest Manchester United News\nhttps://premlge.co/
  f/2qTRp5/3NSJK\n\nManchester United on X\nhttps://premlge.co/f/2qTRp9/3NSJK
  \n\nManage my ECAL\nhttps://premlge.co/f/2gRVSz/3NSJK\n\n
-X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
-LOCATION:Portman Road\, Ipswich
-X-ECAL-SCHEDULE:
-DTSTART:20261108T140000Z
-DTEND:20261108T160000Z
-SUMMARY:📰⚽️ Ipswich Town v AFC Bournemouth
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35075954aa8848ab04b9f4
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League Matchweek 10 | Watch live on UK - Sky Sports. Li
- sten live on BBC Radio 5 Live | #IPSBOU\n\n📰 Ten KEY questions for Match
- week 10's fixtures\n\nRead all about it 👇\nhttps://premlge.co/f/2y1c5F/3
- NSJK\n\nLatest Premier League News\nhttps://premlge.co/f/2xRFfG/3NSJK\n\nLa
- test Ipswich Town News\nhttps://premlge.co/f/2qTRjH/3NSJK\n\nIpswich Town o
- n X\nhttps://premlge.co/f/2gRXgp/3NSJK\n\nLatest AFC Bournemouth News\nhttp
- s://premlge.co/f/2qTRjP/3NSJK\n\nAFC Bournemouth on X\nhttps://premlge.co/f
- /2qTRjS/3NSJK\n\nManage my ECAL\nhttps://premlge.co/f/2gRXh7/3NSJK\n\n
 X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -9950,35 +9833,6 @@ DESCRIPTION:Premier League Matchweek 19 | Follow the game on Matchday Live
  City Merchandise\nhttps://premlge.co/f/2gRYY9/3NSJK\n\nDownload the Hull Ci
  ty App\nhttps://premlge.co/f/2qCtVk/3NSJK\n\nManage my ECAL\nhttps://premlg
  e.co/f/2gRYYv/3NSJK\n\n
-X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
-LOCATION:Old Trafford\, Manchester
-X-ECAL-SCHEDULE:
-DTSTART:20261108T163000Z
-DTEND:20261108T183000Z
-SUMMARY:📰⚽️ Manchester United v Aston Villa
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35075954aa884dbe01992a
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League Matchweek 10 | Watch live on UK - Sky Sports. Li
- sten live on BBC Radio 5 Live | #MUNVIL\n\n📰 Ten KEY questions for Match
- week 10's fixtures\n\nRead all about it 👇\nhttps://premlge.co/f/2y1tsb/3
- NSJK\n\nLatest Premier League News\nhttps://premlge.co/f/2xRLXD/3NSJK\n\nLa
- test Manchester United News\nhttps://premlge.co/f/2qTP4p/3NSJK\n\nMancheste
- r United on X\nhttps://premlge.co/f/2qTP4r/3NSJK\n\nLatest Aston Villa News
- \nhttps://premlge.co/f/2qTP4x/3NSJK\n\nAston Villa on X\nhttps://premlge.co
- /f/2qTP4G/3NSJK\n\nManage my ECAL\nhttps://premlge.co/f/2gRXkv/3NSJK\n\n
 X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -10149,6 +10003,151 @@ DESCRIPTION:The Drama doesn’t stop at the final whistle!\n\nDive back int
  https://premlge.co/f/2qCvWz/3NSJK\n\nLatest Manchester City News\nhttps://p
  remlge.co/f/2qCvWF/3NSJK\n\nManage my ECAL\nhttps://premlge.co/f/2gRXlG/3NS
  JK\n\n
+X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:American Express Stadium\, Falmer
+X-ECAL-SCHEDULE:
+DTSTART:20261108T140000Z
+DTEND:20261108T160000Z
+SUMMARY:🟣⚽️ Brighton & Hove Albion v Brentford
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35075954aa8848ab04b9f0
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League Matchweek 10 | Watch live on UK - Sky Sports. Li
+ sten live on BBC Radio 5 Live | #BHABRE\n\nEverything you need to know from
+  kickoff to the final whistle 👇\n\n▶️ Watch LIVE on UK - Sky Sports\
+ nhttps://premlge.co/f/2xMtl4/3NSJK\n\n📱 Matchday LIVE\nhttps://premlge.c
+ o/f/2gRX9g/3NSJK\n\nSee other Scores\nhttps://premlge.co/f/2y1HW5/3NSJK\n\n
+ Follow the match on Brighton & Hove Albion X\nhttps://premlge.co/f/2qTP1T/3
+ NSJK\n\nFollow the match on Brentford X\nhttps://premlge.co/f/2qTP29/3NSJK\
+ n\nManage my ECAL\nhttps://premlge.co/f/2gRXbp/3NSJK\n\n
+X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Selhurst Park\, London
+X-ECAL-SCHEDULE:
+DTSTART:20261108T140000Z
+DTEND:20261108T160000Z
+SUMMARY:🟣⚽️ Crystal Palace v Liverpool
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35075954aa884dbe019925
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League Matchweek 10 | Watch live on UK - Sky Sports. Li
+ sten live on BBC Radio 5 Live | #CRYLIV\n\nEverything you need to know from
+  kickoff to the final whistle 👇\n\n▶️ Watch LIVE on UK - Sky Sports\
+ nhttps://premlge.co/f/2xMHMR/3NSJK\n\n📱 Matchday LIVE\nhttps://premlge.c
+ o/f/2gRXbM/3NSJK\n\nSee other Scores\nhttps://premlge.co/f/2y1HW6/3NSJK\n\n
+ Follow the match on Crystal Palace X\nhttps://premlge.co/f/2gRXc5/3NSJK\n\n
+ Follow the match on Liverpool X\nhttps://premlge.co/f/2gRXch/3NSJK\n\nManag
+ e my ECAL\nhttps://premlge.co/f/2gRXcN/3NSJK\n\n
+X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Stadium of Light\, Sunderland
+X-ECAL-SCHEDULE:
+DTSTART:20261108T140000Z
+DTEND:20261108T160000Z
+SUMMARY:🟣⚽️ Sunderland v Chelsea
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35075954aa8848aa0a8663
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League Matchweek 10 | Watch live on UK - Sky Sports. Li
+ sten live on BBC Radio 5 Live | #SUNCHE\n\nEverything you need to know from
+  kickoff to the final whistle 👇\n\n▶️ Watch LIVE on UK - Sky Sports\
+ nhttps://premlge.co/f/2xMHNk/3NSJK\n\n📱 Matchday LIVE\nhttps://premlge.c
+ o/f/2gRXlT/3NSJK\n\nSee other Scores\nhttps://premlge.co/f/2y1HW9/3NSJK\n\n
+ Follow the match on Sunderland X\nhttps://premlge.co/f/2gRXm5/3NSJK\n\nFoll
+ ow the match on Chelsea X\nhttps://premlge.co/f/2qTP5g/3NSJK\n\nManage my E
+ CAL\nhttps://premlge.co/f/2gRXmJ/3NSJK\n\n
+X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Old Trafford\, Manchester
+X-ECAL-SCHEDULE:
+DTSTART:20261108T163000Z
+DTEND:20261108T183000Z
+SUMMARY:🟣⚽️ Manchester United v Aston Villa
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35075954aa884dbe01992a
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League Matchweek 10 | Watch live on UK - Sky Sports. Li
+ sten live on BBC Radio 5 Live | #MUNVIL\n\nEverything you need to know from
+  kickoff to the final whistle 👇\n\n▶️ Watch LIVE on UK - Sky Sports\
+ nhttps://premlge.co/f/2xMHNl/3NSJK\n\n📱 Matchday LIVE\nhttps://premlge.c
+ o/f/2gRXjk/3NSJK\n\nSee other Scores\nhttps://premlge.co/f/2y1HWb/3NSJK\n\n
+ Follow the match on Manchester United X\nhttps://premlge.co/f/2qTP4r/3NSJK\
+ n\nFollow the match on Aston Villa X\nhttps://premlge.co/f/2qTP4G/3NSJK\n\n
+ Manage my ECAL\nhttps://premlge.co/f/2gRXkv/3NSJK\n\n
+X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Portman Road\, Ipswich
+X-ECAL-SCHEDULE:
+DTSTART:20261108T140000Z
+DTEND:20261108T160000Z
+SUMMARY:🟣⚽️ Ipswich Town v AFC Bournemouth
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35075954aa8848ab04b9f4
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League Matchweek 10 | Watch live on UK - Sky Sports. Li
+ sten live on BBC Radio 5 Live | #IPSBOU\n\nEverything you need to know from
+  kickoff to the final whistle 👇\n\n▶️ Watch LIVE on UK - Sky Sports\
+ nhttps://premlge.co/f/2xMHNj/3NSJK\n\n📱 Matchday LIVE\nhttps://premlge.c
+ o/f/2gRXg7/3NSJK\n\nSee other Scores\nhttps://premlge.co/f/2y1HWq/3NSJK\n\n
+ Follow the match on Ipswich Town X\nhttps://premlge.co/f/2gRXgp/3NSJK\n\nFo
+ llow the match on AFC Bournemouth X\nhttps://premlge.co/f/2qTRjS/3NSJK\n\nM
+ anage my ECAL\nhttps://premlge.co/f/2gRXh7/3NSJK\n\n
 X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
 BEGIN:VALARM
 TRIGGER:-PT15M

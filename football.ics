@@ -3943,147 +3943,6 @@ END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
 DTSTAMP:00010101T000000Z
-LOCATION:Tottenham Hotspur Stadium\, London
-X-ECAL-SCHEDULE:
-DTSTART:20261121T150000Z
-DTEND:20261121T170000Z
-SUMMARY:⚽️ Tottenham Hotspur v Ipswich Town
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35075954aa884dbe019930
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League Matchweek 11 | Follow the game on Matchday Live 
- | #TOTIPS\n\nMatchday Live\nhttps://premlge.co/f/2gRXBf/3NSJK\n\nShop Offic
- ial Tottenham Hotspur Merchandise\nhttps://premlge.co/f/2gRXBr/3NSJK\n\nDow
- nload the Tottenham Hotspur App\nhttps://premlge.co/f/2qCvZc/3NSJK\n\nShop 
- Official Ipswich Town Merchandise\nhttps://premlge.co/f/2gRXBC/3NSJK\n\nDow
- nload the Ipswich Town App\nhttps://premlge.co/f/2qCvZj/3NSJK\n\nManage my 
- ECAL\nhttps://premlge.co/f/2gRXBP/3NSJK\n\n
-X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
-LOCATION:St. James' Park\, Newcastle
-X-ECAL-SCHEDULE:
-DTSTART:20261121T173000Z
-DTEND:20261121T193000Z
-SUMMARY:⚽️ Newcastle United v Arsenal
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35075954aa8848aa0a8668
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League Matchweek 11 | Watch live on UK - Sky Sports | #
- NEWARS\n\nWatch Live\nhttps://premlge.co/f/2sH3g2/3NSJK\n\nMatchday Live\nh
- ttps://premlge.co/f/2gRXz5/3NSJK\n\nLatest Newcastle United News\nhttps://p
- remlge.co/f/2qCvYZ/3NSJK\n\nNewcastle United on X\nhttps://premlge.co/f/2gR
- Xzj/3NSJK\n\nLatest Arsenal News\nhttps://premlge.co/f/2gRXzn/3NSJK\n\nArse
- nal on X\nhttps://premlge.co/f/2gRXzt/3NSJK\n\nManage my ECAL\nhttps://prem
- lge.co/f/2gRXzR/3NSJK\n\n
-X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
-LOCATION:MKM Stadium\, Hull
-X-ECAL-SCHEDULE:
-DTSTART:20261122T140000Z
-DTEND:20261122T160000Z
-SUMMARY:⚽️ Hull City v Brighton & Hove Albion
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35075954aa884dbe01992f
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League Matchweek 11 | Watch live on UK - Sky Sports | #
- HULBHA\n\nWatch Live\nhttps://premlge.co/f/2sJ8R7/3NSJK\n\nMatchday Live\nh
- ttps://premlge.co/f/2gRXvF/3NSJK\n\nShop Official Hull City Merchandise\nht
- tps://premlge.co/f/2gRXvM/3NSJK\n\nDownload the Hull City App\nhttps://prem
- lge.co/f/2qCvY8/3NSJK\n\nShop Official Brighton & Hove Albion Merchandise\n
- https://premlge.co/f/2qCvYg/3NSJK\n\nDownload the Brighton & Hove Albion Ap
- p\nhttps://premlge.co/f/2gRXw4/3NSJK\n\nManage my ECAL\nhttps://premlge.co/
- f/2gRXwl/3NSJK\n\n
-X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
-LOCATION:Anfield\, Liverpool
-X-ECAL-SCHEDULE:
-DTSTART:20261122T163000Z
-DTEND:20261122T183000Z
-SUMMARY:⚽️ Liverpool v Manchester United
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35075954aa8848aa0a8666
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League Matchweek 11 | Watch live on UK - Sky Sports | #
- LIVMUN\n\nWatch Live\nhttps://premlge.co/f/2sJJgZ/3NSJK\n\nMatchday Live\nh
- ttps://premlge.co/f/2gRXwX/3NSJK\n\nLatest Liverpool News\nhttps://premlge.
- co/f/2qCvYp/3NSJK\n\nLiverpool on X\nhttps://premlge.co/f/2gRXx7/3NSJK\n\nL
- atest Manchester United News\nhttps://premlge.co/f/2qCvYv/3NSJK\n\nManchest
- er United on X\nhttps://premlge.co/f/2gRXxk/3NSJK\n\nManage my ECAL\nhttps:
- //premlge.co/f/2gRXxP/3NSJK\n\n
-X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
-LOCATION:Gtech Community Stadium\, Brentford
-X-ECAL-SCHEDULE:
-DTSTART:20261123T200000Z
-DTEND:20261123T220000Z
-SUMMARY:⚽️ Brentford v Everton
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35075954aa884dbe01992e
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League Matchweek 11 | Watch live on UK - Sky Sports | #
- BREEVE\n\nWatch Live\nhttps://premlge.co/f/2sLTjR/3NSJK\n\nMatchday Live\nh
- ttps://premlge.co/f/2gRXqn/3NSJK\n\nShop Official Brentford Merchandise\nht
- tps://premlge.co/f/2qTRyl/3NSJK\n\nDownload the Brentford App\nhttps://prem
- lge.co/f/2qTRyv/3NSJK\n\nShop Official Everton Merchandise\nhttps://premlge
- .co/f/2qTRyB/3NSJK\n\nDownload the Everton App\nhttps://premlge.co/f/2qTRyF
- /3NSJK\n\nManage my ECAL\nhttps://premlge.co/f/2gRXrc/3NSJK\n\n
-X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
 LOCATION:Elland Road\, Leeds
 X-ECAL-SCHEDULE:
 DTSTART:20261128T150000Z
@@ -10154,6 +10013,148 @@ DESCRIPTION:Premier League Matchweek 11 | Watch live on UK - TNT Sports. Li
  https://premlge.co/f/2qTRkM/3NSJK\n\nLatest Fulham News\nhttps://premlge.co
  /f/2qTRkS/3NSJK\n\nFulham on X\nhttps://premlge.co/f/2qTRkY/3NSJK\n\nManage
   my ECAL\nhttps://premlge.co/f/2gRXyP/3NSJK\n\n
+X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Gtech Community Stadium\, Brentford
+X-ECAL-SCHEDULE:
+DTSTART:20261123T200000Z
+DTEND:20261123T220000Z
+SUMMARY:⚽️ Brentford v Everton
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35075954aa884dbe01992e
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League Matchweek 11 | Watch live on UK - Sky Sports. Li
+ sten live on TalkSport | #BREEVE\n\nWatch Live\nhttps://premlge.co/f/2ydtV3
+ /3NSJK\n\nMatchday Live\nhttps://premlge.co/f/2gRXqn/3NSJK\n\nLatest Brentf
+ ord News\nhttps://premlge.co/f/2qCvXs/3NSJK\n\nBrentford on X\nhttps://prem
+ lge.co/f/2gRXqD/3NSJK\n\nLatest Everton News\nhttps://premlge.co/f/2qCvXz/3
+ NSJK\n\nEverton on X\nhttps://premlge.co/f/2gRXqX/3NSJK\n\nManage my ECAL\n
+ https://premlge.co/f/2gRXrc/3NSJK\n\n
+X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Anfield\, Liverpool
+X-ECAL-SCHEDULE:
+DTSTART:20261122T163000Z
+DTEND:20261122T183000Z
+SUMMARY:⚽️ Liverpool v Manchester United
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35075954aa8848aa0a8666
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League Matchweek 11 | Watch live on UK - Sky Sports. Li
+ sten live on BBC Radio 5 Live | #LIVMUN\n\nWatch Live\nhttps://premlge.co/f
+ /2ydtWq/3NSJK\n\nMatchday Live\nhttps://premlge.co/f/2gRXwX/3NSJK\n\nShop O
+ fficial Liverpool Merchandise\nhttps://premlge.co/f/2qTP7s/3NSJK\n\nDownloa
+ d the Liverpool App\nhttps://premlge.co/f/2qTP7z/3NSJK\n\nShop Official Man
+ chester United Merchandise\nhttps://premlge.co/f/2qTP7H/3NSJK\n\nDownload t
+ he Manchester United App\nhttps://premlge.co/f/2qTP7M/3NSJK\n\nManage my EC
+ AL\nhttps://premlge.co/f/2gRXxP/3NSJK\n\n
+X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Tottenham Hotspur Stadium\, London
+X-ECAL-SCHEDULE:
+DTSTART:20261121T150000Z
+DTEND:20261121T170000Z
+SUMMARY:⚽️ Tottenham Hotspur v Ipswich Town
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35075954aa884dbe019930
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League Matchweek 11 | Listen live on BBC Radio 5 Live |
+  #TOTIPS\n\nWatch Live\nhttps://premlge.co/f/2gRXzY/3NSJK\n\nMatchday Live\
+ nhttps://premlge.co/f/2gRXBf/3NSJK\n\nLatest Tottenham Hotspur News\nhttps:
+ //premlge.co/f/2qTP8y/3NSJK\n\nTottenham Hotspur on X\nhttps://premlge.co/f
+ /2qTP8B/3NSJK\n\nLatest Ipswich Town News\nhttps://premlge.co/f/2qTP8D/3NSJ
+ K\n\nIpswich Town on X\nhttps://premlge.co/f/2nB7J2/3NSJK\n\nManage my ECAL
+ \nhttps://premlge.co/f/2gRXBP/3NSJK\n\n
+X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:St. James' Park\, Newcastle
+X-ECAL-SCHEDULE:
+DTSTART:20261121T173000Z
+DTEND:20261121T193000Z
+SUMMARY:⚽️ Newcastle United v Arsenal
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35075954aa8848aa0a8668
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League Matchweek 11 | Watch live on UK - Sky Sports. Li
+ sten live on BBC Radio 5 Live | #NEWARS\n\nWatch Live\nhttps://premlge.co/f
+ /2ydtWG/3NSJK\n\nMatchday Live\nhttps://premlge.co/f/2gRXz5/3NSJK\n\nShop O
+ fficial Newcastle United Merchandise\nhttps://premlge.co/f/2qTP85/3NSJK\n\n
+ Download the Newcastle United App\nhttps://premlge.co/f/2qTP88/3NSJK\n\nSho
+ p Official Arsenal Merchandise\nhttps://premlge.co/f/2qTP8f/3NSJK\n\nDownlo
+ ad the Arsenal App\nhttps://premlge.co/f/2qTP8h/3NSJK\n\nManage my ECAL\nht
+ tps://premlge.co/f/2gRXzR/3NSJK\n\n
+X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:MKM Stadium\, Hull
+X-ECAL-SCHEDULE:
+DTSTART:20261122T140000Z
+DTEND:20261122T160000Z
+SUMMARY:⚽️ Hull City v Brighton & Hove Albion
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35075954aa884dbe01992f
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League Matchweek 11 | Watch live on UK - Sky Sports. Li
+ sten live on BBC Radio 5 Live | #HULBHA\n\nWatch Live\nhttps://premlge.co/f
+ /2ydtWJ/3NSJK\n\nMatchday Live\nhttps://premlge.co/f/2gRXvF/3NSJK\n\nLatest
+  Hull City News\nhttps://premlge.co/f/2qTP6W/3NSJK\n\nHull City on X\nhttps
+ ://premlge.co/f/2gRXvR/3NSJK\n\nLatest Brighton & Hove Albion News\nhttps:/
+ /premlge.co/f/2qTP74/3NSJK\n\nBrighton & Hove Albion on X\nhttps://premlge.
+ co/f/2qTP79/3NSJK\n\nManage my ECAL\nhttps://premlge.co/f/2gRXwl/3NSJK\n\n
 X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
 BEGIN:VALARM
 TRIGGER:-PT15M

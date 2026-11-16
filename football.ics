@@ -10266,39 +10266,6 @@ END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:20261110T183828Z
 DTSTAMP:20261110T183828Z
-LOCATION:Anfield\, Liverpool
-X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
-DTSTART:20261122T163000Z
-DTEND:20261122T183000Z
-SUMMARY:🔴⚽️ Liverpool vs Manchester United
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35078654aa8848ab04bf0f
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League | Watch live on UK - Sky Sports | Join in: #LIVM
- UN \n\nShow your colours\, shop official Liverpool merchandise online. Worl
- dwide shipping available. Shop now!\n\nMatch Centre\nhttps://ecal.ai/f/2x7B
- nv/3NSJD\n\nAll Red Video\nhttps://ecal.ai/f/2gSN3B/3NSJD\n\nAll Red Member
- ship\nhttps://ecal.ai/f/2gSN4h/3NSJD\n\nLFC Shop\nhttps://ecal.ai/f/2gSN4T/
- 3NSJD\n\nFacebook\nhttps://ecal.ai/f/2gSN6m/3NSJD\n\nX\nhttps://ecal.ai/f/2
- gSN6P/3NSJD\n\nInstagram\nhttps://ecal.ai/f/2gSN7r/3NSJD\n\nManage my ECAL\
- nhttps://ecal.ai/f/2gSN9p/3NSJD\n\n
-BEGIN:VALARM
-TRIGGER:-P1DT
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT1H
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:20261110T183828Z
-DTSTAMP:20261110T183828Z
 LOCATION:Hill Dickinson Stadium\, Liverpool
 X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
 DTSTART:20261129T120000Z
@@ -11412,6 +11379,40 @@ DESCRIPTION:Premier League | Watch live on UK - Sky Sports | Join in: #SUNL
  /ecal.ai/f/2gSPLx/3NSJD\n\nFacebook\nhttps://ecal.ai/f/2gSPNd/3NSJD\n\nX\nh
  ttps://ecal.ai/f/2gSPP1/3NSJD\n\nInstagram\nhttps://ecal.ai/f/2gSPQ7/3NSJD\
  n\nManage my ECAL\nhttps://ecal.ai/f/2gSPT6/3NSJD\n\n
+X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Anfield\, Liverpool
+X-ECAL-SCHEDULE:
+DTSTART:20261122T163000Z
+DTEND:20261122T183000Z
+SUMMARY:🔴⚽️ Liverpool vs Manchester United
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35078654aa8848ab04bf0f
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League | Watch live on UK - Sky Sports | BBC Radio 5 Li
+ ve | Join in: #LIVMUN \n\nShow your colours\, shop official Liverpool merch
+ andise online. Worldwide shipping available. Shop now!\n\nMatch Centre\nhtt
+ ps://ecal.ai/f/2x7Bnv/3NSJD\n\nAll Red Video\nhttps://ecal.ai/f/2gSN3B/3NSJ
+ D\n\nAll Red Membership\nhttps://ecal.ai/f/2gSN4h/3NSJD\n\nLFC Shop\nhttps:
+ //ecal.ai/f/2gSN4T/3NSJD\n\nFacebook\nhttps://ecal.ai/f/2gSN6m/3NSJD\n\nX\n
+ https://ecal.ai/f/2gSN6P/3NSJD\n\nInstagram\nhttps://ecal.ai/f/2gSN7r/3NSJD
+ \n\nManage my ECAL\nhttps://ecal.ai/f/2gSN9p/3NSJD\n\n
 X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
 BEGIN:VALARM
 TRIGGER:-P1DT

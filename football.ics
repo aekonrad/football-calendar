@@ -9981,34 +9981,6 @@ END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
 DTSTAMP:00010101T000000Z
-LOCATION:Gtech Community Stadium\, Brentford
-X-ECAL-SCHEDULE:
-DTSTART:20261123T200000Z
-DTEND:20261123T220000Z
-SUMMARY:⚽️ Brentford v Everton
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35075954aa884dbe01992e
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League Matchweek 11 | Watch live on UK - Sky Sports. Li
- sten live on TalkSport | #BREEVE\n\nWatch Live\nhttps://premlge.co/f/2ydtV3
- /3NSJK\n\nMatchday Live\nhttps://premlge.co/f/2gRXqn/3NSJK\n\nLatest Brentf
- ord News\nhttps://premlge.co/f/2qCvXs/3NSJK\n\nBrentford on X\nhttps://prem
- lge.co/f/2gRXqD/3NSJK\n\nLatest Everton News\nhttps://premlge.co/f/2qCvXz/3
- NSJK\n\nEverton on X\nhttps://premlge.co/f/2gRXqX/3NSJK\n\nManage my ECAL\n
- https://premlge.co/f/2gRXrc/3NSJK\n\n
-X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
 LOCATION:Vitality Stadium\, Bournemouth
 X-ECAL-SCHEDULE:
 DTSTART:20261121T150000Z
@@ -10164,6 +10136,37 @@ DESCRIPTION:Premier League Matchweek 11 | Listen live on BBC Radio 5 Live |
   News\nhttps://premlge.co/f/2qTP8D/3NSJK\n\nIpswich Town on X\nhttps://prem
  lge.co/f/2nB7J2/3NSJK\n\nManage my ECAL\nhttps://premlge.co/f/2gRXBP/3NSJK\
  n\n
+X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Gtech Community Stadium\, Brentford
+X-ECAL-SCHEDULE:
+DTSTART:20261123T200000Z
+DTEND:20261123T220000Z
+SUMMARY:⚡⚽️ Brentford v Everton
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35075954aa884dbe01992e
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League Matchweek 11 | Watch live on UK - Sky Sports. Li
+ sten live on TalkSport | #BREEVE\n\n⚡ Brentford have scored in nine of th
+ eir opening 10 Premier League matches this season\, finding the net 16 time
+ s as they prepare to host Everton.\n\nDive into the latest news\, press con
+ ferences and the final injury updates.\n\nMatch Preview and Lineups\nhttps:
+ //premlge.co/f/2gRXqn/3NSJK\n\nLatest Premier League News\nhttps://premlge.
+ co/f/2ynbM8/3NSJK\n\nLatest Brentford News\nhttps://premlge.co/f/2qCvXs/3NS
+ JK\n\nBrentford on X\nhttps://premlge.co/f/2gRXqD/3NSJK\n\nLatest Everton N
+ ews\nhttps://premlge.co/f/2qCvXz/3NSJK\n\nEverton on X\nhttps://premlge.co/
+ f/2gRXqX/3NSJK\n\nManage my ECAL\nhttps://premlge.co/f/2gRXrc/3NSJK\n\n
 X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -11438,10 +11441,10 @@ END:VALARM
 END:VEVENT
 END:VCALENDAR
 BEGIN:VEVENT
-LAST-MODIFIED:20261116T144856Z
-DTSTAMP:20261116T144856Z
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
 LOCATION:Wembley Stadium\, London
-X-ECAL-SCHEDULE:544702905eba34a95e000000
+X-ECAL-SCHEDULE:
 DTSTART:20261112T194500Z
 DTEND:20261112T214500Z
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 England vs Croatia
@@ -11459,6 +11462,7 @@ DESCRIPTION:UEFA Nations League | Join the conversation #ThreeLions\n\nWatc
  PCDb/3NSJS\n\nLatest Video\nhttps://ecal.ai/f/2cPCDc/3NSJS\n\nFacebook\nhtt
  ps://ecal.ai/f/2cPCDd/3NSJS\n\nX\nhttps://ecal.ai/f/2cPCDf/3NSJS\n\nManage 
  my ECAL\nhttps://ecal.ai/f/2cPCDj/3NSJS\n\n
+X-ECAL-SCHEDULE:544702905eba34a95e000000
 BEGIN:VALARM
 TRIGGER:-P2DT
 ACTION:DISPLAY
@@ -11471,10 +11475,10 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-LAST-MODIFIED:20261116T144856Z
-DTSTAMP:20261116T144856Z
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
 LOCATION:Riyadh Air Metropolitano\, Madrid
-X-ECAL-SCHEDULE:544702905eba34a95e000000
+X-ECAL-SCHEDULE:
 DTSTART:20261115T194500Z
 DTEND:20261115T214500Z
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Spain vs England
@@ -11492,6 +11496,75 @@ DESCRIPTION:UEFA Nations League | Join the conversation #ThreeLions\n\nJoin
  Latest Video\nhttps://ecal.ai/f/2cPCDn/3NSJS\n\nFacebook\nhttps://ecal.ai/f
  /2cPCDp/3NSJS\n\nX\nhttps://ecal.ai/f/2cPCDq/3NSJS\n\nManage my ECAL\nhttps
  ://ecal.ai/f/2cPCDt/3NSJS\n\n
+X-ECAL-SCHEDULE:544702905eba34a95e000000
+BEGIN:VALARM
+TRIGGER:-P2DT
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:TBC
+X-ECAL-SCHEDULE:
+DTSTART:20270327T170000Z
+DTEND:20270327T190000Z
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Norway vs England
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6b00e78154aa88396b200487
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:UEFA Nations League | Join the conversation #ThreeLions\n\nJoin
+  My England Football\, our free-to-join rewards programme to recognise the 
+ passion of England fans\, grassroots players and volunteers.\n\nPurchase Ti
+ ckets\nhttps://ecal.ai/f/2yndf4/3NSJS\n\nJoin My England Football\nhttps://
+ ecal.ai/f/2yndf5/3NSJS\n\nEngland Store\nhttps://ecal.ai/f/2yndf6/3NSJS\n\n
+ Latest Video\nhttps://ecal.ai/f/2yndf7/3NSJS\n\nFacebook\nhttps://ecal.ai/f
+ /2yndf8/3NSJS\n\nX\nhttps://ecal.ai/f/2yndf9/3NSJS\n\nManage my ECAL\nhttps
+ ://ecal.ai/f/2yndfd/3NSJS\n\n
+X-ECAL-SCHEDULE:544702905eba34a95e000000
+BEGIN:VALARM
+TRIGGER:-P2DT
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Wembley Stadium\, London
+X-ECAL-SCHEDULE:
+DTSTART:20270330T184500Z
+DTEND:20270330T204500Z
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 England vs Norway
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6b00e78154aa8839527a48ce
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:UEFA Nations League | Join the conversation #ThreeLions\n\nWatc
+ h England live at Wembley Stadium\, get your tickets now!\n\nShow your colo
+ urs! Shop official Three Lions merchandise at the England Store. Shop now.\
+ n\nPurchase Tickets\nhttps://ecal.ai/f/2yndff/3NSJS\n\nJoin My England Foot
+ ball\nhttps://ecal.ai/f/2yndfg/3NSJS\n\nEngland Store\nhttps://ecal.ai/f/2y
+ ndfh/3NSJS\n\nLatest Video\nhttps://ecal.ai/f/2yndfj/3NSJS\n\nFacebook\nhtt
+ ps://ecal.ai/f/2yndfk/3NSJS\n\nX\nhttps://ecal.ai/f/2yndfl/3NSJS\n\nManage 
+ my ECAL\nhttps://ecal.ai/f/2yndfp/3NSJS\n\n
+X-ECAL-SCHEDULE:544702905eba34a95e000000
 BEGIN:VALARM
 TRIGGER:-P2DT
 ACTION:DISPLAY

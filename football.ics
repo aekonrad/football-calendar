@@ -9754,34 +9754,6 @@ END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
 DTSTAMP:00010101T000000Z
-LOCATION:MKM Stadium\, Hull
-X-ECAL-SCHEDULE:
-DTSTART:20261122T140000Z
-DTEND:20261122T160000Z
-SUMMARY:📰⚽️ Hull City v Brighton & Hove Albion
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35075954aa884dbe01992f
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League Matchweek 11 | Watch live on UK - Sky Sports. Li
- sten live on BBC Radio 5 Live | #HULBHA\n\nLatest Premier League News\nhttp
- s://premlge.co/f/2ylzbj/3NSJK\n\nLatest Hull City News\nhttps://premlge.co/
- f/2qTP6W/3NSJK\n\nHull City on X\nhttps://premlge.co/f/2gRXvR/3NSJK\n\nLate
- st Brighton & Hove Albion News\nhttps://premlge.co/f/2qTP74/3NSJK\n\nBright
- on & Hove Albion on X\nhttps://premlge.co/f/2qTP79/3NSJK\n\nManage my ECAL\
- nhttps://premlge.co/f/2gRXwl/3NSJK\n\n
-X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
 LOCATION:Coventry Building Society Arena\, Coventry
 X-ECAL-SCHEDULE:
 DTSTART:20270116T123000Z
@@ -9855,34 +9827,6 @@ DESCRIPTION:Premier League Matchweek 21 | Follow the game on Matchday Live
  X\nhttps://premlge.co/f/2qTRq9/3NSJK\n\nLatest Nottingham Forest News\nhttp
  s://premlge.co/f/2qTRqd/3NSJK\n\nNottingham Forest on X\nhttps://premlge.co
  /f/2nB7Ls/3NSJK\n\nManage my ECAL\nhttps://premlge.co/f/2gRZG8/3NSJK\n\n
-X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
-LOCATION:Anfield\, Liverpool
-X-ECAL-SCHEDULE:
-DTSTART:20261122T163000Z
-DTEND:20261122T183000Z
-SUMMARY:📰⚽️ Liverpool v Manchester United
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35075954aa8848aa0a8666
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League Matchweek 11 | Watch live on UK - Sky Sports. Li
- sten live on BBC Radio 5 Live | #LIVMUN\n\nLatest Premier League News\nhttp
- s://premlge.co/f/2ylPGg/3NSJK\n\nLatest Liverpool News\nhttps://premlge.co/
- f/2qCvYp/3NSJK\n\nLiverpool on X\nhttps://premlge.co/f/2gRXx7/3NSJK\n\nLate
- st Manchester United News\nhttps://premlge.co/f/2qCvYv/3NSJK\n\nManchester 
- United on X\nhttps://premlge.co/f/2gRXxk/3NSJK\n\nManage my ECAL\nhttps://p
- remlge.co/f/2gRXxP/3NSJK\n\n
 X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -10162,6 +10106,64 @@ DESCRIPTION:The Drama doesn’t stop at the final whistle!\n\nDive back int
  ://premlge.co/f/2yngfT/3NSJK\n\nLatest Tottenham Hotspur News\nhttps://prem
  lge.co/f/2qTP8y/3NSJK\n\nLatest Ipswich Town News\nhttps://premlge.co/f/2qT
  P8D/3NSJK\n\nManage my ECAL\nhttps://premlge.co/f/2gRXBP/3NSJK\n\n
+X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:MKM Stadium\, Hull
+X-ECAL-SCHEDULE:
+DTSTART:20261122T140000Z
+DTEND:20261122T160000Z
+SUMMARY:🟣⚽️ Hull City v Brighton & Hove Albion
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35075954aa884dbe01992f
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League Matchweek 11 | Watch live on UK - Sky Sports. Li
+ sten live on BBC Radio 5 Live | #HULBHA\n\nEverything you need to know from
+  kickoff to the final whistle 👇\n\n▶️ Watch LIVE on UK - Sky Sports\
+ nhttps://premlge.co/f/2ydtWJ/3NSJK\n\n📱 Matchday LIVE\nhttps://premlge.c
+ o/f/2gRXvF/3NSJK\n\nSee other Scores\nhttps://premlge.co/f/2ynF5W/3NSJK\n\n
+ Follow the match on Hull City X\nhttps://premlge.co/f/2gRXvR/3NSJK\n\nFollo
+ w the match on Brighton & Hove Albion X\nhttps://premlge.co/f/2qTP79/3NSJK\
+ n\nManage my ECAL\nhttps://premlge.co/f/2gRXwl/3NSJK\n\n
+X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Anfield\, Liverpool
+X-ECAL-SCHEDULE:
+DTSTART:20261122T163000Z
+DTEND:20261122T183000Z
+SUMMARY:🟣⚽️ Liverpool v Manchester United
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35075954aa8848aa0a8666
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League Matchweek 11 | Watch live on UK - Sky Sports. Li
+ sten live on BBC Radio 5 Live | #LIVMUN\n\nEverything you need to know from
+  kickoff to the final whistle 👇\n\n▶️ Watch LIVE on UK - Sky Sports\
+ nhttps://premlge.co/f/2ydtWq/3NSJK\n\n📱 Matchday LIVE\nhttps://premlge.c
+ o/f/2gRXwX/3NSJK\n\nSee other Scores\nhttps://premlge.co/f/2ynF5X/3NSJK\n\n
+ Follow the match on Liverpool X\nhttps://premlge.co/f/2gRXx7/3NSJK\n\nFollo
+ w the match on Manchester United X\nhttps://premlge.co/f/2gRXxk/3NSJK\n\nMa
+ nage my ECAL\nhttps://premlge.co/f/2gRXxP/3NSJK\n\n
 X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
 BEGIN:VALARM
 TRIGGER:-PT15M

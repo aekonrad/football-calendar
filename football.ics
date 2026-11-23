@@ -9668,37 +9668,6 @@ END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
 DTSTAMP:00010101T000000Z
-LOCATION:Gtech Community Stadium\, Brentford
-X-ECAL-SCHEDULE:
-DTSTART:20261123T200000Z
-DTEND:20261123T220000Z
-SUMMARY:⚡⚽️ Brentford v Everton
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35075954aa884dbe01992e
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League Matchweek 11 | Watch live on UK - Sky Sports. Li
- sten live on TalkSport | #BREEVE\n\n⚡ Brentford have scored in nine of th
- eir opening 10 Premier League matches this season\, finding the net 16 time
- s as they prepare to host Everton.\n\nDive into the latest news\, press con
- ferences and the final injury updates.\n\nMatch Preview and Lineups\nhttps:
- //premlge.co/f/2gRXqn/3NSJK\n\nLatest Premier League News\nhttps://premlge.
- co/f/2ynbM8/3NSJK\n\nLatest Brentford News\nhttps://premlge.co/f/2qCvXs/3NS
- JK\n\nBrentford on X\nhttps://premlge.co/f/2gRXqD/3NSJK\n\nLatest Everton N
- ews\nhttps://premlge.co/f/2qCvXz/3NSJK\n\nEverton on X\nhttps://premlge.co/
- f/2gRXqX/3NSJK\n\nManage my ECAL\nhttps://premlge.co/f/2gRXrc/3NSJK\n\n
-X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
 LOCATION:Coventry Building Society Arena\, Coventry
 X-ECAL-SCHEDULE:
 DTSTART:20270116T123000Z
@@ -10061,64 +10030,6 @@ END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
 DTSTAMP:00010101T000000Z
-LOCATION:MKM Stadium\, Hull
-X-ECAL-SCHEDULE:
-DTSTART:20261122T140000Z
-DTEND:20261122T160000Z
-SUMMARY:🟣⚽️ Hull City v Brighton & Hove Albion
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35075954aa884dbe01992f
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League Matchweek 11 | Watch live on UK - Sky Sports. Li
- sten live on BBC Radio 5 Live | #HULBHA\n\nEverything you need to know from
-  kickoff to the final whistle 👇\n\n▶️ Watch LIVE on UK - Sky Sports\
- nhttps://premlge.co/f/2ydtWJ/3NSJK\n\n📱 Matchday LIVE\nhttps://premlge.c
- o/f/2gRXvF/3NSJK\n\nSee other Scores\nhttps://premlge.co/f/2ynF5W/3NSJK\n\n
- Follow the match on Hull City X\nhttps://premlge.co/f/2gRXvR/3NSJK\n\nFollo
- w the match on Brighton & Hove Albion X\nhttps://premlge.co/f/2qTP79/3NSJK\
- n\nManage my ECAL\nhttps://premlge.co/f/2gRXwl/3NSJK\n\n
-X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
-LOCATION:Anfield\, Liverpool
-X-ECAL-SCHEDULE:
-DTSTART:20261122T163000Z
-DTEND:20261122T183000Z
-SUMMARY:🟣⚽️ Liverpool v Manchester United
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35075954aa8848aa0a8666
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League Matchweek 11 | Watch live on UK - Sky Sports. Li
- sten live on BBC Radio 5 Live | #LIVMUN\n\nEverything you need to know from
-  kickoff to the final whistle 👇\n\n▶️ Watch LIVE on UK - Sky Sports\
- nhttps://premlge.co/f/2ydtWq/3NSJK\n\n📱 Matchday LIVE\nhttps://premlge.c
- o/f/2gRXwX/3NSJK\n\nSee other Scores\nhttps://premlge.co/f/2ynF5X/3NSJK\n\n
- Follow the match on Liverpool X\nhttps://premlge.co/f/2gRXx7/3NSJK\n\nFollo
- w the match on Manchester United X\nhttps://premlge.co/f/2gRXxk/3NSJK\n\nMa
- nage my ECAL\nhttps://premlge.co/f/2gRXxP/3NSJK\n\n
-X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
 LOCATION:Vitality Stadium\, Bournemouth
 X-ECAL-SCHEDULE:
 DTSTART:20270117T140000Z
@@ -10165,6 +10076,91 @@ DESCRIPTION:Premier League Matchweek 21 | Watch live on UK - Sky Sports | #
  qTRDk/3NSJK\n\nLatest Leeds United News\nhttps://premlge.co/f/2qTRDn/3NSJK\
  n\nLeeds United on X\nhttps://premlge.co/f/2nB7Lx/3NSJK\n\nManage my ECAL\n
  https://premlge.co/f/2gRZJr/3NSJK\n\n
+X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:MKM Stadium\, Hull
+X-ECAL-SCHEDULE:
+DTSTART:20261122T140000Z
+DTEND:20261122T160000Z
+SUMMARY:▶️⚽️ Hull City 2 - Brighton & Hove Albion 0
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35075954aa884dbe01992f
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:The Drama doesn’t stop at the final whistle!\n\nDive back int
+ o the action! Catch every goal\, spectacular save\, and match highlight rig
+ ht here.\n\nWatch highlights on UK - Sky Sports\nhttps://premlge.co/f/2yplK
+ V/3NSJK\n\nMatch Summary\nhttps://premlge.co/f/2gRXvF/3NSJK\n\nSee other Re
+ sults\nhttps://premlge.co/f/2ynF5W/3NSJK\n\nLatest Hull City News\nhttps://
+ premlge.co/f/2qTP6W/3NSJK\n\nLatest Brighton & Hove Albion News\nhttps://pr
+ emlge.co/f/2qTP74/3NSJK\n\nManage my ECAL\nhttps://premlge.co/f/2gRXwl/3NSJ
+ K\n\n
+X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Gtech Community Stadium\, Brentford
+X-ECAL-SCHEDULE:
+DTSTART:20261123T200000Z
+DTEND:20261123T220000Z
+SUMMARY:📰⚽️ Brentford v Everton
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35075954aa884dbe01992e
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League Matchweek 11 | Watch live on UK - Sky Sports. Li
+ sten live on TalkSport | #BREEVE\n\nLatest Premier League News\nhttps://pre
+ mlge.co/f/2ynbM8/3NSJK\n\nLatest Brentford News\nhttps://premlge.co/f/2qCvX
+ s/3NSJK\n\nBrentford on X\nhttps://premlge.co/f/2gRXqD/3NSJK\n\nLatest Ever
+ ton News\nhttps://premlge.co/f/2qCvXz/3NSJK\n\nEverton on X\nhttps://premlg
+ e.co/f/2gRXqX/3NSJK\n\nManage my ECAL\nhttps://premlge.co/f/2gRXrc/3NSJK\n\
+ n
+X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Anfield\, Liverpool
+X-ECAL-SCHEDULE:
+DTSTART:20261122T163000Z
+DTEND:20261122T183000Z
+SUMMARY:▶️⚽️ Liverpool 4 - Manchester United 0
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35075954aa8848aa0a8666
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:The Drama doesn’t stop at the final whistle!\n\nDive back int
+ o the action! Catch every goal\, spectacular save\, and match highlight rig
+ ht here.\n\nWatch highlights on UK - Sky Sports\nhttps://premlge.co/f/2yplL
+ 7/3NSJK\n\nMatch Summary\nhttps://premlge.co/f/2gRXwX/3NSJK\n\nSee other Re
+ sults\nhttps://premlge.co/f/2ynF5X/3NSJK\n\nLatest Liverpool News\nhttps://
+ premlge.co/f/2qCvYp/3NSJK\n\nLatest Manchester United News\nhttps://premlge
+ .co/f/2qCvYv/3NSJK\n\nManage my ECAL\nhttps://premlge.co/f/2gRXxP/3NSJK\n\n
 X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
 BEGIN:VALARM
 TRIGGER:-PT15M

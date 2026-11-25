@@ -2394,34 +2394,6 @@ END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
 DTSTAMP:00010101T000000Z
-LOCATION:The City Ground\, Nottingham
-X-ECAL-SCHEDULE:
-DTSTART:20261127T200000Z
-DTEND:20261127T220000Z
-SUMMARY:⚽️ Nottingham Forest v Chelsea
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35075a54aa8848aa0a8670
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League Matchweek 12 | Watch live on UK - Sky Sports | #
- FORCHE\n\nWatch Live\nhttps://premlge.co/f/2tpXVv/3NSJK\n\nMatchday Live\nh
- ttps://premlge.co/f/2gRXM4/3NSJK\n\nLatest Nottingham Forest News\nhttps://
- premlge.co/f/2qCw2F/3NSJK\n\nNottingham Forest on X\nhttps://premlge.co/f/2
- gRXMj/3NSJK\n\nLatest Chelsea News\nhttps://premlge.co/f/2qCw2J/3NSJK\n\nCh
- elsea on X\nhttps://premlge.co/f/2gRXMy/3NSJK\n\nManage my ECAL\nhttps://pr
- emlge.co/f/2gRXMY/3NSJK\n\n
-X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
 LOCATION:Hill Dickinson Stadium\, Liverpool
 X-ECAL-SCHEDULE:
 DTSTART:20270206T150000Z
@@ -10165,6 +10137,38 @@ DESCRIPTION:The Drama doesn’t stop at the final whistle!\n\nDive back int
  sults\nhttps://premlge.co/f/2ypGv9/3NSJK\n\nLatest Brentford News\nhttps://
  premlge.co/f/2qCvXs/3NSJK\n\nLatest Everton News\nhttps://premlge.co/f/2qCv
  Xz/3NSJK\n\nManage my ECAL\nhttps://premlge.co/f/2gRXrc/3NSJK\n\n
+X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:The City Ground\, Nottingham
+X-ECAL-SCHEDULE:
+DTSTART:20261127T200000Z
+DTEND:20261127T220000Z
+SUMMARY:🆚⚽️ Nottingham Forest v Chelsea
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35075a54aa8848aa0a8670
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League Matchweek 12 | Watch live on UK - Sky Sports | #
+ FORCHE\n\n🆚 Chelsea are unbeaten in their last five Premier League visit
+ s to Nottingham Forest (4 wins\, 1 draw)\, having not lost a league fixture
+  at the City Ground since a 2-0 defeat in 1997.\n\nDive into the latest new
+ s\, press conferences and the final injury updates.\n\nMatch Preview and Li
+ neups\nhttps://premlge.co/f/2gRXM4/3NSJK\n\nLatest Premier League News\nhtt
+ ps://premlge.co/f/2ywrXz/3NSJK\n\nLatest Nottingham Forest News\nhttps://pr
+ emlge.co/f/2qCw2F/3NSJK\n\nNottingham Forest on X\nhttps://premlge.co/f/2gR
+ XMj/3NSJK\n\nLatest Chelsea News\nhttps://premlge.co/f/2qCw2J/3NSJK\n\nChel
+ sea on X\nhttps://premlge.co/f/2gRXMy/3NSJK\n\nManage my ECAL\nhttps://prem
+ lge.co/f/2gRXMY/3NSJK\n\n
 X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
 BEGIN:VALARM
 TRIGGER:-PT15M

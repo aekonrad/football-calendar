@@ -7459,35 +7459,6 @@ END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
 DTSTAMP:00010101T000000Z
-LOCATION:MKM Stadium\, Hull
-X-ECAL-SCHEDULE:
-DTSTART:20261122T140000Z
-DTEND:20261122T160000Z
-SUMMARY:▶️⚽️ Hull City 2 - Brighton & Hove Albion 0
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35075954aa884dbe01992f
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:The Drama doesn’t stop at the final whistle!\n\nDive back int
- o the action! Catch every goal\, spectacular save\, and match highlight rig
- ht here.\n\nWatch highlights on UK - Sky Sports\nhttps://premlge.co/f/2yplK
- V/3NSJK\n\nMatch Summary\nhttps://premlge.co/f/2gRXvF/3NSJK\n\nSee other Re
- sults\nhttps://premlge.co/f/2ynF5W/3NSJK\n\nLatest Hull City News\nhttps://
- premlge.co/f/2qTP6W/3NSJK\n\nLatest Brighton & Hove Albion News\nhttps://pr
- emlge.co/f/2qTP74/3NSJK\n\nManage my ECAL\nhttps://premlge.co/f/2gRXwl/3NSJ
- K\n\n
-X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
 LOCATION:Anfield\, Liverpool
 X-ECAL-SCHEDULE:
 DTSTART:20261122T163000Z
@@ -9761,35 +9732,6 @@ END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
 DTSTAMP:00010101T000000Z
-LOCATION:American Express Stadium\, Falmer
-X-ECAL-SCHEDULE:
-DTSTART:20261129T140500Z
-DTEND:20261129T160500Z
-SUMMARY:⚽️ Brighton & Hove Albion v Newcastle United
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35075a54aa8848aa0a8669
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League Matchweek 12 | Watch live on UK - Sky Sports. Li
- sten live on BBC Radio 5 Live | #BHANEW\n\nWatch Live\nhttps://premlge.co/f
- /2yxRrv/3NSJK\n\nMatchday Live\nhttps://premlge.co/f/2gRXD7/3NSJK\n\nLatest
-  Brighton & Hove Albion News\nhttps://premlge.co/f/2qTP9t/3NSJK\n\nBrighton
-  & Hove Albion on X\nhttps://premlge.co/f/2qTP9w/3NSJK\n\nLatest Newcastle 
- United News\nhttps://premlge.co/f/2qTP9D/3NSJK\n\nNewcastle United on X\nht
- tps://premlge.co/f/2qTP9J/3NSJK\n\nManage my ECAL\nhttps://premlge.co/f/2gR
- XDR/3NSJK\n\n
-X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
 LOCATION:Vitality Stadium\, Bournemouth
 X-ECAL-SCHEDULE:
 DTSTART:20261202T201500Z
@@ -9837,64 +9779,6 @@ DESCRIPTION:Premier League Matchweek 13 | Watch live on UK - Sky Sports | #
  XYx/3NSJK\n\nLatest Manchester United News\nhttps://premlge.co/f/2qCGGd/3NS
  JK\n\nManchester United on X\nhttps://premlge.co/f/2gRXYW/3NSJK\n\nManage m
  y ECAL\nhttps://premlge.co/f/2gRXZm/3NSJK\n\n
-X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
-LOCATION:Selhurst Park\, London
-X-ECAL-SCHEDULE:
-DTSTART:20261129T140500Z
-DTEND:20261129T160500Z
-SUMMARY:⚽️ Crystal Palace v Hull City
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35075a54aa8848aa0a866a
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League Matchweek 12 | Watch live on UK - Sky Sports. Li
- sten live on BBC Radio 5 Live | #CRYHUL\n\nWatch Live\nhttps://premlge.co/f
- /2yxRrN/3NSJK\n\nMatchday Live\nhttps://premlge.co/f/2gRXF4/3NSJK\n\nShop O
- fficial Crystal Palace Merchandise\nhttps://premlge.co/f/2qTP9V/3NSJK\n\nDo
- wnload the Crystal Palace App\nhttps://premlge.co/f/2qTP9W/3NSJK\n\nShop Of
- ficial Hull City Merchandise\nhttps://premlge.co/f/2qTPb1/3NSJK\n\nDownload
-  the Hull City App\nhttps://premlge.co/f/2qTPb5/3NSJK\n\nManage my ECAL\nht
- tps://premlge.co/f/2gRXFJ/3NSJK\n\n
-X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
-LOCATION:Stadium of Light\, Sunderland
-X-ECAL-SCHEDULE:
-DTSTART:20261129T140500Z
-DTEND:20261129T160500Z
-SUMMARY:⚽️ Sunderland v Tottenham Hotspur
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35075a54aa8848aa0a8671
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League Matchweek 12 | Watch live on UK - Sky Sports. Li
- sten live on BBC Radio 5 Live | #SUNTOT\n\nWatch Live\nhttps://premlge.co/f
- /2yxRrS/3NSJK\n\nMatchday Live\nhttps://premlge.co/f/2gRXNg/3NSJK\n\nShop O
- fficial Sunderland Merchandise\nhttps://premlge.co/f/2gRXNn/3NSJK\n\nDownlo
- ad the Sunderland App\nhttps://premlge.co/f/2qCw2p/3NSJK\n\nShop Official T
- ottenham Hotspur Merchandise\nhttps://premlge.co/f/2gRXNx/3NSJK\n\nDownload
-  the Tottenham Hotspur App\nhttps://premlge.co/f/2qCw2t/3NSJK\n\nManage my 
- ECAL\nhttps://premlge.co/f/2gRXNZ/3NSJK\n\n
 X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -10048,91 +9932,6 @@ END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
 DTSTAMP:00010101T000000Z
-LOCATION:Hill Dickinson Stadium\, Liverpool
-X-ECAL-SCHEDULE:
-DTSTART:20261129T120000Z
-DTEND:20261129T140000Z
-SUMMARY:⚽️ Everton v Liverpool
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35075a54aa8848aa0a866b
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League Matchweek 12 | Watch live on UK - TNT Sports. Li
- sten live on TalkSport | #EVELIV\n\nWatch Live\nhttps://premlge.co/f/2trQCY
- /3NSJK\n\nMatchday Live\nhttps://premlge.co/f/2gRXFT/3NSJK\n\nLatest Everto
- n News\nhttps://premlge.co/f/2qTRlc/3NSJK\n\nEverton on X\nhttps://premlge.
- co/f/2gRXFZ/3NSJK\n\nLatest Liverpool News\nhttps://premlge.co/f/2qTRlg/3NS
- JK\n\nLiverpool on X\nhttps://premlge.co/f/2qTRln/3NSJK\n\nManage my ECAL\n
- https://premlge.co/f/2gRXGs/3NSJK\n\n
-X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
-LOCATION:Craven Cottage\, London
-X-ECAL-SCHEDULE:
-DTSTART:20261129T140500Z
-DTEND:20261129T160500Z
-SUMMARY:⚽️ Fulham v AFC Bournemouth
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35075a54aa8848aa0a866c
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League Matchweek 12 | Watch live on UK - Sky Sports. Li
- sten live on BBC Radio 5 Live | #FULBOU\n\nWatch Live\nhttps://premlge.co/f
- /2yxRrX/3NSJK\n\nMatchday Live\nhttps://premlge.co/f/2gRXGJ/3NSJK\n\nLatest
-  Fulham News\nhttps://premlge.co/f/2qCw1v/3NSJK\n\nFulham on X\nhttps://pre
- mlge.co/f/2gRXGR/3NSJK\n\nLatest AFC Bournemouth News\nhttps://premlge.co/f
- /2gRXGW/3NSJK\n\nAFC Bournemouth on X\nhttps://premlge.co/f/2gRXH2/3NSJK\n\
- nManage my ECAL\nhttps://premlge.co/f/2gRXHm/3NSJK\n\n
-X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
-LOCATION:Emirates Stadium\, London
-X-ECAL-SCHEDULE:
-DTSTART:20261129T163000Z
-DTEND:20261129T183000Z
-SUMMARY:⚽️ Arsenal v Manchester City
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35075954aa884dbe019931
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League Matchweek 12 | Watch live on UK - Sky Sports. Li
- sten live on BBC Radio 5 Live | #ARSMCI\n\nWatch Live\nhttps://premlge.co/f
- /2yxRs4/3NSJK\n\nMatchday Live\nhttps://premlge.co/f/2gRXC6/3NSJK\n\nShop O
- fficial Arsenal Merchandise\nhttps://premlge.co/f/2qTP8T/3NSJK\n\nDownload 
- the Arsenal App\nhttps://premlge.co/f/2qTP8Y/3NSJK\n\nShop Official Manches
- ter City Merchandise\nhttps://premlge.co/f/2qTP97/3NSJK\n\nDownload the Man
- chester City App\nhttps://premlge.co/f/2qTP9f/3NSJK\n\nManage my ECAL\nhttp
- s://premlge.co/f/2gRXCQ/3NSJK\n\n
-X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
 LOCATION:Villa Park\, Birmingham
 X-ECAL-SCHEDULE:
 DTSTART:20261202T201500Z
@@ -10179,6 +9978,208 @@ DESCRIPTION:Premier League Matchweek 13 | Watch live on UK - Sky Sports | #
  lge.co/f/2qTPdY/3NSJK\n\nShop Official Arsenal Merchandise\nhttps://premlge
  .co/f/2qTPfb/3NSJK\n\nDownload the Arsenal App\nhttps://premlge.co/f/2qTPfc
  /3NSJK\n\nManage my ECAL\nhttps://premlge.co/f/2gRXRT/3NSJK\n\n
+X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Hill Dickinson Stadium\, Liverpool
+X-ECAL-SCHEDULE:
+DTSTART:20261129T120000Z
+DTEND:20261129T140000Z
+SUMMARY:🆚⚽️ Everton v Liverpool
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35075a54aa8848aa0a866b
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League Matchweek 12 | Watch live on UK - TNT Sports. Li
+ sten live on TalkSport | #EVELIV\n\n🆚 Liverpool have dominated Everton i
+ n their last ten Premier League meetings (7 wins\, 2 draws)\, suffering jus
+ t one defeat while keeping five clean sheets against their rivals.\n\nDive 
+ into the latest news\, press conferences and the final injury updates.\n\nM
+ atch Preview and Lineups\nhttps://premlge.co/f/2gRXFT/3NSJK\n\nLatest Premi
+ er League News\nhttps://premlge.co/f/2yzxmH/3NSJK\n\nLatest Everton News\nh
+ ttps://premlge.co/f/2qTRlc/3NSJK\n\nEverton on X\nhttps://premlge.co/f/2gRX
+ FZ/3NSJK\n\nLatest Liverpool News\nhttps://premlge.co/f/2qTRlg/3NSJK\n\nLiv
+ erpool on X\nhttps://premlge.co/f/2qTRln/3NSJK\n\nManage my ECAL\nhttps://p
+ remlge.co/f/2gRXGs/3NSJK\n\n
+X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Craven Cottage\, London
+X-ECAL-SCHEDULE:
+DTSTART:20261129T140500Z
+DTEND:20261129T160500Z
+SUMMARY:⚽️ Fulham v AFC Bournemouth
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35075a54aa8848aa0a866c
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League Matchweek 12 | Watch live on UK - Sky Sports. Li
+ sten live on BBC Radio 5 Live | #FULBOU\n\nWatch Live\nhttps://premlge.co/f
+ /2yxRrX/3NSJK\n\nMatchday Live\nhttps://premlge.co/f/2gRXGJ/3NSJK\n\nShop O
+ fficial Fulham Merchandise\nhttps://premlge.co/f/2qTPbd/3NSJK\n\nDownload t
+ he Fulham App\nhttps://premlge.co/f/2qTPbg/3NSJK\n\nShop Official AFC Bourn
+ emouth Merchandise\nhttps://premlge.co/f/2qTPbj/3NSJK\n\nDownload the AFC B
+ ournemouth App\nhttps://premlge.co/f/2qTPbm/3NSJK\n\nManage my ECAL\nhttps:
+ //premlge.co/f/2gRXHm/3NSJK\n\n
+X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:American Express Stadium\, Falmer
+X-ECAL-SCHEDULE:
+DTSTART:20261129T140500Z
+DTEND:20261129T160500Z
+SUMMARY:⚽️ Brighton & Hove Albion v Newcastle United
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35075a54aa8848aa0a8669
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League Matchweek 12 | Watch live on UK - Sky Sports. Li
+ sten live on BBC Radio 5 Live | #BHANEW\n\nWatch Live\nhttps://premlge.co/f
+ /2yxRrv/3NSJK\n\nMatchday Live\nhttps://premlge.co/f/2gRXD7/3NSJK\n\nShop O
+ fficial Brighton & Hove Albion Merchandise\nhttps://premlge.co/f/2qCvZG/3NS
+ JK\n\nDownload the Brighton & Hove Albion App\nhttps://premlge.co/f/2gRXDh/
+ 3NSJK\n\nShop Official Newcastle United Merchandise\nhttps://premlge.co/f/2
+ gRXDq/3NSJK\n\nDownload the Newcastle United App\nhttps://premlge.co/f/2gRX
+ Dy/3NSJK\n\nManage my ECAL\nhttps://premlge.co/f/2gRXDR/3NSJK\n\n
+X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Selhurst Park\, London
+X-ECAL-SCHEDULE:
+DTSTART:20261129T140500Z
+DTEND:20261129T160500Z
+SUMMARY:⚽️ Crystal Palace v Hull City
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35075a54aa8848aa0a866a
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League Matchweek 12 | Watch live on UK - Sky Sports. Li
+ sten live on BBC Radio 5 Live | #CRYHUL\n\nWatch Live\nhttps://premlge.co/f
+ /2yxRrN/3NSJK\n\nMatchday Live\nhttps://premlge.co/f/2gRXF4/3NSJK\n\nLatest
+  Crystal Palace News\nhttps://premlge.co/f/2qCvZR/3NSJK\n\nCrystal Palace o
+ n X\nhttps://premlge.co/f/2gRXFg/3NSJK\n\nLatest Hull City News\nhttps://pr
+ emlge.co/f/2qCvZV/3NSJK\n\nHull City on X\nhttps://premlge.co/f/2gRXFr/3NSJ
+ K\n\nManage my ECAL\nhttps://premlge.co/f/2gRXFJ/3NSJK\n\n
+X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Stadium of Light\, Sunderland
+X-ECAL-SCHEDULE:
+DTSTART:20261129T140500Z
+DTEND:20261129T160500Z
+SUMMARY:⚽️ Sunderland v Tottenham Hotspur
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35075a54aa8848aa0a8671
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League Matchweek 12 | Watch live on UK - Sky Sports. Li
+ sten live on BBC Radio 5 Live | #SUNTOT\n\nWatch Live\nhttps://premlge.co/f
+ /2yxRrS/3NSJK\n\nMatchday Live\nhttps://premlge.co/f/2gRXNg/3NSJK\n\nLatest
+  Sunderland News\nhttps://premlge.co/f/2qTPcS/3NSJK\n\nSunderland on X\nhtt
+ ps://premlge.co/f/2gRXNs/3NSJK\n\nLatest Tottenham Hotspur News\nhttps://pr
+ emlge.co/f/2qTPcV/3NSJK\n\nTottenham Hotspur on X\nhttps://premlge.co/f/2qT
+ Pd1/3NSJK\n\nManage my ECAL\nhttps://premlge.co/f/2gRXNZ/3NSJK\n\n
+X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:MKM Stadium\, Hull
+X-ECAL-SCHEDULE:
+DTSTART:20261122T140000Z
+DTEND:20261122T160000Z
+SUMMARY:⚽️ Hull City v Brighton & Hove Albion
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35075954aa884dbe01992f
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League Matchweek 11 | Watch live on UK - Sky Sports. Li
+ sten live on BBC Radio 5 Live | #HULBHA\n\nWatch Live\nhttps://premlge.co/f
+ /2ydtWJ/3NSJK\n\nMatchday Live\nhttps://premlge.co/f/2gRXvF/3NSJK\n\nLatest
+  Hull City News\nhttps://premlge.co/f/2qTP6W/3NSJK\n\nHull City on X\nhttps
+ ://premlge.co/f/2gRXvR/3NSJK\n\nLatest Brighton & Hove Albion News\nhttps:/
+ /premlge.co/f/2qTP74/3NSJK\n\nBrighton & Hove Albion on X\nhttps://premlge.
+ co/f/2qTP79/3NSJK\n\nManage my ECAL\nhttps://premlge.co/f/2gRXwl/3NSJK\n\n
+X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Emirates Stadium\, London
+X-ECAL-SCHEDULE:
+DTSTART:20261129T163000Z
+DTEND:20261129T183000Z
+SUMMARY:⚽️ Arsenal v Manchester City
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35075954aa884dbe019931
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League Matchweek 12 | Watch live on UK - Sky Sports. Li
+ sten live on BBC Radio 5 Live | #ARSMCI\n\nWatch Live\nhttps://premlge.co/f
+ /2yxRs4/3NSJK\n\nMatchday Live\nhttps://premlge.co/f/2gRXC6/3NSJK\n\nLatest
+  Arsenal News\nhttps://premlge.co/f/2gRXCc/3NSJK\n\nArsenal on X\nhttps://p
+ remlge.co/f/2gRXCh/3NSJK\n\nLatest Manchester City News\nhttps://premlge.co
+ /f/2qCvZw/3NSJK\n\nManchester City on X\nhttps://premlge.co/f/2gRXCy/3NSJK\
+ n\nManage my ECAL\nhttps://premlge.co/f/2gRXCQ/3NSJK\n\n
 X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
 BEGIN:VALARM
 TRIGGER:-PT15M

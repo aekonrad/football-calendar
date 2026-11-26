@@ -11224,39 +11224,6 @@ END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:20261125T184318Z
 DTSTAMP:20261125T184318Z
-LOCATION:Hill Dickinson Stadium\, Liverpool
-X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
-DTSTART:20261129T120000Z
-DTEND:20261129T140000Z
-SUMMARY:🔴⚽️ Everton vs Liverpool
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35078654aa884dc433f8c2
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League | Watch live on TalkSport\, UK - TNT Sports | Jo
- in in: #EVELIV \n\nGET CLOSER TO LFC. Register to access exclusive video co
- ntent\, enter competitions\, and receive the official newsletter.\n\nMatch 
- Centre\nhttps://ecal.ai/f/2x7Bp2/3NSJD\n\nAll Red Video\nhttps://ecal.ai/f/
- 2gSNcb/3NSJD\n\nAll Red Membership\nhttps://ecal.ai/f/2gSNcV/3NSJD\n\nLFC S
- hop\nhttps://ecal.ai/f/2gSNdv/3NSJD\n\nFacebook\nhttps://ecal.ai/f/2gSNfp/3
- NSJD\n\nX\nhttps://ecal.ai/f/2gSNfV/3NSJD\n\nInstagram\nhttps://ecal.ai/f/2
- gSNgw/3NSJD\n\nManage my ECAL\nhttps://ecal.ai/f/2gSNjn/3NSJD\n\n
-BEGIN:VALARM
-TRIGGER:-P1DT
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT1H
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:20261125T184318Z
-DTSTAMP:20261125T184318Z
 LOCATION:Anfield\, Liverpool
 X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
 DTSTART:20270116T150000Z
@@ -11276,6 +11243,40 @@ DESCRIPTION:Premier League | Follow the live action on the Liverpool websit
  https://ecal.ai/f/2gSPYB/3NSJD\n\nFacebook\nhttps://ecal.ai/f/2gSPZP/3NSJD\
  n\nX\nhttps://ecal.ai/f/2gSQ1C/3NSJD\n\nInstagram\nhttps://ecal.ai/f/2gSQ2z
  /3NSJD\n\nManage my ECAL\nhttps://ecal.ai/f/2gSQ9W/3NSJD\n\n
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Hill Dickinson Stadium\, Liverpool
+X-ECAL-SCHEDULE:
+DTSTART:20261129T120000Z
+DTEND:20261129T140000Z
+SUMMARY:🔴⚽️ Everton vs Liverpool
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35078654aa884dc433f8c2
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League | Watch live on TalkSport\, UK - TNT Sports | Jo
+ in in: #EVELIV \n\nGET CLOSER TO LFC. Register to access exclusive video co
+ ntent\, enter competitions\, and receive the official newsletter.\n\nMatch 
+ Centre\nhttps://ecal.ai/f/2x7Bp2/3NSJD\n\nAll Red Video\nhttps://ecal.ai/f/
+ 2gSNcb/3NSJD\n\nAll Red Membership\nhttps://ecal.ai/f/2gSNcV/3NSJD\n\nLFC S
+ hop\nhttps://ecal.ai/f/2gSNdv/3NSJD\n\nFacebook\nhttps://ecal.ai/f/2gSNfp/3
+ NSJD\n\nX\nhttps://ecal.ai/f/2gSNfV/3NSJD\n\nInstagram\nhttps://ecal.ai/f/2
+ gSNgw/3NSJD\n\nManage my ECAL\nhttps://ecal.ai/f/2gSNjn/3NSJD\n\n
+X-ECAL-SCHEDULE:677e0a69d745973fb33fcd4a
 BEGIN:VALARM
 TRIGGER:-P1DT
 ACTION:DISPLAY

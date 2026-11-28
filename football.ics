@@ -9496,38 +9496,6 @@ END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
 DTSTAMP:00010101T000000Z
-LOCATION:Hill Dickinson Stadium\, Liverpool
-X-ECAL-SCHEDULE:
-DTSTART:20261129T120000Z
-DTEND:20261129T140000Z
-SUMMARY:🆚⚽️ Everton v Liverpool
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35075a54aa8848aa0a866b
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League Matchweek 12 | Watch live on UK - TNT Sports. Li
- sten live on TalkSport | #EVELIV\n\n🆚 Liverpool have dominated Everton i
- n their last ten Premier League meetings (7 wins\, 2 draws)\, suffering jus
- t one defeat while keeping five clean sheets against their rivals.\n\nDive 
- into the latest news\, press conferences and the final injury updates.\n\nM
- atch Preview and Lineups\nhttps://premlge.co/f/2gRXFT/3NSJK\n\nLatest Premi
- er League News\nhttps://premlge.co/f/2yzxmH/3NSJK\n\nLatest Everton News\nh
- ttps://premlge.co/f/2qTRlc/3NSJK\n\nEverton on X\nhttps://premlge.co/f/2gRX
- FZ/3NSJK\n\nLatest Liverpool News\nhttps://premlge.co/f/2qTRlg/3NSJK\n\nLiv
- erpool on X\nhttps://premlge.co/f/2qTRln/3NSJK\n\nManage my ECAL\nhttps://p
- remlge.co/f/2gRXGs/3NSJK\n\n
-X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
 LOCATION:MKM Stadium\, Hull
 X-ECAL-SCHEDULE:
 DTSTART:20261122T140000Z
@@ -10056,93 +10024,6 @@ END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
 DTSTAMP:00010101T000000Z
-LOCATION:Elland Road\, Leeds
-X-ECAL-SCHEDULE:
-DTSTART:20261128T150000Z
-DTEND:20261128T170000Z
-SUMMARY:📰⚽️ Leeds United v Coventry City
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35075a54aa8848aa0a866e
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League Matchweek 12 | Listen live on BBC Radio 5 Live |
-  #LEECOV\n\n📰 Premier League injury news: Latest updates for all clubs\n
- \nRead all about it 👇\nhttps://premlge.co/f/2yC33p/3NSJK\n\nLatest Premi
- er League News\nhttps://premlge.co/f/2yxRrV/3NSJK\n\nLatest Leeds United Ne
- ws\nhttps://premlge.co/f/2qCw1Y/3NSJK\n\nLeeds United on X\nhttps://premlge
- .co/f/2gRXJQ/3NSJK\n\nLatest Coventry City News\nhttps://premlge.co/f/2gRXJ
- Y/3NSJK\n\nCoventry City on X\nhttps://premlge.co/f/2gRXK4/3NSJK\n\nManage 
- my ECAL\nhttps://premlge.co/f/2gRXKy/3NSJK\n\n
-X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
-LOCATION:Old Trafford\, Manchester
-X-ECAL-SCHEDULE:
-DTSTART:20261128T150000Z
-DTEND:20261128T170000Z
-SUMMARY:📰⚽️ Manchester United v Brentford
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35075a54aa8848aa0a866f
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League Matchweek 12 | Listen live on BBC Radio 5 Live |
-  #MUNBRE\n\n📰 Premier League Golden Boot 2026/27: Top Scorers and Rankin
- gs\n\nRead all about it 👇\nhttps://premlge.co/f/2yC33q/3NSJK\n\nLatest P
- remier League News\nhttps://premlge.co/f/2yxRpN/3NSJK\n\nLatest Manchester 
- United News\nhttps://premlge.co/f/2qTPcc/3NSJK\n\nManchester United on X\nh
- ttps://premlge.co/f/2qTPcj/3NSJK\n\nLatest Brentford News\nhttps://premlge.
- co/f/2qTPcm/3NSJK\n\nBrentford on X\nhttps://premlge.co/f/2qTPcp/3NSJK\n\nM
- anage my ECAL\nhttps://premlge.co/f/2gRXLK/3NSJK\n\n
-X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
-LOCATION:Portman Road\, Ipswich
-X-ECAL-SCHEDULE:
-DTSTART:20261128T173000Z
-DTEND:20261128T193000Z
-SUMMARY:📰⚽️ Ipswich Town v Aston Villa
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35075a54aa8848aa0a866d
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League Matchweek 12 | Watch live on UK - Sky Sports. Li
- sten live on BBC Radio 5 Live | #IPSVIL\n\n📰 Ten KEY questions for Match
- week 12's fixtures\n\nRead all about it 👇\nhttps://premlge.co/f/2yC33r/3
- NSJK\n\nLatest Premier League News\nhttps://premlge.co/f/2yxRrt/3NSJK\n\nLa
- test Ipswich Town News\nhttps://premlge.co/f/2qTPbw/3NSJK\n\nIpswich Town o
- n X\nhttps://premlge.co/f/2gRXHR/3NSJK\n\nLatest Aston Villa News\nhttps://
- premlge.co/f/2qTPbB/3NSJK\n\nAston Villa on X\nhttps://premlge.co/f/2qTPbF/
- 3NSJK\n\nManage my ECAL\nhttps://premlge.co/f/2gRXJs/3NSJK\n\n
-X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
 LOCATION:Gtech Community Stadium\, Brentford
 X-ECAL-SCHEDULE:
 DTSTART:20261123T200000Z
@@ -10189,6 +10070,122 @@ DESCRIPTION:The Drama doesn’t stop at the final whistle!\n\nDive back int
  sults\nhttps://premlge.co/f/2yBd4y/3NSJK\n\nLatest Nottingham Forest News\n
  https://premlge.co/f/2qCw2F/3NSJK\n\nLatest Chelsea News\nhttps://premlge.c
  o/f/2qCw2J/3NSJK\n\nManage my ECAL\nhttps://premlge.co/f/2gRXMY/3NSJK\n\n
+X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Portman Road\, Ipswich
+X-ECAL-SCHEDULE:
+DTSTART:20261128T173000Z
+DTEND:20261128T193000Z
+SUMMARY:🟣⚽️ Ipswich Town v Aston Villa
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35075a54aa8848aa0a866d
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League Matchweek 12 | Watch live on UK - Sky Sports. Li
+ sten live on BBC Radio 5 Live | #IPSVIL\n\nEverything you need to know from
+  kickoff to the final whistle 👇\n\n▶️ Watch LIVE on UK - Sky Sports\
+ nhttps://premlge.co/f/2yCbxG/3NSJK\n\n📱 Matchday LIVE\nhttps://premlge.c
+ o/f/2gRXHC/3NSJK\n\nSee other Scores\nhttps://premlge.co/f/2yCbxH/3NSJK\n\n
+ Follow the match on Ipswich Town X\nhttps://premlge.co/f/2gRXHR/3NSJK\n\nFo
+ llow the match on Aston Villa X\nhttps://premlge.co/f/2qTPbF/3NSJK\n\nManag
+ e my ECAL\nhttps://premlge.co/f/2gRXJs/3NSJK\n\n
+X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Elland Road\, Leeds
+X-ECAL-SCHEDULE:
+DTSTART:20261128T150000Z
+DTEND:20261128T170000Z
+SUMMARY:🟣⚽️ Leeds United v Coventry City
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35075a54aa8848aa0a866e
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League Matchweek 12 | Listen live on BBC Radio 5 Live |
+  #LEECOV\n\nEverything you need to know from kickoff to the final whistle 
+ 👇\n\n▶️ Watch LIVE on BBC Radio 5 Live\nhttps://premlge.co/f/2gRXJv/
+ 3NSJK\n\n📱 Matchday LIVE\nhttps://premlge.co/f/2gRXJB/3NSJK\n\nSee other
+  Scores\nhttps://premlge.co/f/2yCbyN/3NSJK\n\nFollow the match on Leeds Uni
+ ted X\nhttps://premlge.co/f/2gRXJQ/3NSJK\n\nFollow the match on Coventry Ci
+ ty X\nhttps://premlge.co/f/2gRXK4/3NSJK\n\nManage my ECAL\nhttps://premlge.
+ co/f/2gRXKy/3NSJK\n\n
+X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Old Trafford\, Manchester
+X-ECAL-SCHEDULE:
+DTSTART:20261128T150000Z
+DTEND:20261128T170000Z
+SUMMARY:🟣⚽️ Manchester United v Brentford
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35075a54aa8848aa0a866f
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League Matchweek 12 | Listen live on BBC Radio 5 Live |
+  #MUNBRE\n\nEverything you need to know from kickoff to the final whistle 
+ 👇\n\n▶️ Watch LIVE on BBC Radio 5 Live\nhttps://premlge.co/f/2gRXKK/
+ 3NSJK\n\n📱 Matchday LIVE\nhttps://premlge.co/f/2gRXKN/3NSJK\n\nSee other
+  Scores\nhttps://premlge.co/f/2yCbyQ/3NSJK\n\nFollow the match on Mancheste
+ r United X\nhttps://premlge.co/f/2qTPcj/3NSJK\n\nFollow the match on Brentf
+ ord X\nhttps://premlge.co/f/2qTPcp/3NSJK\n\nManage my ECAL\nhttps://premlge
+ .co/f/2gRXLK/3NSJK\n\n
+X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Hill Dickinson Stadium\, Liverpool
+X-ECAL-SCHEDULE:
+DTSTART:20261129T120000Z
+DTEND:20261129T140000Z
+SUMMARY:📰⚽️ Everton v Liverpool
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35075a54aa8848aa0a866b
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League Matchweek 12 | Watch live on UK - TNT Sports. Li
+ sten live on TalkSport | #EVELIV\n\n📰 Premier League injury news: Latest
+  updates for all clubs\n\nRead all about it 👇\nhttps://premlge.co/f/2yFg
+ Tl/3NSJK\n\nLatest Premier League News\nhttps://premlge.co/f/2yzxmH/3NSJK\n
+ \nLatest Everton News\nhttps://premlge.co/f/2qTRlc/3NSJK\n\nEverton on X\nh
+ ttps://premlge.co/f/2gRXFZ/3NSJK\n\nLatest Liverpool News\nhttps://premlge.
+ co/f/2qTRlg/3NSJK\n\nLiverpool on X\nhttps://premlge.co/f/2qTRln/3NSJK\n\nM
+ anage my ECAL\nhttps://premlge.co/f/2gRXGs/3NSJK\n\n
 X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -11301,44 +11298,10 @@ END:VALARM
 END:VEVENT
 END:VCALENDAR
 BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
-LOCATION:Wembley Stadium\, London
-X-ECAL-SCHEDULE:
-DTSTART:20261112T194500Z
-DTEND:20261112T214500Z
-SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 England vs Croatia
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:69afb4e054aa88350e48eecd
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:UEFA Nations League | Join the conversation #ThreeLions\n\nWatc
- h England live at Wembley Stadium\, get your tickets now!\n\nShow your colo
- urs! Shop official Three Lions merchandise at the England Store. Shop now.\
- n\nPurchase Tickets\nhttps://ecal.ai/f/2cPCD8/3NSJS\n\nJoin My England Foot
- ball\nhttps://ecal.ai/f/2cPCD9/3NSJS\n\nEngland Store\nhttps://ecal.ai/f/2c
- PCDb/3NSJS\n\nLatest Video\nhttps://ecal.ai/f/2cPCDc/3NSJS\n\nFacebook\nhtt
- ps://ecal.ai/f/2cPCDd/3NSJS\n\nX\nhttps://ecal.ai/f/2cPCDf/3NSJS\n\nManage 
- my ECAL\nhttps://ecal.ai/f/2cPCDj/3NSJS\n\n
-X-ECAL-SCHEDULE:544702905eba34a95e000000
-BEGIN:VALARM
-TRIGGER:-P2DT
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
+LAST-MODIFIED:20261128T150333Z
+DTSTAMP:20261128T150333Z
 LOCATION:Riyadh Air Metropolitano\, Madrid
-X-ECAL-SCHEDULE:
+X-ECAL-SCHEDULE:544702905eba34a95e000000
 DTSTART:20261115T194500Z
 DTEND:20261115T214500Z
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Spain vs England
@@ -11356,7 +11319,6 @@ DESCRIPTION:UEFA Nations League | Join the conversation #ThreeLions\n\nJoin
  Latest Video\nhttps://ecal.ai/f/2cPCDn/3NSJS\n\nFacebook\nhttps://ecal.ai/f
  /2cPCDp/3NSJS\n\nX\nhttps://ecal.ai/f/2cPCDq/3NSJS\n\nManage my ECAL\nhttps
  ://ecal.ai/f/2cPCDt/3NSJS\n\n
-X-ECAL-SCHEDULE:544702905eba34a95e000000
 BEGIN:VALARM
 TRIGGER:-P2DT
 ACTION:DISPLAY
@@ -11369,10 +11331,10 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
+LAST-MODIFIED:20261128T150333Z
+DTSTAMP:20261128T150333Z
 LOCATION:TBC
-X-ECAL-SCHEDULE:
+X-ECAL-SCHEDULE:544702905eba34a95e000000
 DTSTART:20270327T170000Z
 DTEND:20270327T190000Z
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Norway vs England
@@ -11390,7 +11352,6 @@ DESCRIPTION:UEFA Nations League | Join the conversation #ThreeLions\n\nJoin
  Latest Video\nhttps://ecal.ai/f/2yndf7/3NSJS\n\nFacebook\nhttps://ecal.ai/f
  /2yndf8/3NSJS\n\nX\nhttps://ecal.ai/f/2yndf9/3NSJS\n\nManage my ECAL\nhttps
  ://ecal.ai/f/2yndfd/3NSJS\n\n
-X-ECAL-SCHEDULE:544702905eba34a95e000000
 BEGIN:VALARM
 TRIGGER:-P2DT
 ACTION:DISPLAY
@@ -11403,10 +11364,10 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
+LAST-MODIFIED:20261128T150333Z
+DTSTAMP:20261128T150333Z
 LOCATION:Wembley Stadium\, London
-X-ECAL-SCHEDULE:
+X-ECAL-SCHEDULE:544702905eba34a95e000000
 DTSTART:20270330T184500Z
 DTEND:20270330T204500Z
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 England vs Norway
@@ -11424,7 +11385,6 @@ DESCRIPTION:UEFA Nations League | Join the conversation #ThreeLions\n\nWatc
  ndfh/3NSJS\n\nLatest Video\nhttps://ecal.ai/f/2yndfj/3NSJS\n\nFacebook\nhtt
  ps://ecal.ai/f/2yndfk/3NSJS\n\nX\nhttps://ecal.ai/f/2yndfl/3NSJS\n\nManage 
  my ECAL\nhttps://ecal.ai/f/2yndfp/3NSJS\n\n
-X-ECAL-SCHEDULE:544702905eba34a95e000000
 BEGIN:VALARM
 TRIGGER:-P2DT
 ACTION:DISPLAY

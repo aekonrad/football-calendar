@@ -9301,34 +9301,6 @@ END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
 DTSTAMP:00010101T000000Z
-LOCATION:Gtech Community Stadium\, Brentford
-X-ECAL-SCHEDULE:
-DTSTART:20261123T200000Z
-DTEND:20261123T220000Z
-SUMMARY:▶️⚽️ Brentford 4 - Everton 0
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35075954aa884dbe01992e
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:The Drama doesn’t stop at the final whistle!\n\nDive back int
- o the action! Catch every goal\, spectacular save\, and match highlight rig
- ht here.\n\nWatch highlights on UK - Sky Sports\nhttps://premlge.co/f/2ytz2
- F/3NSJK\n\nMatch Summary\nhttps://premlge.co/f/2gRXqn/3NSJK\n\nSee other Re
- sults\nhttps://premlge.co/f/2ypGv9/3NSJK\n\nLatest Brentford News\nhttps://
- premlge.co/f/2qCvXs/3NSJK\n\nLatest Everton News\nhttps://premlge.co/f/2qCv
- Xz/3NSJK\n\nManage my ECAL\nhttps://premlge.co/f/2gRXrc/3NSJK\n\n
-X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
 LOCATION:Etihad Stadium\, Manchester
 X-ECAL-SCHEDULE:
 DTSTART:20261121T123000Z
@@ -9347,37 +9319,6 @@ DESCRIPTION:Premier League Matchweek 11 | Watch live on UK - TNT Sports. Li
  https://premlge.co/f/2qTRkM/3NSJK\n\nLatest Fulham News\nhttps://premlge.co
  /f/2qTRkS/3NSJK\n\nFulham on X\nhttps://premlge.co/f/2qTRkY/3NSJK\n\nManage
   my ECAL\nhttps://premlge.co/f/2gRXyP/3NSJK\n\n
-X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
-LOCATION:Old Trafford\, Manchester
-X-ECAL-SCHEDULE:
-DTSTART:20261128T150000Z
-DTEND:20261128T170000Z
-SUMMARY:⚡⚽️ Manchester United v Brentford
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35075a54aa8848aa0a866f
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League Matchweek 12 | Listen live on BBC Radio 5 Live |
-  #MUNBRE\n\n⚡ Manchester United average 18.4 shots per game\, the highest
-  in the Premier League this season\, but have scored just 1.3 goals per mat
- ch.\n\nDive into the latest news\, press conferences and the final injury u
- pdates.\n\nMatch Preview and Lineups\nhttps://premlge.co/f/2gRXKN/3NSJK\n\n
- Latest Premier League News\nhttps://premlge.co/f/2yxRpN/3NSJK\n\nLatest Man
- chester United News\nhttps://premlge.co/f/2qTPcc/3NSJK\n\nManchester United
-  on X\nhttps://premlge.co/f/2qTPcj/3NSJK\n\nLatest Brentford News\nhttps://
- premlge.co/f/2qTPcm/3NSJK\n\nBrentford on X\nhttps://premlge.co/f/2qTPcp/3N
- SJK\n\nManage my ECAL\nhttps://premlge.co/f/2gRXLK/3NSJK\n\n
 X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -9433,38 +9374,6 @@ DESCRIPTION:Premier League Matchweek 11 | Listen live on BBC Radio 5 Live |
  e.co/f/2gRXry/3NSJK\n\nShop Official Leeds United Merchandise\nhttps://prem
  lge.co/f/2gRXrH/3NSJK\n\nDownload the Leeds United App\nhttps://premlge.co/
  f/2qCvXM/3NSJK\n\nManage my ECAL\nhttps://premlge.co/f/2gRXs6/3NSJK\n\n
-X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
-LOCATION:Portman Road\, Ipswich
-X-ECAL-SCHEDULE:
-DTSTART:20261128T173000Z
-DTEND:20261128T193000Z
-SUMMARY:🆚⚽️ Ipswich Town v Aston Villa
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35075a54aa8848aa0a866d
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League Matchweek 12 | Watch live on UK - Sky Sports. Li
- sten live on BBC Radio 5 Live | #IPSVIL\n\n🆚 Aston Villa are unbeaten in
-  their last eight Premier League meetings with Ipswich Town (5 wins\, 3 dra
- ws)\, with Ipswich yet to beat Villa in the league since March 1994.\n\nDiv
- e into the latest news\, press conferences and the final injury updates.\n\
- nMatch Preview and Lineups\nhttps://premlge.co/f/2gRXHC/3NSJK\n\nLatest Pre
- mier League News\nhttps://premlge.co/f/2yxRrt/3NSJK\n\nLatest Ipswich Town 
- News\nhttps://premlge.co/f/2qTPbw/3NSJK\n\nIpswich Town on X\nhttps://preml
- ge.co/f/2gRXHR/3NSJK\n\nLatest Aston Villa News\nhttps://premlge.co/f/2qTPb
- B/3NSJK\n\nAston Villa on X\nhttps://premlge.co/f/2qTPbF/3NSJK\n\nManage my
-  ECAL\nhttps://premlge.co/f/2gRXJs/3NSJK\n\n
 X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -9577,37 +9486,6 @@ DESCRIPTION:Premier League Matchweek 11 | Watch live on UK - Sky Sports. Li
  p Official Arsenal Merchandise\nhttps://premlge.co/f/2qTP8f/3NSJK\n\nDownlo
  ad the Arsenal App\nhttps://premlge.co/f/2qTP8h/3NSJK\n\nManage my ECAL\nht
  tps://premlge.co/f/2gRXzR/3NSJK\n\n
-X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
-LOCATION:Elland Road\, Leeds
-X-ECAL-SCHEDULE:
-DTSTART:20261128T150000Z
-DTEND:20261128T170000Z
-SUMMARY:⚡⚽️ Leeds United v Coventry City
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35075a54aa8848aa0a866e
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League Matchweek 12 | Listen live on BBC Radio 5 Live |
-  #LEECOV\n\n⚡ Coventry City have won just once in five Premier League awa
- y matches this season\, losing the other four and conceding 10 goals on the
-  road.\n\nDive into the latest news\, press conferences and the final injur
- y updates.\n\nMatch Preview and Lineups\nhttps://premlge.co/f/2gRXJB/3NSJK\
- n\nLatest Premier League News\nhttps://premlge.co/f/2yxRrV/3NSJK\n\nLatest 
- Leeds United News\nhttps://premlge.co/f/2qCw1Y/3NSJK\n\nLeeds United on X\n
- https://premlge.co/f/2gRXJQ/3NSJK\n\nLatest Coventry City News\nhttps://pre
- mlge.co/f/2gRXJY/3NSJK\n\nCoventry City on X\nhttps://premlge.co/f/2gRXK4/3
- NSJK\n\nManage my ECAL\nhttps://premlge.co/f/2gRXKy/3NSJK\n\n
 X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -9882,35 +9760,6 @@ DESCRIPTION:Premier League Matchweek 12 | Watch live on UK - Sky Sports. Li
  e.co/f/2gRXCh/3NSJK\n\nLatest Manchester City News\nhttps://premlge.co/f/2q
  CvZw/3NSJK\n\nManchester City on X\nhttps://premlge.co/f/2gRXCy/3NSJK\n\nMa
  nage my ECAL\nhttps://premlge.co/f/2gRXCQ/3NSJK\n\n
-X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
-LOCATION:The City Ground\, Nottingham
-X-ECAL-SCHEDULE:
-DTSTART:20261127T200000Z
-DTEND:20261127T220000Z
-SUMMARY:🟣⚽️ Nottingham Forest v Chelsea
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a35075a54aa8848aa0a8670
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:Premier League Matchweek 12 | Watch live on UK - Sky Sports. Li
- sten live on TalkSport | #FORCHE\n\nEverything you need to know from kickof
- f to the final whistle 👇\n\n▶️ Watch LIVE on UK - Sky Sports\nhttps:
- //premlge.co/f/2yBd4x/3NSJK\n\n📱 Matchday LIVE\nhttps://premlge.co/f/2gR
- XM4/3NSJK\n\nSee other Scores\nhttps://premlge.co/f/2yBd4y/3NSJK\n\nFollow 
- the match on Nottingham Forest X\nhttps://premlge.co/f/2gRXMj/3NSJK\n\nFoll
- ow the match on Chelsea X\nhttps://premlge.co/f/2gRXMy/3NSJK\n\nManage my E
- CAL\nhttps://premlge.co/f/2gRXMY/3NSJK\n\n
 X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -10197,6 +10046,149 @@ DESCRIPTION:Premier League Matchweek 13 | Watch live on UK - Sky Sports. Li
  lge.co/f/2gRXRn/3NSJK\n\nLatest Arsenal News\nhttps://premlge.co/f/2gRXRs/3
  NSJK\n\nArsenal on X\nhttps://premlge.co/f/2gRXRx/3NSJK\n\nManage my ECAL\n
  https://premlge.co/f/2gRXRT/3NSJK\n\n
+X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Elland Road\, Leeds
+X-ECAL-SCHEDULE:
+DTSTART:20261128T150000Z
+DTEND:20261128T170000Z
+SUMMARY:📰⚽️ Leeds United v Coventry City
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35075a54aa8848aa0a866e
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League Matchweek 12 | Listen live on BBC Radio 5 Live |
+  #LEECOV\n\n📰 Premier League injury news: Latest updates for all clubs\n
+ \nRead all about it 👇\nhttps://premlge.co/f/2yC33p/3NSJK\n\nLatest Premi
+ er League News\nhttps://premlge.co/f/2yxRrV/3NSJK\n\nLatest Leeds United Ne
+ ws\nhttps://premlge.co/f/2qCw1Y/3NSJK\n\nLeeds United on X\nhttps://premlge
+ .co/f/2gRXJQ/3NSJK\n\nLatest Coventry City News\nhttps://premlge.co/f/2gRXJ
+ Y/3NSJK\n\nCoventry City on X\nhttps://premlge.co/f/2gRXK4/3NSJK\n\nManage 
+ my ECAL\nhttps://premlge.co/f/2gRXKy/3NSJK\n\n
+X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Old Trafford\, Manchester
+X-ECAL-SCHEDULE:
+DTSTART:20261128T150000Z
+DTEND:20261128T170000Z
+SUMMARY:📰⚽️ Manchester United v Brentford
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35075a54aa8848aa0a866f
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League Matchweek 12 | Listen live on BBC Radio 5 Live |
+  #MUNBRE\n\n📰 Premier League Golden Boot 2026/27: Top Scorers and Rankin
+ gs\n\nRead all about it 👇\nhttps://premlge.co/f/2yC33q/3NSJK\n\nLatest P
+ remier League News\nhttps://premlge.co/f/2yxRpN/3NSJK\n\nLatest Manchester 
+ United News\nhttps://premlge.co/f/2qTPcc/3NSJK\n\nManchester United on X\nh
+ ttps://premlge.co/f/2qTPcj/3NSJK\n\nLatest Brentford News\nhttps://premlge.
+ co/f/2qTPcm/3NSJK\n\nBrentford on X\nhttps://premlge.co/f/2qTPcp/3NSJK\n\nM
+ anage my ECAL\nhttps://premlge.co/f/2gRXLK/3NSJK\n\n
+X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Portman Road\, Ipswich
+X-ECAL-SCHEDULE:
+DTSTART:20261128T173000Z
+DTEND:20261128T193000Z
+SUMMARY:📰⚽️ Ipswich Town v Aston Villa
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35075a54aa8848aa0a866d
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League Matchweek 12 | Watch live on UK - Sky Sports. Li
+ sten live on BBC Radio 5 Live | #IPSVIL\n\n📰 Ten KEY questions for Match
+ week 12's fixtures\n\nRead all about it 👇\nhttps://premlge.co/f/2yC33r/3
+ NSJK\n\nLatest Premier League News\nhttps://premlge.co/f/2yxRrt/3NSJK\n\nLa
+ test Ipswich Town News\nhttps://premlge.co/f/2qTPbw/3NSJK\n\nIpswich Town o
+ n X\nhttps://premlge.co/f/2gRXHR/3NSJK\n\nLatest Aston Villa News\nhttps://
+ premlge.co/f/2qTPbB/3NSJK\n\nAston Villa on X\nhttps://premlge.co/f/2qTPbF/
+ 3NSJK\n\nManage my ECAL\nhttps://premlge.co/f/2gRXJs/3NSJK\n\n
+X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Gtech Community Stadium\, Brentford
+X-ECAL-SCHEDULE:
+DTSTART:20261123T200000Z
+DTEND:20261123T220000Z
+SUMMARY:⚽️ Brentford v Everton
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35075954aa884dbe01992e
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Premier League Matchweek 11 | Watch live on UK - Sky Sports. Li
+ sten live on TalkSport | #BREEVE\n\nWatch Live\nhttps://premlge.co/f/2ydtV3
+ /3NSJK\n\nMatchday Live\nhttps://premlge.co/f/2gRXqn/3NSJK\n\nLatest Brentf
+ ord News\nhttps://premlge.co/f/2qCvXs/3NSJK\n\nBrentford on X\nhttps://prem
+ lge.co/f/2gRXqD/3NSJK\n\nLatest Everton News\nhttps://premlge.co/f/2qCvXz/3
+ NSJK\n\nEverton on X\nhttps://premlge.co/f/2gRXqX/3NSJK\n\nManage my ECAL\n
+ https://premlge.co/f/2gRXrc/3NSJK\n\n
+X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:The City Ground\, Nottingham
+X-ECAL-SCHEDULE:
+DTSTART:20261127T200000Z
+DTEND:20261127T220000Z
+SUMMARY:▶️⚽️ Nottingham Forest 3 - Chelsea 2
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a35075a54aa8848aa0a8670
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:The Drama doesn’t stop at the final whistle!\n\nDive back int
+ o the action! Catch every goal\, spectacular save\, and match highlight rig
+ ht here.\n\nWatch highlights on UK - Sky Sports\nhttps://premlge.co/f/2yC7K
+ j/3NSJK\n\nMatch Summary\nhttps://premlge.co/f/2gRXM4/3NSJK\n\nSee other Re
+ sults\nhttps://premlge.co/f/2yBd4y/3NSJK\n\nLatest Nottingham Forest News\n
+ https://premlge.co/f/2qCw2F/3NSJK\n\nLatest Chelsea News\nhttps://premlge.c
+ o/f/2qCw2J/3NSJK\n\nManage my ECAL\nhttps://premlge.co/f/2gRXMY/3NSJK\n\n
 X-ECAL-SCHEDULE:574cf4a5cfc62813000044a9
 BEGIN:VALARM
 TRIGGER:-PT15M
